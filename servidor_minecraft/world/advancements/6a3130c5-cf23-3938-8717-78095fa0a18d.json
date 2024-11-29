@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 06:29:06 +0000"
@@ -785,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2024-11-29 06:34:06 +0000"
@@ -884,6 +896,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-29 06:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:25 +0000"
     },
     "done": true
   },
@@ -1028,6 +1046,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:25 +0000"
     },
     "done": true
   },
@@ -1308,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-11-29 06:44:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 06:26:58 +0000"
@@ -1557,6 +1587,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-11-29 04:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2024-11-29 06:44:56 +0000"
     },
     "done": true
   },
@@ -1853,6 +1889,12 @@
       "has_bone": "2024-11-29 06:16:16 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-11-29 06:44:42 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {

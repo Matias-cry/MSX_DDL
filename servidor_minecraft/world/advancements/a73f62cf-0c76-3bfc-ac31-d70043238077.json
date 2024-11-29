@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 05:01:09 +0000"
@@ -797,9 +803,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2024-11-29 06:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 06:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:45 +0000"
     },
     "done": true
   },
@@ -889,6 +913,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-29 06:43:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2024-11-29 06:17:30 +0000"
@@ -910,6 +940,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-11-29 05:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:45 +0000"
     },
     "done": true
   },
@@ -1051,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-11-29 06:42:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 05:01:09 +0000"
@@ -1114,6 +1156,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-29 05:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 06:43:34 +0000"
     },
     "done": true
   },
@@ -1219,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2024-11-29 05:01:10 +0000"
@@ -1252,6 +1306,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 04:49:48 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 06:48:39 +0000"
     },
     "done": true
   },
@@ -1319,6 +1379,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-29 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
     },
     "done": true
   },
@@ -1400,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 06:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-11-29 06:25:07 +0000"
@@ -1415,6 +1487,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 05:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 06:48:39 +0000"
     },
     "done": true
   },
@@ -1682,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-29 04:47:03 +0000"
@@ -1727,6 +1811,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 05:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 06:43:09 +0000"
     },
     "done": true
   },
@@ -1899,6 +1989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-29 04:41:56 +0000"
@@ -2004,6 +2100,12 @@
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 06:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-29 06:48:39 +0000"
     },
     "done": true
   },
@@ -2176,6 +2278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 06:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-29 04:58:36 +0000"
@@ -2217,7 +2325,8 @@
       "cooked_porkchop": "2024-11-29 06:00:46 +0000",
       "cooked_mutton": "2024-11-29 06:30:56 +0000",
       "bread": "2024-11-29 05:16:45 +0000",
-      "suspicious_stew": "2024-11-29 04:52:15 +0000"
+      "suspicious_stew": "2024-11-29 04:52:15 +0000",
+      "glow_berries": "2024-11-29 06:49:30 +0000"
     },
     "done": false
   },
@@ -2248,6 +2357,12 @@
   "iceandfire:recipes/combat/tide_purple_boots": {
     "criteria": {
       "has_item": "2024-11-29 06:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-11-29 06:50:32 +0000"
     },
     "done": true
   },
@@ -2344,6 +2459,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-11-29 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-11-29 06:43:57 +0000"
     },
     "done": true
   },
