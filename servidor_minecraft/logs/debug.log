@@ -8191,3 +8191,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 06:27:24.220] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [29Nov2024 06:31:02.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Nov2024 06:31:02.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:36:02.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:36:02.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:36:30.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 53.500000, 98.000000, 70.500000]
+[29Nov2024 06:36:45.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Ice Bucket Challenge]
+[29Nov2024 06:36:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:37:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Ice Bucket Challenge]
+[29Nov2024 06:39:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Smashing Success]
+[29Nov2024 06:40:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Smashing Success]
+[29Nov2024 06:41:02.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:41:02.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:41:14.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 53.500000, 98.000000, 70.500000]
+[29Nov2024 06:41:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:41:50.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 215.500000, 64.000000, 36.500000]
+[29Nov2024 06:42:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:43:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 212.500000, 32.000000, 1097.500000]
+[29Nov2024 06:43:30.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
