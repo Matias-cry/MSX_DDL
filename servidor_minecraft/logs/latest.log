@@ -861,3 +861,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 08:37:28.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [29Nov2024 08:37:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Crops of the Wild]
 [29Nov2024 08:38:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Stone Age]
+[29Nov2024 08:39:06.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Hammer Time!]
+[29Nov2024 08:39:39.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 08:41:34.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 08:42:06.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 08:42:24.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/104, l='ServerLevel[world]', x=71.48, y=76.00, z=104.53] died, message: 'Villager was slain by Zombie'
+[29Nov2024 08:42:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Acquire Hardware]
+[29Nov2024 08:43:40.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[29Nov2024 08:43:40.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[29Nov2024 08:44:46.172] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 08:45:23.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 08:45:23.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[29Nov2024 08:45:31.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was mauled by Necromancer's undead
+[29Nov2024 08:46:15.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55464] logged in with entity id 4085 at (-88.84255012680066, 79.0, 639.8825409033384)
+[29Nov2024 08:46:16.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[29Nov2024 08:46:18.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[29Nov2024 08:47:27.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [No Longer Short-Staffed]
+[29Nov2024 08:48:04.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was mauled by Necromancer's undead
+[29Nov2024 08:49:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Cosmic Discoverer]
+[29Nov2024 08:49:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was mauled by Necromancer's undead
