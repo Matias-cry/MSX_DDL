@@ -2119,3 +2119,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 05:17:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has reached the goal [Cosmic Discoverer]
 [29Nov2024 05:20:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Suit Up]
 [29Nov2024 05:20:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Vindicator
+[29Nov2024 05:24:46.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was doomed to fall by Aetherial Glaze
+[29Nov2024 05:25:15.571] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 05:25:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:26:18.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:26:21.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was caught by Archevoker's fangs
+[29Nov2024 05:26:23.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was eviscerated by Archevoker's vexes
+[29Nov2024 05:26:24.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:26:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:26:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was eviscerated by Archevoker's vexes
+[29Nov2024 05:26:44.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 05:26:44.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:26:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Tools of the Trade]
+[29Nov2024 05:27:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Tools of the Trade]
+[29Nov2024 05:27:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Premium!]
+[29Nov2024 05:27:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Suit Up]
+[29Nov2024 05:27:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Premium!]
+[29Nov2024 05:29:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has reached the goal [Quaint Scribe]
+[29Nov2024 05:30:28.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Vindicator
+[29Nov2024 05:30:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:31:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Diamonds!]
+[29Nov2024 05:32:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 05:32:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
