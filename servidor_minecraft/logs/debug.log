@@ -6839,3 +6839,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 21:41:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> la barrita azul
 [29Nov2024 21:41:47.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> celeste
 [29Nov2024 21:41:55.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> seguro es mana
+[29Nov2024 21:42:09.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13440ms or 268 ticks behind
+[29Nov2024 21:42:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> es mana
+[29Nov2024 21:42:25.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> ah dale
+[29Nov2024 21:42:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> saben como
+[29Nov2024 21:42:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has reached the goal [Cosmic Discoverer]
+[29Nov2024 21:42:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 21:42:29.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOLA<--[HERE]
+[29Nov2024 21:42:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Getting an Upgrade]
+[29Nov2024 21:42:34.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> se desactiva la mamada esa q sale arriba ala izquierda?
+[29Nov2024 21:42:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <3mptySh3ll> a la*
+[29Nov2024 21:42:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has completed the challenge [Find: Mushroom abandonned]
+[29Nov2024 21:42:45.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20977ms or 419 ticks behind
+[29Nov2024 21:43:08.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7414ms or 148 ticks behind
+[29Nov2024 21:43:27.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4812ms or 96 ticks behind
+[29Nov2024 21:43:47.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4306ms or 86 ticks behind
+[29Nov2024 21:44:06.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[29Nov2024 21:44:54.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[29Nov2024 21:45:19.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[29Nov2024 21:45:40.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Nov2024 21:46:10.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[29Nov2024 21:46:19.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:46:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Guardian
+[29Nov2024 21:46:28.968] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 21:46:30.849] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 21:46:32.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[29Nov2024 21:46:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -399.500000, 45.000000, 252.500000]
+[29Nov2024 21:46:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> OE QUE ROTO
+[29Nov2024 21:46:49.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> XD
+[29Nov2024 21:46:50.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
+[29Nov2024 21:46:58.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> me encontre mordekair
+[29Nov2024 21:47:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> mordekaiser
+[29Nov2024 21:47:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Free Willy]
+[29Nov2024 21:47:14.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> si le doy una semilla canta y me marca la ubicacion de los enemigos
+[29Nov2024 21:47:21.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 21:47:23.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 21:47:23.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 21:47:35.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Stone Age]
+[29Nov2024 21:47:39.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[29Nov2024 21:47:46.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Getting an Upgrade]
+[29Nov2024 21:48:19.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:48:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Monster Hunter]
+[29Nov2024 21:48:44.507] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[29Nov2024 21:49:06.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[29Nov2024 21:50:23.781] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:50:52.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:51:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Tools of the Trade]
+[29Nov2024 21:51:38.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Crops of the Wild]
+[29Nov2024 21:52:28.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 21:52:28.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
