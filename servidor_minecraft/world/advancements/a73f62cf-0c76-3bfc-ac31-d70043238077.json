@@ -704,10 +704,12 @@
     "criteria": {
       "cooked_porkchop": "2024-11-29 06:00:46 +0000",
       "cooked_mutton": "2024-11-29 06:30:56 +0000",
+      "apple": "2024-11-29 10:05:26 +0000",
       "bread": "2024-11-29 05:16:45 +0000",
       "suspicious_stew": "2024-11-29 04:52:15 +0000",
       "rotten_flesh": "2024-11-29 06:58:02 +0000",
       "glow_berries": "2024-11-29 06:49:30 +0000",
+      "golden_carrot": "2024-11-29 09:56:15 +0000",
       "cooked_salmon": "2024-11-29 06:51:25 +0000"
     },
     "done": false
@@ -3170,9 +3172,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2024-11-29 09:29:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-11-29 09:39:41 +0000"
     },
     "done": true
   },
@@ -3188,15 +3208,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-11-29 09:39:41 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-11-29 08:50:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-11-29 08:38:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 09:39:41 +0000"
     },
     "done": true
   },
@@ -3224,6 +3274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 10:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 08:38:28 +0000"
@@ -3239,6 +3295,18 @@
   "choups_drakvyrn_mod:crystal_powder_advancement": {
     "criteria": {
       "crystal_powder_advancement_0": "2024-11-29 09:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-11-29 09:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
     },
     "done": true
   },
@@ -3302,6 +3370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:53:05 +0000"
@@ -3332,6 +3406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 10:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 08:38:28 +0000"
@@ -3356,6 +3436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:53:05 +0000"
@@ -3365,6 +3451,24 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-11-29 08:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-11-29 09:39:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-29 09:45:08 +0000"
     },
     "done": true
   },
@@ -3380,9 +3484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-11-29 08:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
     },
     "done": true
   },
@@ -3410,6 +3526,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-11-29 09:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-11-29 09:39:42 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_stove": {
     "criteria": {
       "has_nether_brick": "2024-11-29 08:37:37 +0000"
@@ -3434,6 +3562,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-29 09:41:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-11-29 09:08:38 +0000"
@@ -3452,6 +3586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-11-29 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:53:05 +0000"
@@ -3464,6 +3604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-11-29 10:04:09 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-11-29 08:50:06 +0000"
@@ -3473,6 +3619,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-29 08:38:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-11-29 09:41:40 +0000"
     },
     "done": true
   },

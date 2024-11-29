@@ -969,3 +969,119 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 09:29:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was reduced to atoms
 [29Nov2024 09:29:44.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! 0.0,18.0,0.0
 [29Nov2024 09:29:45.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[29Nov2024 09:30:04.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Spectator Mode]
+[29Nov2024 09:30:09.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Nov2024 09:30:16.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[29Nov2024 09:30:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> REPLICA
+[29Nov2024 09:30:34.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> REPLICA
+[29Nov2024 09:30:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> quedo hecha mierda mi armadura
+[29Nov2024 09:30:54.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Creative Mode]
+[29Nov2024 09:30:56.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[29Nov2024 09:30:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> saquense otra no mas
+[29Nov2024 09:31:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Survival Mode]
+[29Nov2024 09:31:02.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI fell from a high place
+[29Nov2024 09:31:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[29Nov2024 09:31:43.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> oe
+[29Nov2024 09:31:48.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> meto un kill barra all
+[29Nov2024 09:31:53.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> para borrar todos los bloques del suelo
+[29Nov2024 09:31:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> porque laguean
+[29Nov2024 09:32:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed 1090 entities]
+[29Nov2024 09:32:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 09:32:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[29Nov2024 09:33:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> si dale
+[29Nov2024 09:33:18.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> una mas en el overwolrd?
+[29Nov2024 09:33:19.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> pero asi
+[29Nov2024 09:33:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> de lejitos
+[29Nov2024 09:33:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[29Nov2024 09:33:33.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[29Nov2024 09:33:36.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> no
+[29Nov2024 09:33:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> ya no
+[29Nov2024 09:33:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ya ahora la casa
+[29Nov2024 09:33:47.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> hay que hacer la casa
+[29Nov2024 09:33:55.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ahi hay huevo
+[29Nov2024 09:34:02.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> aca no mas p
+[29Nov2024 09:34:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ahi hay huevo
+[29Nov2024 09:34:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> ah ya
+[29Nov2024 09:34:20.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> y si eclosiono el huevo
+[29Nov2024 09:35:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Purple Drakvyrn
+[29Nov2024 09:35:06.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[29Nov2024 09:35:33.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Purple Drakvyrn
+[29Nov2024 09:35:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has completed the challenge [Drakvyrn Slayer]
+[29Nov2024 09:35:37.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 09:35:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Drakvyrn Scale]
+[29Nov2024 09:35:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Drakvyrn Bone]
+[29Nov2024 09:35:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Ignition Breath Ball]
+[29Nov2024 09:35:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> pero aprende a domesticarlo
+[29Nov2024 09:36:52.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> voy a reiniciar
+[29Nov2024 09:37:22.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[29Nov2024 09:37:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[29Nov2024 09:37:22.135] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 09:37:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Creative Mode]
+[29Nov2024 09:37:49.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Gave 1 [Nuclear Bomb] to KAMAIROKI]
+[29Nov2024 09:38:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[29Nov2024 09:38:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Spectator Mode]
+[29Nov2024 09:38:40.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! 0.0,68.45689454295702,0.0
+[29Nov2024 09:38:41.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! 0.0,37.14711314198571,0.0
+[29Nov2024 09:38:42.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[29Nov2024 09:38:45.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[29Nov2024 09:39:04.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7395ms or 147 ticks behind
+[29Nov2024 09:39:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[29Nov2024 09:39:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Survival Mode]
+[29Nov2024 09:40:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Creative Mode]
+[29Nov2024 09:40:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[29Nov2024 09:40:08.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Nov2024 09:40:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[29Nov2024 09:41:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Amateur Archaeologist]
+[29Nov2024 09:42:00.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set the time to 1000]
+[29Nov2024 09:42:38.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 09:42:38.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[29Nov2024 09:44:15.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo succumbed to radiation poisoning
+[29Nov2024 09:45:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Pic-A-Nic Basket?]
+[29Nov2024 09:46:17.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=69, z=104} BlockPos{x=-24, y=67, z=103}
+[29Nov2024 09:46:52.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-11, y=69, z=112} BlockPos{x=-11, y=67, z=113}
+[29Nov2024 09:48:02.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:36758] logged in with entity id 25037 at (0.7614256829135883, 104.0, -36.9676573990707)
+[29Nov2024 09:48:02.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[29Nov2024 09:48:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[29Nov2024 09:49:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 09:50:32.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Gave 1 [Block of Gold] to KAMAIROKI]
+[29Nov2024 09:51:19.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3, y=69, z=107} BlockPos{x=-3, y=67, z=106}
+[29Nov2024 09:52:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[29Nov2024 09:52:42.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Ancient Ring]
+[29Nov2024 09:53:19.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:53:38.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[29Nov2024 09:54:16.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Nov2024 09:54:43.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 215.500000, 64.000000, 36.500000]
+[29Nov2024 09:54:46.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:54:54.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 09:55:47.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[29Nov2024 09:55:54.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:56:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to KAMAIROKI]
+[29Nov2024 09:57:44.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to KAMAIROKI]
+[29Nov2024 09:58:02.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 09:58:29.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was blown up by Creeper
+[29Nov2024 09:59:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set the time to 1000]
+[29Nov2024 10:00:36.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 213.500000, 32.000000, 1097.500000]
+[29Nov2024 10:00:40.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Nov2024 10:01:44.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[29Nov2024 10:01:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[29Nov2024 10:02:18.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Gave 3 [Blank Runestone] to Crying0bsidian]
+[29Nov2024 10:02:44.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Drakvyrn Bone]
+[29Nov2024 10:02:44.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Ignition Breath Ball]
+[29Nov2024 10:02:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Drakvyrn Scale]
+[29Nov2024 10:02:47.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [No Longer Short-Staffed]
+[29Nov2024 10:06:05.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[29Nov2024 10:06:28.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=80, z=990} BlockPos{x=117, y=79, z=989}
+[29Nov2024 10:06:28.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[29Nov2024 10:06:48.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[29Nov2024 10:07:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set the weather to clear]
+[29Nov2024 10:07:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 53.500000, 98.000000, 70.500000]
+[29Nov2024 10:07:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -132.500000, 125.000000, -78.500000]
+[29Nov2024 10:07:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -3.500000, 138.000000, -5.500000]
+[29Nov2024 10:07:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[29Nov2024 10:07:45.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 163.000000, 68.000000, 2366.000000]
+[29Nov2024 10:07:47.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[29Nov2024 10:08:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -43.000000, 71.000000, 2303.000000]
+[29Nov2024 10:08:10.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7675ms or 153 ticks behind
+[29Nov2024 10:08:32.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7585ms or 151 ticks behind
+[29Nov2024 10:09:39.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Flowers of the Savanna]
+[29Nov2024 10:10:08.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
