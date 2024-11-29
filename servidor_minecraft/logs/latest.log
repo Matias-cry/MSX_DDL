@@ -2413,3 +2413,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 08:01:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [A Terrible Fortress]
 [29Nov2024 08:01:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [A Terrible Fortress]
 [29Nov2024 08:03:23.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 08:05:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [This is NOT a Drink!]
+[29Nov2024 08:06:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian burned to death
+[29Nov2024 08:06:15.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -8.500000, 67.000000, 554.500000]
+[29Nov2024 08:06:32.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[29Nov2024 08:06:32.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 08:06:51.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 08:07:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Into Fire]
+[29Nov2024 08:09:22.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[29Nov2024 08:09:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[29Nov2024 08:10:11.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:53424] logged in with entity id 58646 at (28.69999998807907, 67.0, 562.9830481877228)
+[29Nov2024 08:10:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[29Nov2024 08:11:45.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was burnt to a crisp whilst fighting Ghast
+[29Nov2024 08:12:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 08:13:02.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=73, z=562} BlockPos{x=11, y=73, z=562}
+[29Nov2024 08:14:51.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

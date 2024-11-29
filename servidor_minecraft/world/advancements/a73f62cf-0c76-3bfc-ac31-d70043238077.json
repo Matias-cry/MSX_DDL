@@ -2663,9 +2663,16 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-11-29 07:56:53 +0000",
+      "minecraft:nether_wastes": "2024-11-29 08:01:47 +0000",
       "minecraft:warped_forest": "2024-11-29 07:59:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-11-29 08:04:59 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
@@ -2703,9 +2710,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-11-29 08:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 07:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-29 08:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 08:01:52 +0000"
     },
     "done": true
   },
@@ -2727,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/barometer": {
     "criteria": {
       "has_redstone": "2024-11-29 07:34:26 +0000"
@@ -2736,6 +2779,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-11-29 07:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 08:01:57 +0000"
     },
     "done": true
   },
@@ -2787,6 +2836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-11-29 08:01:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-11-29 07:15:54 +0000"
@@ -2835,6 +2890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-11-29 07:16:40 +0000"
@@ -2862,6 +2923,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-11-29 07:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
     },
     "done": true
   },
@@ -2943,6 +3010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2024-11-29 07:16:40 +0000"
@@ -2952,6 +3025,18 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-29 07:34:26 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-11-29 08:01:57 +0000"
     },
     "done": true
   },
@@ -2991,6 +3076,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 08:07:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-11-29 07:09:41 +0000"
@@ -3003,9 +3100,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-11-29 08:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/food/nether_skewer": {
     "criteria": {
       "has_propelpearl": "2024-11-29 07:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-11-29 08:10:15 +0000"
     },
     "done": true
   },
@@ -3015,9 +3130,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-11-29 08:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-11-29 07:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 08:07:48 +0000"
     },
     "done": true
   },
