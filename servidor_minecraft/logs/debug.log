@@ -7186,3 +7186,46 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 09:17:56.662] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
 [29Nov2024 09:17:58.185] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
 [29Nov2024 09:18:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Monster Hunter]
+[29Nov2024 09:21:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Drillmaster Extraordinaire]
+[29Nov2024 09:22:13.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 09:22:13.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 09:22:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Drave Slayer]
+[29Nov2024 09:22:47.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Intact Geode !]
+[29Nov2024 09:22:47.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Crystal Powder !]
+[29Nov2024 09:24:56.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:25:09.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:25:56.071] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:27:13.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> es hora de subir
+[29Nov2024 09:27:13.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 09:27:13.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 09:27:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> hay que
+[29Nov2024 09:27:21.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> detonar una bomba nuclear aca
+[29Nov2024 09:27:24.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> opiniones
+[29Nov2024 09:27:29.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> yo voto que si
+[29Nov2024 09:27:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> para ver las repercusiones de lo que hace
+[29Nov2024 09:28:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> el silencio tambien es una respuesta
+[29Nov2024 09:28:34.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> se considerara voto positivo unanime
+[29Nov2024 09:28:35.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> 1
+[29Nov2024 09:28:36.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> 2
+[29Nov2024 09:28:37.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> 3
+[29Nov2024 09:28:37.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:28:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> oe
+[29Nov2024 09:28:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Gave 1 [Flint and Steel] to KAMAIROKI]
+[29Nov2024 09:28:51.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> que te pasa
+[29Nov2024 09:28:56.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> muevete
+[29Nov2024 09:29:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ya mira
+[29Nov2024 09:29:04.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> la bomba
+[29Nov2024 09:29:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Gave 1 [Nuclear Bomb] to KAMAIROKI]
+[29Nov2024 09:29:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> si o no
+[29Nov2024 09:29:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> si
+[29Nov2024 09:29:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> o no
+[29Nov2024 09:29:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [We'll Meet Again]
+[29Nov2024 09:29:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was atomized
+[29Nov2024 09:29:42.876] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful KAMAIROKI
+[29Nov2024 09:29:42.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was reduced to atoms
+[29Nov2024 09:29:42.877] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 09:29:42.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was reduced to atoms
+[29Nov2024 09:29:42.878] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 09:29:44.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! 0.0,18.0,0.0
+[29Nov2024 09:29:45.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[29Nov2024 09:29:54.340] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa KAMAIROKI

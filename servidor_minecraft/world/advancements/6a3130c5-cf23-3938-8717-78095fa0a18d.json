@@ -3363,9 +3363,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-11-29 09:19:24 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-29 09:19:24 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:aetherium_advanchement": {
     "criteria": {
       "aetherium_advanchement": "2024-11-29 09:10:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-11-29 09:19:24 +0000"
     },
     "done": true
   },
