@@ -8638,3 +8638,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 07:24:31.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Nov2024 07:24:31.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Nov2024 07:24:31.796] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Nov2024 07:25:17.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 07:25:36.480] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Nov2024 07:25:36.482] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Nov2024 07:26:14.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=123, z=2965} BlockPos{x=-7, y=122, z=2964}
+[29Nov2024 07:26:23.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:26:23.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 07:27:14.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Can Someone Ventilate]
+[29Nov2024 07:27:20.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 07:27:20.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 07:27:21.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 07:29:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian fell from a high place
+[29Nov2024 07:29:13.044] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 07:29:17.903] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 07:29:20.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 07:31:23.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 07:31:23.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 07:31:29.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was doomed to fall by Cyclops
+[29Nov2024 07:31:29.806] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 07:31:31.318] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 07:31:34.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 07:31:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was doomed to fall by Cyclops
+[29Nov2024 07:31:34.440] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 07:31:37.160] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 07:31:38.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 07:31:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was doomed to fall by Cyclops
+[29Nov2024 07:31:40.844] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 07:31:44.144] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 07:31:45.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 07:31:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Cyclops
+[29Nov2024 07:31:51.580] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 07:31:53.015] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 07:31:53.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 07:31:56.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Cyclops
+[29Nov2024 07:31:56.129] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 07:31:57.710] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 07:31:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 07:32:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell from a high place
+[29Nov2024 07:32:05.411] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 07:32:07.750] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 07:32:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 07:32:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [My Name is Nobody]
