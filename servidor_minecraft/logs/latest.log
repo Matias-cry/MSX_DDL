@@ -1015,3 +1015,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 22:09:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
 [29Nov2024 22:11:37.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [29Nov2024 22:12:23.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/22252, l='ServerLevel[world]', x=101.70, y=74.41, z=167.53] died, message: 'Armorer was slain by Zombie'
+[29Nov2024 22:22:56.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Disconnected
+[29Nov2024 22:22:56.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
