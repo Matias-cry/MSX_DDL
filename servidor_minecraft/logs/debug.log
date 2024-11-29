@@ -8097,3 +8097,97 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 06:11:23.729] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Nov2024 06:11:23.729] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Nov2024 06:12:23.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Take Aim]
+[29Nov2024 06:13:16.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Nov2024 06:14:14.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:14:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:14:29.182] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:14:30.721] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:14:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:14:50.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:14:50.416] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:14:51.972] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:14:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:14:57.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:14:57.929] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:15:00.162] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:15:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:15:03.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:15:03.231] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:15:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:15:04.811] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:15:04.827] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:15:05.647] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:15:05.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:15:06.328] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:15:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:15:10.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[29Nov2024 06:15:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:15:13.583] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:15:15.758] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:15:16.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:15:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:15:24.526] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:15:25.909] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:15:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:15:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:15:29.260] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:15:33.490] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:15:34.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:15:34.194] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:15:34.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:15:35.767] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:15:36.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:15:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:15:37.714] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:15:40.686] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:15:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:15:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:15:45.912] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:15:48.354] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:15:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:16:00.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:16:00.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:16:00.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:16:00.889] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:16:02.241] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:16:03.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:16:10.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:16:10.342] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:16:11.667] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:16:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:16:25.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:16:25.598] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:16:26.866] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:16:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:16:40.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:16:40.629] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:16:42.136] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:16:42.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:16:42.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:16:56.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:16:56.028] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:16:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Sea Serpent
+[29Nov2024 06:16:56.825] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 06:17:02.294] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:17:02.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:17:03.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:17:05.108] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 06:17:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 06:17:07.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Nov2024 06:17:08.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Sea Serpent
+[29Nov2024 06:17:08.191] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 06:17:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Sea? Not a Problem]
+[29Nov2024 06:17:09.949] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 06:17:11.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:20:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 06:21:02.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:21:02.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:21:19.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:21:52.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 06:24:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has reached the goal [Crystal Pioneer]
+[29Nov2024 06:25:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Crystal Pioneer]
+[29Nov2024 06:26:02.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:26:02.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 06:27:24.220] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 06:31:02.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 06:31:02.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
