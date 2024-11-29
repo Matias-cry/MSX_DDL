@@ -904,3 +904,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 08:55:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Sneak 100]
 [29Nov2024 08:55:31.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
 [29Nov2024 08:58:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was obliterated by a sonically-charged shriek
+[29Nov2024 08:59:41.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Nov2024 09:00:12.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 09:00:39.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Zombie
+[29Nov2024 09:02:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 09:05:17.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Applied effect Stunned to Crying0bsidian]
+[29Nov2024 09:05:21.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Hammer Time!]
+[29Nov2024 09:05:26.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has reached the goal [Hammer Time!]
+[29Nov2024 09:06:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -133.500000, 125.000000, -79.500000]
+[29Nov2024 09:06:17.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:06:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> }
+[29Nov2024 09:06:52.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[29Nov2024 09:06:52.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[29Nov2024 09:07:36.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 09:07:38.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Take Aim]
+[29Nov2024 09:08:19.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:49696] logged in with entity id 9828 at (-132.42720143580428, 125.0, -77.60805392556387)
+[29Nov2024 09:08:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[29Nov2024 09:09:34.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Diamonds!]
+[29Nov2024 09:10:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> se me cayo discord
+[29Nov2024 09:10:12.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> nos dimos cuenta
+[29Nov2024 09:10:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Hidden in the Skies]
+[29Nov2024 09:11:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian fell from a high place
+[29Nov2024 09:12:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI fell from a high place
+[29Nov2024 09:12:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[29Nov2024 09:12:46.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Isn't It Iron Pick]
+[29Nov2024 09:12:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to KAMAIROKI]
+[29Nov2024 09:15:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to KAMAIROKI]
+[29Nov2024 09:17:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was doomed to fall by Crying0bsidian
+[29Nov2024 09:17:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[29Nov2024 09:17:56.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell from a high place
+[29Nov2024 09:18:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Monster Hunter]

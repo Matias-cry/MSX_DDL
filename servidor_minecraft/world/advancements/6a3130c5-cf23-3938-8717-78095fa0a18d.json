@@ -3333,12 +3333,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-11-29 08:55:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:54:17 +0000"
@@ -3354,6 +3348,24 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 08:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-29 08:55:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:hammer_time": {
+    "criteria": {
+      "hammer_time": "2024-11-29 09:05:26 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:aetherium_advanchement": {
+    "criteria": {
+      "aetherium_advanchement": "2024-11-29 09:10:20 +0000"
     },
     "done": true
   },
