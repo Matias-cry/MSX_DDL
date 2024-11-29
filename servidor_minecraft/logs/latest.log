@@ -2168,3 +2168,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 05:48:45.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
 [29Nov2024 05:48:47.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Who You Gonna Call?]
 [29Nov2024 05:48:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:53:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Ancient Knight
+[29Nov2024 05:53:23.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:55:07.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:55:14.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:57:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Into Fire]
+[29Nov2024 05:57:54.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
