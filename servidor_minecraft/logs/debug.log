@@ -8000,3 +8000,65 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 05:31:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Diamonds!]
 [29Nov2024 05:32:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Nov2024 05:32:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[29Nov2024 05:35:31.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Not Today, Thank You]
+[29Nov2024 05:35:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Ravager
+[29Nov2024 05:35:37.726] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 05:35:39.081] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 05:35:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:35:47.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:35:47.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 05:36:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Vex
+[29Nov2024 05:36:25.477] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful Crying0bsidian
+[29Nov2024 05:36:27.005] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa Crying0bsidian
+[29Nov2024 05:36:28.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:37:13.757] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[29Nov2024 05:37:19.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Vex
+[29Nov2024 05:37:19.157] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 05:37:20.868] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 05:37:23.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -6.500000, 97.000000, 3.500000]
+[29Nov2024 05:37:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 228.500000, 95.000000, 43.500000]
+[29Nov2024 05:37:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 244.500000, 64.000000, 46.500000]
+[29Nov2024 05:39:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Mine? Mine? Mine?]
+[29Nov2024 05:39:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Mine? Mine? Mine?]
+[29Nov2024 05:39:45.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Ol' Betsy]
+[29Nov2024 05:39:52.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Ol' Betsy]
+[29Nov2024 05:40:39.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was killed
+[29Nov2024 05:40:39.337] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[29Nov2024 05:40:39.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed marzuyo]
+[29Nov2024 05:40:40.996] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
+[29Nov2024 05:40:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:40:47.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:40:47.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 05:41:47.478] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:47.489] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:41:47.842] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:47.853] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=93, z=384}
+[29Nov2024 05:41:47.853] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:41:47.859] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=162, y=79, z=372}
+[29Nov2024 05:41:47.860] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=175, y=79, z=366}
+[29Nov2024 05:41:47.860] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=175, y=79, z=379}
+[29Nov2024 05:41:51.130] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:51.177] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:41:51.191] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=182, y=79, z=366}
+[29Nov2024 05:41:53.596] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:53.598] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:41:54.799] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:54.813] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=173, y=93, z=384}
+[29Nov2024 05:41:54.814] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:41:57.391] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=176, y=98, z=352}
+[29Nov2024 05:41:57.394] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=153, y=86, z=389}
+[29Nov2024 05:43:18.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Pic-A-Nic Basket?]
+[29Nov2024 05:43:18.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Take Aim]
+[29Nov2024 05:45:41.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 05:45:46.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 05:45:47.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:45:47.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 05:47:40.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 05:47:44.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[29Nov2024 05:48:10.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[29Nov2024 05:48:27.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[29Nov2024 05:48:45.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[29Nov2024 05:48:47.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Who You Gonna Call?]
+[29Nov2024 05:48:56.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 05:50:56.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:50:56.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
