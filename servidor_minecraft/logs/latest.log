@@ -2395,3 +2395,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 07:32:05.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell from a high place
 [29Nov2024 07:32:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
 [29Nov2024 07:32:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [My Name is Nobody]
+[29Nov2024 07:37:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[29Nov2024 07:38:41.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [What a Deal!]
+[29Nov2024 07:43:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Quaint Scribe]
