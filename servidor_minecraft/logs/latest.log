@@ -1006,3 +1006,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 22:00:53.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=66, z=114} BlockPos{x=-23, y=65, z=113}
 [29Nov2024 22:00:53.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=66, z=114} BlockPos{x=-23, y=65, z=113}
 [29Nov2024 22:00:53.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=66, z=114} BlockPos{x=-23, y=65, z=113}
+[29Nov2024 22:05:17.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-22, y=66, z=103} BlockPos{x=-5, y=66, z=129}
+[29Nov2024 22:07:31.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
+[29Nov2024 22:07:31.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[29Nov2024 22:08:31.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3mptySh3ll[/[::1]:60118] logged in with entity id 28361 at (332.30000001192093, 101.0, 60.69999998807907)
+[29Nov2024 22:08:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
+[29Nov2024 22:09:31.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
+[29Nov2024 22:09:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[29Nov2024 22:11:37.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 22:12:23.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/22252, l='ServerLevel[world]', x=101.70, y=74.41, z=167.53] died, message: 'Armorer was slain by Zombie'
