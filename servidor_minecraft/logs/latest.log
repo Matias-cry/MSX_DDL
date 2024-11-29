@@ -880,3 +880,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 08:48:04.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was mauled by Necromancer's undead
 [29Nov2024 08:49:00.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Cosmic Discoverer]
 [29Nov2024 08:49:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was mauled by Necromancer's undead
+[29Nov2024 08:49:56.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30760ms or 615 ticks behind
+[29Nov2024 08:50:04.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI lost connection: You logged in from another location
+[29Nov2024 08:50:04.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI left the game
+[29Nov2024 08:50:05.053] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 08:50:05.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KAMAIROKI[/[::1]:47600] logged in with entity id 5175 at (-1.3615734418633307, 97.0, 4.587465468502922)
+[29Nov2024 08:50:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI joined the game
+[29Nov2024 08:50:05.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: You logged in from another location
+[29Nov2024 08:50:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[29Nov2024 08:50:05.566] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 08:50:05.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:47602] logged in with entity id 5185 at (-41.43146523709858, 36.0, 5053.5)
+[29Nov2024 08:50:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[29Nov2024 08:50:49.499] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 08:51:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Ice Bucket Challenge]
+[29Nov2024 08:52:18.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[29Nov2024 08:52:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [It Spreads]
+[29Nov2024 08:53:23.408] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 08:53:29.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Nov2024 08:53:32.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Sneak 100]
+[29Nov2024 08:54:32.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 08:54:35.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [I Am Become Death]
+[29Nov2024 08:54:35.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Gave 1 [Nuclear Bomb] to KAMAIROKI]
+[29Nov2024 08:55:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Sneak 100]
+[29Nov2024 08:55:31.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[29Nov2024 08:58:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was obliterated by a sonically-charged shriek
