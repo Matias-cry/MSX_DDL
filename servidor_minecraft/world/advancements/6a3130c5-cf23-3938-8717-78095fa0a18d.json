@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-29 07:54:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-11-29 07:02:40 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 05:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-29 07:52:57 +0000"
     },
     "done": true
   },
@@ -316,6 +328,13 @@
       "has_kelp": "2024-11-29 06:15:15 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-29 07:56:50 +0000",
+      "minecraft:warped_forest": "2024-11-29 07:59:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -539,6 +558,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 07:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-11-29 05:15:56 +0000"
@@ -692,6 +717,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-11-29 05:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-11-29 07:51:52 +0000"
     },
     "done": true
   },
@@ -949,6 +980,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-11-29 07:59:40 +0000",
       "minecraft:pillager": "2024-11-29 05:21:52 +0000",
       "minecraft:skeleton": "2024-11-29 06:16:16 +0000",
       "minecraft:spider": "2024-11-29 04:51:27 +0000",
@@ -1976,9 +2008,21 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-29 07:56:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-11-29 07:18:39 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2024-11-29 07:58:28 +0000"
     },
     "done": true
   },
@@ -2021,6 +2065,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-11-29 04:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 07:54:59 +0000"
     },
     "done": true
   },
@@ -2451,6 +2501,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2024-11-29 07:58:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-29 06:26:58 +0000"
@@ -2625,6 +2681,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-11-29 05:55:36 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2024-11-29 07:58:28 +0000"
     },
     "done": true
   },
@@ -2882,6 +2944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-11-29 07:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-11-29 04:43:20 +0000"
@@ -3011,6 +3079,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2024-11-29 04:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-11-29 07:53:52 +0000"
     },
     "done": true
   },

@@ -2404,3 +2404,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 07:53:34.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51243, l='ServerLevel[world]', x=62.39, y=78.00, z=3303.82] died, message: 'Villager was shot by Pillager'
 [29Nov2024 07:54:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Who is Cutting Onions?]
 [29Nov2024 07:55:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Who is Cutting Onions?]
+[29Nov2024 07:56:45.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [We Need to Go Deeper]
+[29Nov2024 07:56:49.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7483ms or 149 ticks behind
+[29Nov2024 07:56:53.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [We Need to Go Deeper]
+[29Nov2024 07:57:51.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 07:58:47.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 08:01:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Spooky Scary Skeleton]
+[29Nov2024 08:01:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [A Terrible Fortress]
+[29Nov2024 08:01:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [A Terrible Fortress]
+[29Nov2024 08:03:23.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

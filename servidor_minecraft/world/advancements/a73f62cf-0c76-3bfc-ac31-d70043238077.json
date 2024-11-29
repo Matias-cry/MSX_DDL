@@ -653,12 +653,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-29 05:32:59 +0000",
+      "minecraft:blaze": "2024-11-29 08:00:15 +0000",
       "minecraft:skeleton": "2024-11-29 05:12:42 +0000",
       "minecraft:ravager": "2024-11-29 05:35:40 +0000",
       "minecraft:vindicator": "2024-11-29 05:30:29 +0000",
       "minecraft:spider": "2024-11-29 05:12:31 +0000",
       "minecraft:creeper": "2024-11-29 04:51:58 +0000",
       "minecraft:evoker": "2024-11-29 05:37:13 +0000",
+      "minecraft:wither_skeleton": "2024-11-29 08:01:00 +0000",
       "minecraft:zombie": "2024-11-29 04:55:22 +0000",
       "minecraft:drowned": "2024-11-29 05:35:15 +0000"
     },
@@ -2610,15 +2612,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-29 07:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-11-29 07:01:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-29 07:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-11-29 07:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-11-29 07:54:01 +0000"
     },
     "done": true
   },
@@ -2639,6 +2659,13 @@
       "has_yellow_terracotta": "2024-11-29 07:02:01 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-29 07:56:53 +0000",
+      "minecraft:warped_forest": "2024-11-29 07:59:06 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
@@ -2661,6 +2688,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-11-29 07:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-29 07:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-11-29 07:52:51 +0000"
     },
     "done": true
   },
@@ -2862,15 +2901,33 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-29 07:56:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-11-29 07:18:28 +0000"
     },
     "done": true
   },
+  "nethersdelight:recipes/cooking/magma_gelatin": {
+    "criteria": {
+      "has_propelpearl": "2024-11-29 07:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-11-29 07:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-11-29 07:55:16 +0000"
     },
     "done": true
   },
@@ -2940,9 +2997,27 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/decorations/propelplant_torch": {
+    "criteria": {
+      "has_propelplant": "2024-11-29 07:58:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/nether_skewer": {
+    "criteria": {
+      "has_propelpearl": "2024-11-29 07:58:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2024-11-29 07:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-11-29 07:53:41 +0000"
     },
     "done": true
   },
