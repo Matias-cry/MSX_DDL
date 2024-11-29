@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-29 05:20:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 05:02:42 +0000"
@@ -71,9 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-29 05:15:56 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:ancient_elements": {
     "criteria": {
       "ancient_elements": "2024-11-29 04:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-29 05:12:38 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-11-29 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-11-29 05:20:21 +0000"
     },
     "done": true
   },
@@ -221,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-29 05:15:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2024-11-29 05:05:57 +0000"
@@ -248,6 +278,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-11-29 04:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-11-29 05:20:21 +0000"
     },
     "done": true
   },
@@ -374,6 +410,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-11-29 04:51:27 +0000",
+      "minecraft:creeper": "2024-11-29 05:13:24 +0000",
       "minecraft:zombie": "2024-11-29 04:50:53 +0000"
     },
     "done": false
@@ -393,6 +430,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 05:13:59 +0000"
     },
     "done": true
   },
@@ -438,6 +481,12 @@
     },
     "done": true
   },
+  "ancient_elements:cosmic_discoverer": {
+    "criteria": {
+      "cosmic_discoverer": "2024-11-29 05:17:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-11-29 04:46:08 +0000"
@@ -471,6 +520,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-29 04:42:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-11-29 05:19:58 +0000"
     },
     "done": true
   },
@@ -619,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 05:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-11-29 04:57:18 +0000"
@@ -676,6 +737,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:46:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 05:15:56 +0000"
     },
     "done": true
   },
@@ -748,6 +815,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-29 04:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-29 05:15:56 +0000"
     },
     "done": true
   },
@@ -911,6 +984,7 @@
     "criteria": {
       "minecraft:beach": "2024-11-29 04:45:10 +0000",
       "minecraft:river": "2024-11-29 04:45:31 +0000",
+      "minecraft:ocean": "2024-11-29 05:10:49 +0000",
       "minecraft:plains": "2024-11-29 04:36:19 +0000"
     },
     "done": false
@@ -921,9 +995,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-11-29 05:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-29 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-11-29 05:15:59 +0000"
     },
     "done": true
   },
@@ -965,8 +1051,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-11-29 05:19:50 +0000",
       "rotten_flesh": "2024-11-29 04:51:06 +0000",
-      "beetroot": "2024-11-29 04:51:41 +0000"
+      "beetroot": "2024-11-29 04:51:41 +0000",
+      "cooked_chicken": "2024-11-29 05:18:14 +0000"
     },
     "done": false
   },

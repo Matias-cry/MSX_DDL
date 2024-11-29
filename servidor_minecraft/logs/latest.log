@@ -2111,3 +2111,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Nov2024 05:09:31.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [29Nov2024 05:09:31.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [29Nov2024 05:09:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Isn't It Iron Pick]
+[29Nov2024 05:12:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Not Today, Thank You]
+[29Nov2024 05:14:09.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 05:16:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 05:16:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[29Nov2024 05:17:40.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Cosmic Discoverer]
+[29Nov2024 05:17:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has reached the goal [Cosmic Discoverer]
+[29Nov2024 05:20:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Suit Up]
+[29Nov2024 05:20:57.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Vindicator
