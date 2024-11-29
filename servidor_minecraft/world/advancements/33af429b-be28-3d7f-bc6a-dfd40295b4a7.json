@@ -1,4 +1,10 @@
 {
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-11-29 21:29:53 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:ancient_elements": {
     "criteria": {
       "ancient_elements": "2024-11-29 21:25:05 +0000"
@@ -17,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 21:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-11-29 21:28:03 +0000"
@@ -32,6 +44,18 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-11-29 21:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 21:29:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 21:29:53 +0000"
     },
     "done": true
   },
@@ -56,6 +80,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-29 21:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-29 21:29:56 +0000"
     },
     "done": true
   },
@@ -101,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 21:29:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-29 21:25:05 +0000"
@@ -113,12 +149,31 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 21:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 21:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-11-29 21:32:55 +0000",
       "minecraft:beach": "2024-11-29 21:27:58 +0000",
       "minecraft:river": "2024-11-29 21:28:27 +0000",
       "minecraft:flower_forest": "2024-11-29 21:29:07 +0000",
       "minecraft:plains": "2024-11-29 21:25:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2024-11-29 21:29:56 +0000"
     },
     "done": false
   },
