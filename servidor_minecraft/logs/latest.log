@@ -975,3 +975,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 06:04:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww was doomed to fall by Creeper
 [30Nov2024 06:07:25.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [30Nov2024 06:09:19.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 06:13:39.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[30Nov2024 06:13:57.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww has made the advancement [Alex's Caves]
+[30Nov2024 06:14:15.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 06:14:15.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[30Nov2024 06:14:37.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww has made the advancement [It Belongs in a Museum]
+[30Nov2024 06:15:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww was blown up by Creeper
+[30Nov2024 06:16:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> marcos
+[30Nov2024 06:16:12.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> que
+[30Nov2024 06:16:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> tu tienes op?
+[30Nov2024 06:16:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> no
+[30Nov2024 06:16:25.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> :(
+[30Nov2024 06:16:29.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> por?
+[30Nov2024 06:16:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> ya entrare cuando entre matias entonces
+[30Nov2024 06:16:51.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> matias esta en la llamada
+[30Nov2024 06:16:51.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> es q m mori y para llegar alla otra vez m voy a morir pq es un hueco hacia abajo muy grande
+[30Nov2024 06:16:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> le puedo preguntar
+[30Nov2024 06:16:58.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> porfi
+[30Nov2024 06:17:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> 1176.5 -35 103.5
+[30Nov2024 06:17:22.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> pero sino
+[30Nov2024 06:17:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> esas son las cordenadas
+[30Nov2024 06:17:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> agarra un bloque de agua
+[30Nov2024 06:17:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> un cubo
+[30Nov2024 06:17:43.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> tambien
+[30Nov2024 06:17:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dianww> entro en un ratito
+[30Nov2024 06:17:50.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> creo que matias te va a tpear
+[30Nov2024 06:18:02.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> dice "pero hay keep inventory
+[30Nov2024 06:18:08.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianww lost connection: Timed out
+[30Nov2024 06:18:08.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww left the game
+[30Nov2024 06:19:28.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
+[30Nov2024 06:19:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[30Nov2024 06:19:41.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Nov2024 06:19:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Nov2024 06:19:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Nov2024 06:19:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Nov2024 06:19:42.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Nov2024 06:19:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Nov2024 06:19:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Nov2024 06:19:42.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2024 06:19:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2024 06:19:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2024 06:19:42.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
