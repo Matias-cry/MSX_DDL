@@ -1060,3 +1060,72 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 04:06:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI joined the game
 [30Nov2024 04:10:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Splintering II]
 [30Nov2024 04:10:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Clash of the Titans]
+[30Nov2024 04:12:14.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30Nov2024 04:12:33.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[30Nov2024 04:12:37.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[30Nov2024 04:13:52.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Diamonds!]
+[30Nov2024 04:15:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Multi-Disciplined]
+[30Nov2024 04:15:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Tactical Fishing]
+[30Nov2024 04:15:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[30Nov2024 04:15:56.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI lost connection: You logged in from another location
+[30Nov2024 04:15:56.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI left the game
+[30Nov2024 04:15:56.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KAMAIROKI[/[::1]:40930] logged in with entity id 60011 at (-11.032432134559413, 59.0, 110.19832013389767)
+[30Nov2024 04:15:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI joined the game
+[30Nov2024 04:16:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Zombie
+[30Nov2024 04:18:02.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI lost connection: You logged in from another location
+[30Nov2024 04:18:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI left the game
+[30Nov2024 04:18:02.363] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 04:18:02.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KAMAIROKI[/[::1]:36992] logged in with entity id 61033 at (-7.543151104102508, 60.0, 122.86622933448702)
+[30Nov2024 04:18:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI joined the game
+[30Nov2024 04:18:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> para que sirve la sangre de dragon?
+[30Nov2024 04:18:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was cooked alive
+[30Nov2024 04:19:13.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> y tienen ustedes bastante sangre de dragon?
+[30Nov2024 04:19:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KAMAIROKI> t
+[30Nov2024 04:19:51.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed whilst fighting Crying0bsidian
+[30Nov2024 04:19:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Killed KAMAIROKI]
+[30Nov2024 04:20:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Creative Mode]
+[30Nov2024 04:21:01.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Gamerule keepInventory is now set to: false]
+[30Nov2024 04:21:04.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[30Nov2024 04:21:04.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Killed KAMAIROKI]
+[30Nov2024 04:21:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Gamerule keepInventory is now set to: true]
+[30Nov2024 04:21:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Set own game mode to Survival Mode]
+[30Nov2024 04:21:35.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> ya pusiste el keep inventory?
+[30Nov2024 04:22:37.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [It's About Drive, It's About Power]
+[30Nov2024 04:24:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Suit Up]
+[30Nov2024 04:26:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro tried to swim in lava
+[30Nov2024 04:27:55.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> donde estan?
+[30Nov2024 04:28:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> y donde queda
+[30Nov2024 04:29:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> tp ps
+[30Nov2024 04:29:36.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[30Nov2024 04:29:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> han pasado como 10 años de que juego minecraft y no se ver coordenadas
+[30Nov2024 04:30:16.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> 111 -15 no?
+[30Nov2024 04:30:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> ya
+[30Nov2024 04:30:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Mine? Mine? Mine?]
+[30Nov2024 04:31:37.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[30Nov2024 04:31:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [No Longer Short-Staffed]
+[30Nov2024 04:32:34.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
+[30Nov2024 04:32:51.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Nov2024 04:33:14.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Nov2024 04:33:33.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 04:33:35.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[30Nov2024 04:36:05.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> oe x 115 y z -15 no?
+[30Nov2024 04:36:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> si
+[30Nov2024 04:36:46.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no mentira
+[30Nov2024 04:37:59.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[30Nov2024 04:37:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Killed KAMAIROKI]
+[30Nov2024 04:38:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Spooky Scary Skeleton]
+[30Nov2024 04:38:13.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Postmortal]
+[30Nov2024 04:38:18.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[30Nov2024 04:38:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Killed KAMAIROKI]
+[30Nov2024 04:38:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> al fin pude ver las coordenadas
+[30Nov2024 04:38:43.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> OE EN 1 DIA PUDIERON TENRER TODO ESO?
+[30Nov2024 04:40:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Cover Me with Diamonds]
+[30Nov2024 04:40:44.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> DONDE
+[30Nov2024 04:40:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> oe verdad encontre 2 hojas
+[30Nov2024 04:41:00.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> bola de fuego
+[30Nov2024 04:41:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> y aumento caluroso
+[30Nov2024 04:41:10.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> si
+[30Nov2024 04:41:26.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> que pasa si uso la hoja?
+[30Nov2024 04:41:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> bueno se gasto
+[30Nov2024 04:42:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> manos voy a vivir con ustedes les ayudo porque me da flojera hacer una casa desde 0
+[30Nov2024 04:42:34.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> ya
