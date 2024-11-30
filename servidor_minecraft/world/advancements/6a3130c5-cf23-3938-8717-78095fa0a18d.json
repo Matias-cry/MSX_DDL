@@ -3747,6 +3747,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2024-11-30 03:21:48 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2024-11-30 03:11:53 +0000"
