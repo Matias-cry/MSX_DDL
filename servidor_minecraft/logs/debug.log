@@ -7508,3 +7508,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 06:01:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww joined the game
 [30Nov2024 06:01:07.084] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: welcome back dianww
 [30Nov2024 06:02:15.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianww moved too quickly! 9.531062011529912,3.0,-1.152614320077447
+[30Nov2024 06:03:48.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 06:03:48.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 06:04:29.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 06:04:29.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[30Nov2024 06:04:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww was doomed to fall by Creeper
+[30Nov2024 06:04:55.657] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful dianww
+[30Nov2024 06:04:59.015] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa dianww
+[30Nov2024 06:07:25.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[30Nov2024 06:08:50.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 06:08:50.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 06:09:19.086] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
