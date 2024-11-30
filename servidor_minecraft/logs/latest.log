@@ -936,3 +936,27 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 05:42:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> pero yo estoy en la cueva
 [30Nov2024 05:42:09.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
 [30Nov2024 05:42:09.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[30Nov2024 05:44:09.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:36354] logged in with entity id 12275 at (-13.972753135270676, 60.0, 121.69238020046433)
+[30Nov2024 05:44:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[30Nov2024 05:44:38.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> PERO YO ESTOY
+[30Nov2024 05:44:40.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> EN LA CUEVA
+[30Nov2024 05:44:52.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Nov2024 05:45:15.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 233.500000, 100.000000, 3273.500000]
+[30Nov2024 05:45:16.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Nov2024 05:45:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 502.500000, 67.000000, 230.500000]
+[30Nov2024 05:45:32.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -12.500000, 60.000000, 120.500000]
+[30Nov2024 05:45:39.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7914ms or 158 ticks behind
+[30Nov2024 05:46:09.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarceloP29[/[::1]:42684] logged in with entity id 14162 at (713.5, 64.0, 262.5)
+[30Nov2024 05:46:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 joined the game
+[30Nov2024 05:46:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has completed the challenge [Choup's Drakvyrn Mod !]
+[30Nov2024 05:46:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has made the advancement [Ice and Fire]
+[30Nov2024 05:46:18.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sakura_In_Love lost connection: Timed out
+[30Nov2024 05:46:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_In_Love left the game
+[30Nov2024 05:46:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has reached the goal [Cosmic Discoverer]
+[30Nov2024 05:46:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has completed the challenge [Find: Mushroom abandonned]
+[30Nov2024 05:46:45.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tr3sCu4tro lost connection: Timed out
+[30Nov2024 05:46:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro left the game
+[30Nov2024 05:46:45.641] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 05:47:19.785] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/14837, l='ServerLevel[world]', x=753.43, y=64.01, z=52.67]
+[30Nov2024 05:50:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has made the advancement [Alex's Mobs]
+[30Nov2024 05:51:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 was slain by Bison
