@@ -920,3 +920,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 05:30:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww left the game
 [30Nov2024 05:31:00.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_In_Love has made the advancement [Monster Hunter]
 [30Nov2024 05:31:14.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 05:31:42.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Nov2024 05:32:03.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6425ms or 128 ticks behind
+[30Nov2024 05:32:22.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_In_Love has made the advancement [Diamonds!]
+[30Nov2024 05:33:50.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[30Nov2024 05:33:50.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[30Nov2024 05:36:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro fell from a high place
+[30Nov2024 05:36:49.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sakura_In_Love has reached the goal [Hammer Time!]
+[30Nov2024 05:37:01.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 05:37:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[30Nov2024 05:37:56.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Nov2024 05:39:39.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Tools of the Trade]
+[30Nov2024 05:39:43.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Crops of the Wild]
+[30Nov2024 05:41:41.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was blown up by Creeper
+[30Nov2024 05:42:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> pero yo estoy en la cueva
+[30Nov2024 05:42:09.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
+[30Nov2024 05:42:09.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
