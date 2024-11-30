@@ -51,8 +51,10 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-11-29 09:55:46 +0000",
       "minecraft:beach": "2024-11-29 09:38:22 +0000",
+      "minecraft:river": "2024-11-30 04:48:36 +0000",
       "minecraft:forest": "2024-11-29 10:01:44 +0000",
       "minecraft:ocean": "2024-11-29 09:39:00 +0000",
+      "minecraft:flower_forest": "2024-11-30 04:52:41 +0000",
       "minecraft:plains": "2024-11-29 08:34:32 +0000"
     },
     "done": false
@@ -197,6 +199,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-11-30 04:45:24 +0000",
       "baked_potato": "2024-11-29 10:07:01 +0000",
       "potato": "2024-11-29 09:01:25 +0000",
       "bread": "2024-11-29 08:37:40 +0000"
@@ -1401,8 +1404,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-11-30 04:49:24 +0000",
       "minecraft:skeleton": "2024-11-29 09:20:23 +0000",
+      "minecraft:spider": "2024-11-30 04:46:40 +0000",
       "minecraft:creeper": "2024-11-29 09:59:58 +0000",
+      "minecraft:enderman": "2024-11-30 04:51:43 +0000",
+      "minecraft:silverfish": "2024-11-30 04:37:50 +0000",
       "minecraft:zombie": "2024-11-29 09:18:27 +0000"
     },
     "done": false
@@ -1857,6 +1864,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-11-30 04:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2024-11-30 04:30:26 +0000"
@@ -1911,6 +1924,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 04:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-11-30 04:38:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-11-30 04:30:50 +0000"
@@ -1932,6 +1957,18 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-30 04:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-11-30 04:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-11-30 04:38:54 +0000"
     },
     "done": true
   },
@@ -1965,9 +2002,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 04:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-11-30 04:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-30 04:49:54 +0000"
     },
     "done": true
   },
@@ -1983,9 +2032,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-11-30 04:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-11-30 04:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-11-30 04:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-11-30 04:38:54 +0000"
     },
     "done": true
   },
