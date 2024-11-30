@@ -3944,6 +3944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-30 03:30:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_metal_leggings": {
     "criteria": {
       "has_the_recipe": "2024-11-30 03:10:16 +0000"
@@ -3980,6 +3986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-30 03:30:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-11-30 03:22:00 +0000"
@@ -4007,6 +4019,12 @@
   "choups_drakvyrn_mod:ignition_breath_ball_advancement": {
     "criteria": {
       "ignition_breath_ball_advancement_0": "2024-11-30 03:13:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-11-30 03:31:19 +0000"
     },
     "done": true
   },

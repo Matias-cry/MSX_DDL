@@ -1162,6 +1162,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-11-30 03:34:46 +0000",
       "minecraft:beach": "2024-11-30 02:47:15 +0000",
       "minecraft:river": "2024-11-30 02:47:43 +0000",
       "minecraft:ocean": "2024-11-30 02:48:47 +0000",
@@ -1246,11 +1247,18 @@
     "criteria": {
       "chicken": "2024-11-30 02:49:51 +0000",
       "cooked_mutton": "2024-11-30 03:17:45 +0000",
+      "beef": "2024-11-30 03:25:51 +0000",
       "porkchop": "2024-11-30 03:04:48 +0000",
       "apple": "2024-11-30 02:52:47 +0000",
       "mutton": "2024-11-30 03:05:27 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-11-30 03:30:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {

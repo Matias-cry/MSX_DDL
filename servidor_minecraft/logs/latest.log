@@ -1000,3 +1000,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 03:29:30.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [30Nov2024 03:29:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Clash of the Titans]
 [30Nov2024 03:30:17.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=743, y=64, z=22} BlockPos{x=743, y=62, z=22}
+[30Nov2024 03:30:41.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has made the advancement [Clash of the Titans]
+[30Nov2024 03:30:44.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Nov2024 03:31:03.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3800ms or 76 ticks behind
+[30Nov2024 03:31:13.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww has made the advancement [Getting an Upgrade]
+[30Nov2024 03:31:19.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Clash of the Titans]
+[30Nov2024 03:33:05.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[30Nov2024 03:33:25.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4813ms or 96 ticks behind
+[30Nov2024 03:33:45.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4786ms or 95 ticks behind
+[30Nov2024 03:34:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[30Nov2024 03:34:05.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[30Nov2024 03:34:48.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Nov2024 03:35:21.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Nov2024 03:35:41.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[30Nov2024 03:36:03.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[30Nov2024 03:36:22.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4108ms or 82 ticks behind
+[30Nov2024 03:36:25.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Splintering II]
+[30Nov2024 03:36:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [A Flaming Sword]
+[30Nov2024 03:36:42.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Nov2024 03:36:59.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[30Nov2024 03:37:25.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 03:37:29.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Nov2024 03:37:38.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[30Nov2024 03:37:46.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[30Nov2024 03:38:07.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[30Nov2024 03:38:18.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Nov2024 03:38:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[30Nov2024 03:38:25.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[30Nov2024 03:38:43.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[30Nov2024 03:39:03.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4865ms or 97 ticks behind
+[30Nov2024 03:39:22.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4690ms or 93 ticks behind
+[30Nov2024 03:39:48.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11055ms or 221 ticks behind
+[30Nov2024 03:40:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Bonfire Lit]
+[30Nov2024 03:40:08.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[30Nov2024 03:40:28.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5511ms or 110 ticks behind
+[30Nov2024 03:40:35.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianww lost connection: Timed out
+[30Nov2024 03:40:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww left the game
+[30Nov2024 03:40:46.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez fell from a high place
+[30Nov2024 03:40:47.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[30Nov2024 03:40:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has completed the challenge [Find: Mushroom abandonned]
+[30Nov2024 03:40:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has completed the challenge [Find: Mushroom abandonned]
