@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 03:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-30 02:59:05 +0000"
@@ -564,6 +570,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 03:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-30 02:54:03 +0000"
@@ -630,9 +642,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 03:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-30 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 03:43:03 +0000"
     },
     "done": true
   },
@@ -918,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 03:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-30 02:54:08 +0000"
@@ -982,6 +1012,7 @@
     "criteria": {
       "minecraft:beach": "2024-11-30 02:57:52 +0000",
       "minecraft:river": "2024-11-30 02:54:28 +0000",
+      "minecraft:forest": "2024-11-30 03:39:36 +0000",
       "minecraft:flower_forest": "2024-11-30 03:23:23 +0000",
       "minecraft:plains": "2024-11-30 02:51:04 +0000"
     },
@@ -1002,6 +1033,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-30 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 03:42:50 +0000"
     },
     "done": true
   },

@@ -7021,3 +7021,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 03:40:48.082] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa PanConPez
 [30Nov2024 03:40:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has completed the challenge [Find: Mushroom abandonned]
 [30Nov2024 03:40:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has completed the challenge [Find: Mushroom abandonned]
+[30Nov2024 03:41:06.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[30Nov2024 03:41:29.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8497ms or 169 ticks behind
+[30Nov2024 03:41:47.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[30Nov2024 03:41:47.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez lost connection: Timed out
+[30Nov2024 03:41:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
+[30Nov2024 03:41:47.401] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: good bye PanConPez
+[30Nov2024 03:41:47.401] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: remove synced player e0971112-ebbb-3de2-97f7-5bfa3a05f289
+[30Nov2024 03:41:47.463] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 03:42:22.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 03:42:22.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 03:42:50.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Who You Gonna Call?]
+[30Nov2024 03:47:22.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Nov2024 03:47:22.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Nov2024 03:49:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Would you Like to Know More?]
+[30Nov2024 03:49:44.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 03:51:10.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was shot by Skeleton
+[30Nov2024 03:51:10.248] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful marzuyo
+[30Nov2024 03:51:12.021] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa marzuyo
