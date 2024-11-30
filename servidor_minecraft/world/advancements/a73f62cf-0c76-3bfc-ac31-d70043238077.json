@@ -3662,87 +3662,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_stone": "2024-11-29 21:39:02 +0000"
+      "has_dandelion": "2024-11-29 21:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
+      "has_oxeye_daisy": "2024-11-29 21:21:46 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_nugget": {
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
-      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
+      "has_oxeye_daisy": "2024-11-29 21:21:46 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_block": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2024-11-29 21:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-11-29 21:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-11-29 21:39:02 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/redstone/silver_balance": {
-    "criteria": {
-      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-11-29 21:39:02 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2024-11-29 21:41:38 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/combustion_table": {
-    "criteria": {
-      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2024-11-29 21:44:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-11-29 21:39:02 +0000"
+      "has_cornflower": "2024-11-29 21:21:57 +0000"
     },
     "done": true
   },
@@ -3752,21 +3692,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_dandelion": "2024-11-29 21:21:46 +0000"
+      "has_stone": "2024-11-29 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-29 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-11-29 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-11-29 21:39:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-11-29 21:39:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
     },
     "done": true
   },
@@ -3782,33 +3734,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-29 21:39:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_tide_armor_trim_smithing_template": "2024-11-29 21:44:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
     },
     "done": true
   },
@@ -3821,18 +3749,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-29 21:39:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-11-29 21:21:46 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
     },
     "done": true
   },
@@ -3854,9 +3770,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
-      "has_smithing_trim_template": "2024-11-29 21:44:05 +0000"
+      "has_stone": "2024-11-29 21:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-11-29 21:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-29 21:41:38 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2024-11-29 21:41:38 +0000"
     },
     "done": true
   },
@@ -3866,9 +3812,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_cornflower": "2024-11-29 21:21:57 +0000"
+      "has_cod": "2024-11-29 21:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-11-29 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-11-29 21:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-11-29 21:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-29 21:44:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-11-29 21:47:08 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-11-29 21:56:18 +0000"
     },
     "done": true
   },
@@ -3878,27 +3896,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-11-29 21:21:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-11-29 21:41:38 +0000"
-    },
-    "done": true
-  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2024-11-29 21:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-11-29 21:39:02 +0000"
     },
     "done": true
   },
