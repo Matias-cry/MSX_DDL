@@ -960,3 +960,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 05:47:19.785] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/14837, l='ServerLevel[world]', x=753.43, y=64.01, z=52.67]
 [30Nov2024 05:50:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has made the advancement [Alex's Mobs]
 [30Nov2024 05:51:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 was slain by Bison
+[30Nov2024 05:52:47.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30Nov2024 05:54:00.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
+[30Nov2024 05:55:21.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has made the advancement [Stone Age]
+[30Nov2024 05:55:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 has made the advancement [Getting an Upgrade]
+[30Nov2024 05:58:28.353] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 06:00:11.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarceloP29 lost connection: Timed out
+[30Nov2024 06:00:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarceloP29 left the game
+[30Nov2024 06:01:07.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dianww[/[::1]:54660] logged in with entity id 20387 at (240.78370003439602, 3.0, 251.41638622627008)
+[30Nov2024 06:01:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dianww joined the game
+[30Nov2024 06:02:15.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dianww moved too quickly! 9.531062011529912,3.0,-1.152614320077447
