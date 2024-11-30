@@ -58,6 +58,7 @@
       "minecraft:forest": "2024-11-29 05:48:35 +0000",
       "minecraft:deep_cold_ocean": "2024-11-29 21:41:00 +0000",
       "minecraft:ocean": "2024-11-29 05:11:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-11-30 05:15:31 +0000",
       "minecraft:flower_forest": "2024-11-29 05:34:34 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:08 +0000",
       "minecraft:meadow": "2024-11-29 07:23:15 +0000",
@@ -3902,105 +3903,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
     "criteria": {
-      "has_item": "2024-11-30 03:22:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-11-30 03:36:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2024-11-30 04:10:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "choups_drakvyrn_mod:drakvyrn_scales_advancement": {
-    "criteria": {
-      "drakvyrn_scales_advancement_0": "2024-11-30 03:13:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2024-11-30 03:49:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-11-30 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-11-30 03:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-11-30 04:02:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
-    "criteria": {
-      "has_the_recipe": "2024-11-30 03:10:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2024-11-30 03:13:27 +0000"
+      "has_the_recipe": "2024-11-30 03:10:12 +0000"
     },
     "done": true
   },
@@ -4010,27 +3915,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/nest": {
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
     "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
+      "has_the_recipe": "2024-11-30 03:10:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+  "choups_drakvyrn_mod:drakvyrn_scales_advancement": {
     "criteria": {
-      "has_wild_armor_trim_smithing_template": "2024-11-30 04:38:00 +0000"
+      "drakvyrn_scales_advancement_0": "2024-11-30 03:13:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_smithing_trim_template": "2024-11-30 04:38:00 +0000"
+      "has_item": "2024-11-30 03:13:27 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
-      "requirement": "2024-11-30 04:31:43 +0000"
+      "has_item": "2024-11-30 03:13:27 +0000"
     },
     "done": true
   },
@@ -4040,51 +3945,63 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-11-30 03:30:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-11-30 04:38:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2024-11-30 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2024-11-30 04:38:00 +0000"
-    },
-    "done": true
-  },
   "choups_drakvyrn_mod:drakvyrn_bone_advancement": {
     "criteria": {
       "drakvyrn_bone_advancement_0": "2024-11-30 03:13:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "choups_drakvyrn_mod:ignition_breath_ball_advancement": {
     "criteria": {
-      "has_carrot": "2024-11-30 04:21:49 +0000"
+      "ignition_breath_ball_advancement_0": "2024-11-30 03:13:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-11-30 03:22:00 +0000"
     },
     "done": true
   },
@@ -4100,21 +4017,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+  "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
-      "has_item": "2024-11-30 04:37:59 +0000"
+      "has_item": "2024-11-30 03:22:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "has_stone_slab": "2024-11-30 03:50:42 +0000"
+      "has_item": "2024-11-30 03:22:13 +0000"
     },
     "done": true
   },
-  "choups_drakvyrn_mod:ignition_breath_ball_advancement": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "ignition_breath_ball_advancement_0": "2024-11-30 03:13:31 +0000"
+      "has_reeds": "2024-11-30 03:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-30 03:30:17 +0000"
     },
     "done": true
   },
@@ -4124,27 +4047,117 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_the_recipe": "2024-11-30 03:10:12 +0000"
+      "has_item_frame": "2024-11-30 03:36:27 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "has_item": "2024-11-30 03:22:00 +0000"
+      "bestiary": "2024-11-30 03:49:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_item": "2024-11-30 03:13:27 +0000"
+      "has_stone_slab": "2024-11-30 03:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-30 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-30 04:10:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-11-30 04:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-30 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-11-30 04:31:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-11-30 04:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-30 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-11-30 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-30 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-30 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-11-30 04:38:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-11-30 04:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-30 05:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 05:17:45 +0000"
     },
     "done": true
   },
