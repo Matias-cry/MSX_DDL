@@ -3962,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-30 04:02:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_metal_leggings": {
     "criteria": {
       "has_the_recipe": "2024-11-30 03:10:16 +0000"

@@ -1056,3 +1056,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 03:55:49.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [30Nov2024 04:00:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Acquire Hardware]
 [30Nov2024 04:00:34.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Isn't It Iron Pick]
+[30Nov2024 04:06:21.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KAMAIROKI[/[::1]:50130] logged in with entity id 53848 at (-17.000978229880293, 68.0, 111.08850465056959)
+[30Nov2024 04:06:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI joined the game
+[30Nov2024 04:10:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Splintering II]
+[30Nov2024 04:10:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Clash of the Titans]
