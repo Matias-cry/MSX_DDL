@@ -1050,3 +1050,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 03:49:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Would you Like to Know More?]
 [30Nov2024 03:49:44.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [30Nov2024 03:51:10.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was shot by Skeleton
+[30Nov2024 03:51:44.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Nov2024 03:52:32.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[30Nov2024 03:55:49.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 03:55:49.729] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 04:00:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Acquire Hardware]
+[30Nov2024 04:00:34.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Isn't It Iron Pick]

@@ -3944,6 +3944,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-11-30 03:49:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2024-11-30 03:22:00 +0000"
@@ -4019,6 +4025,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2024-11-30 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-11-30 03:50:42 +0000"
     },
     "done": true
   },
