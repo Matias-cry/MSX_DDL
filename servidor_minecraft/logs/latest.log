@@ -1132,3 +1132,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 08:24:14.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [01Dec2024 08:26:42.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [01Dec2024 08:26:50.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:43:54.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:44:54.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=26, z=94} BlockPos{x=-178, y=24, z=94}
+[01Dec2024 08:44:54.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=26, z=94} BlockPos{x=-178, y=24, z=94}
+[01Dec2024 08:44:54.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=26, z=94} BlockPos{x=-178, y=24, z=94}
+[01Dec2024 08:44:54.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=26, z=94} BlockPos{x=-178, y=24, z=94}
+[01Dec2024 08:44:54.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=26, z=94} BlockPos{x=-178, y=24, z=94}
+[01Dec2024 08:45:01.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=17, z=94} BlockPos{x=-182, y=18, z=94}
+[01Dec2024 08:45:03.950] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:45:23.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:45:34.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=16, z=79} BlockPos{x=-178, y=15, z=80}
+[01Dec2024 08:46:09.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:46:25.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:46:31.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:47:16.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:47:28.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:47:54.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:48:54.497] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:49:52.599] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:50:12.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 08:51:24.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
