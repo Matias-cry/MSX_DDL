@@ -4163,6 +4163,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/warped_moldy_meat": {
+    "criteria": {
+      "has_sirloin": "2024-12-01 10:44:29 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-01 08:00:18 +0000"
