@@ -51,8 +51,10 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-11-29 06:02:57 +0000",
       "minecraft:sunflower_plains": "2024-11-29 05:38:30 +0000",
+      "minecraft:badlands": "2024-12-01 05:57:42 +0000",
       "minecraft:savanna_plateau": "2024-12-01 05:53:52 +0000",
       "minecraft:beach": "2024-11-29 04:45:10 +0000",
+      "minecraft:stony_peaks": "2024-12-01 05:57:10 +0000",
       "minecraft:river": "2024-11-29 04:45:31 +0000",
       "minecraft:dripstone_caves": "2024-11-29 07:14:26 +0000",
       "minecraft:forest": "2024-11-29 06:12:34 +0000",
@@ -719,6 +721,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-29 05:49:26 +0000",
+      "cooked_mutton": "2024-12-01 05:56:51 +0000",
       "sweet_berries": "2024-11-29 05:34:48 +0000",
       "cooked_beef": "2024-11-29 06:03:35 +0000",
       "apple": "2024-11-29 05:21:09 +0000",
@@ -726,6 +729,7 @@
       "bread": "2024-11-29 05:19:50 +0000",
       "rotten_flesh": "2024-11-29 04:51:06 +0000",
       "beetroot": "2024-11-29 04:51:41 +0000",
+      "golden_carrot": "2024-12-01 06:03:55 +0000",
       "cooked_chicken": "2024-11-29 05:18:14 +0000",
       "carrot": "2024-11-29 06:55:22 +0000"
     },
@@ -4100,6 +4104,48 @@
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2024-12-01 05:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-01 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-01 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-01 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-01 05:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-01 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-01 05:56:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-01 05:56:00 +0000"
     },
     "done": true
   },
