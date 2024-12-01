@@ -1312,3 +1312,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 11:42:30.958] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [01Dec2024 11:43:41.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Warden
 [01Dec2024 11:44:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[01Dec2024 11:50:11.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[01Dec2024 11:50:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[01Dec2024 11:50:11.440] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 11:54:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 11:54:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 11:54:22.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:45692] logged in with entity id 143340 at (-20.473963870949135, 60.0, 119.23015735385859)
+[01Dec2024 11:54:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
