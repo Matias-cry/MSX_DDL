@@ -1349,3 +1349,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 12:15:38.206] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [01Dec2024 12:15:58.113] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [01Dec2024 12:15:59.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 12:16:46.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[01Dec2024 12:16:47.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[01Dec2024 12:17:01.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=65, z=31} BlockPos{x=257, y=65, z=30}
+[01Dec2024 12:17:24.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian was kicked for floating too long!
+[01Dec2024 12:17:24.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Flying is not enabled on this server
+[01Dec2024 12:17:24.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[01Dec2024 12:18:18.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -10.000000, 70.000000, 119.000000]
+[01Dec2024 12:18:19.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:37900] logged in with entity id 152066 at (256.33091937847985, 66.0, 39.473229764946005)
+[01Dec2024 12:18:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[01Dec2024 12:18:51.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 12:19:05.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 12:19:23.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian was kicked for floating too long!
+[01Dec2024 12:19:23.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Flying is not enabled on this server
+[01Dec2024 12:19:23.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[01Dec2024 12:19:23.933] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 12:20:10.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:44304] logged in with entity id 152855 at (256.33091937847985, 66.0, 39.473229764946005)
+[01Dec2024 12:20:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[01Dec2024 12:20:37.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian was kicked for floating too long!
+[01Dec2024 12:20:37.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Flying is not enabled on this server
+[01Dec2024 12:20:37.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[01Dec2024 12:21:32.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 12:22:07.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 12:22:07.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
