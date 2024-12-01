@@ -7141,3 +7141,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 06:56:28.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [01Dec2024 06:58:14.598] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [01Dec2024 06:58:18.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4178ms or 83 ticks behind
+[01Dec2024 07:00:31.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[01Dec2024 07:00:44.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[01Dec2024 07:00:47.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 07:00:47.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 07:04:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[01Dec2024 07:05:47.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 07:05:47.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
