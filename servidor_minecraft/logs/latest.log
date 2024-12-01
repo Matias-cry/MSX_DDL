@@ -1038,3 +1038,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 05:32:21.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tr3sCu4tro[/[::1]:47806] logged in with entity id 27787 at (-176.95582246362858, -9.0, 2.62209610376025)
 [01Dec2024 05:32:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro joined the game
 [01Dec2024 05:32:21.974] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: give a christmas-season gift sack for the Tr3sCu4tro
+[01Dec2024 05:39:37.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tr3sCu4tro lost connection: Timed out
+[01Dec2024 05:39:37.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro left the game
+[01Dec2024 05:41:24.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[01Dec2024 05:41:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 05:41:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 05:43:23.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 05:46:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Creative Mode]
+[01Dec2024 05:46:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[01Dec2024 05:47:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 05:47:48.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[01Dec2024 05:48:33.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:56916] logged in with entity id 31748 at (-136.2884689994455, 82.0, -1284.04025403337)
+[01Dec2024 05:48:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[01Dec2024 05:48:38.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5151ms or 103 ticks behind
+[01Dec2024 05:54:12.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Dec2024 05:54:32.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 05:54:34.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Dec2024 05:54:55.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[01Dec2024 05:56:24.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Dec2024 05:56:41.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[01Dec2024 05:58:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[01Dec2024 05:58:32.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
