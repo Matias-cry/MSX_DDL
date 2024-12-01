@@ -1090,3 +1090,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 07:28:48.498] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [01Dec2024 07:33:34.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Dec2024 07:33:34.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 07:45:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 07:45:19.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 07:47:41.259] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 07:47:50.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=33, y=73, z=100} BlockPos{x=33, y=74, z=101}
+[01Dec2024 07:48:43.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Dec2024 07:49:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Find: Blaze tower]
+[01Dec2024 07:49:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Find: Blaze tower]
+[01Dec2024 07:50:41.797] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already

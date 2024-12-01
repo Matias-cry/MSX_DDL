@@ -4119,6 +4119,12 @@
     },
     "done": true
   },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2024-12-01 07:49:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-01 06:36:54 +0000"
@@ -4260,6 +4266,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-01 05:59:44 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-01 07:49:32 +0000"
     },
     "done": true
   },

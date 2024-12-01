@@ -4177,6 +4177,12 @@
     },
     "done": true
   },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2024-12-01 07:49:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-01 07:37:55 +0000"
@@ -4570,6 +4576,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-01 07:49:39 +0000"
     },
     "done": true
   },
