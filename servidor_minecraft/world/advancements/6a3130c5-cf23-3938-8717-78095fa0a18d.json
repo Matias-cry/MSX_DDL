@@ -3897,15 +3897,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-30 05:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-11-30 05:26:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_bone_meal": "2024-11-30 05:22:14 +0000"
+      "has_lapis_block": "2024-12-01 04:41:55 +0000"
     },
     "done": true
   },
