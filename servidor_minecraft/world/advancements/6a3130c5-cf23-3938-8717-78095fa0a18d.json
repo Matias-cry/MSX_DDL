@@ -4396,6 +4396,12 @@
     },
     "done": true
   },
+  "roost2:such_shiny_stones": {
+    "criteria": {
+      "such_shiny_stones_0": "2024-12-01 08:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
