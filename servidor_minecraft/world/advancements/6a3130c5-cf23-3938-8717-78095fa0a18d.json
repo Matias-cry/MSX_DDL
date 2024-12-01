@@ -4126,6 +4126,18 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-01 06:36:54 +0000"
@@ -4156,6 +4168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-01 07:14:52 +0000"
@@ -4180,6 +4204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-01 07:15:40 +0000"
@@ -4189,6 +4219,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-01 07:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
     },
     "done": true
   },
@@ -4204,9 +4240,27 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-01 07:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-01 08:30:00 +0000"
     },
     "done": true
   },
@@ -4234,6 +4288,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-01 05:59:44 +0000"
@@ -4252,9 +4318,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-12-01 07:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
     },
     "done": true
   },
@@ -4264,15 +4348,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-01 06:36:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-01 05:56:00 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-01 08:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
     },
     "done": true
   },
@@ -4285,6 +4393,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-12-01 06:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
     },
     "done": true
   },
@@ -4339,6 +4453,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-01 07:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-01 08:30:21 +0000"
     },
     "done": true
   },
