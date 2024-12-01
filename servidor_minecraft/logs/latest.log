@@ -1180,3 +1180,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 09:17:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Skin Made of Fire]
 [01Dec2024 09:20:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Dec2024 09:20:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 09:24:53.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

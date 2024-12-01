@@ -4467,6 +4467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-01 09:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:29:51 +0000"
@@ -4656,6 +4662,12 @@
   "roost2:such_shiny_stones": {
     "criteria": {
       "such_shiny_stones_0": "2024-12-01 08:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-01 09:22:08 +0000"
     },
     "done": true
   },
