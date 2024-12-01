@@ -1294,3 +1294,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 11:23:31.563] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [01Dec2024 11:23:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
 [01Dec2024 11:23:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[01Dec2024 11:25:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Cover Me with Diamonds]
+[01Dec2024 11:26:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was obliterated by a sonically-charged shriek
+[01Dec2024 11:26:45.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -28.500000, -47.000000, 5108.500000]
+[01Dec2024 11:27:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Warden
+[01Dec2024 11:27:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -55.500000, -50.000000, 5165.500000]
+[01Dec2024 11:27:53.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01Dec2024 11:28:18.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01Dec2024 11:29:04.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01Dec2024 11:29:21.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[01Dec2024 11:32:09.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
