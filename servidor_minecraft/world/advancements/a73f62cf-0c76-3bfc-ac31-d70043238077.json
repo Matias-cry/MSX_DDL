@@ -1892,6 +1892,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2024-12-01 10:51:22 +0000",
       "brown_mushroom": "2024-11-29 06:11:53 +0000"
     },
     "done": false
@@ -4302,6 +4303,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-12-01 06:57:37 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:miners_nightmare": {
+    "criteria": {
+      "miners_nightmare": "2024-12-01 11:00:25 +0000"
     },
     "done": true
   },
