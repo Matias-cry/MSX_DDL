@@ -7432,3 +7432,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 10:10:56.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 10:12:10.924] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 5 operation for 'marzuyo'
 [01Dec2024 10:12:17.877] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 5 operation for 'marzuyo'
+[01Dec2024 10:15:56.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 10:15:56.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 10:19:44.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 10:19:44.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 10:20:56.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 10:20:56.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
