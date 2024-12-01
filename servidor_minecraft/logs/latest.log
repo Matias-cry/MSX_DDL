@@ -1063,3 +1063,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 06:14:41.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
 [01Dec2024 06:14:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
 [01Dec2024 06:15:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Enchanter]
+[01Dec2024 06:20:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Nightmare Fuel]
+[01Dec2024 06:23:52.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 06:23:52.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Dec2024 06:28:06.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Amateur Archaeologist]

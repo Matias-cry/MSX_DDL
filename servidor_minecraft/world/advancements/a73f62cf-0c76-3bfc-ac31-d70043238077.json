@@ -4171,9 +4171,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-01 06:24:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2024-12-01 05:29:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-01 06:20:55 +0000"
     },
     "done": true
   },
@@ -4198,6 +4210,12 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2024-12-01 05:08:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-01 06:24:19 +0000"
     },
     "done": true
   },
@@ -4402,6 +4420,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-01 06:24:19 +0000"
     },
     "done": true
   },
