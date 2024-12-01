@@ -1176,3 +1176,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Dec2024 09:07:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
 [01Dec2024 09:11:26.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Crafting In A Higher Level]
 [01Dec2024 09:11:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Crafting In A Higher Level]
+[01Dec2024 09:17:09.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Skin Made of Fire]
+[01Dec2024 09:17:12.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Skin Made of Fire]
+[01Dec2024 09:20:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Dec2024 09:20:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]

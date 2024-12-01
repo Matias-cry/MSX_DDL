@@ -4515,9 +4515,21 @@
     },
     "done": true
   },
+  "ancient_elements:skin_made_of_fire": {
+    "criteria": {
+      "skin_made_of_fire": "2024-12-01 09:17:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-01 06:50:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:crafting_in_a_higher_level": {
+    "criteria": {
+      "crafting_in_a_higher_level": "2024-12-01 09:11:38 +0000"
     },
     "done": true
   },
