@@ -4223,6 +4223,12 @@
     },
     "done": true
   },
+  "ancient_elements:rock_n_roll": {
+    "criteria": {
+      "rock_n_roll": "2024-12-01 11:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-01 09:10:57 +0000"
@@ -4274,6 +4280,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-01 06:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-01 11:19:51 +0000"
     },
     "done": true
   },
@@ -4586,6 +4598,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-01 06:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-01 11:19:51 +0000"
     },
     "done": true
   },
