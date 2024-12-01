@@ -4171,6 +4171,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-01 07:37:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-01 07:37:55 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-01 06:24:19 +0000"
@@ -4252,6 +4264,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-01 07:37:55 +0000"
     },
     "done": true
   },
@@ -4459,6 +4477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-01 07:37:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-01 05:50:28 +0000"
@@ -4522,6 +4546,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-01 04:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-01 07:37:55 +0000"
     },
     "done": true
   },
