@@ -828,3 +828,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Dec2024 23:30:05.766] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [02Dec2024 23:31:40.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Dec2024 23:31:40.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[02Dec2024 23:53:45.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Dec2024 23:53:45.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[02Dec2024 23:55:04.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo was kicked for floating too long!
+[02Dec2024 23:55:04.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Flying is not enabled on this server
+[02Dec2024 23:55:04.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[02Dec2024 23:55:05.006] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 23:55:44.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:41796] logged in with entity id 2898 at (-6.540233933584786, 69.17675927506424, 107.49041299041916)
+[02Dec2024 23:55:44.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[02Dec2024 23:55:46.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
