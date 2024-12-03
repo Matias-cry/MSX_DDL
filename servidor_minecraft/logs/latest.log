@@ -6,3 +6,9 @@
 [03Dec2024 00:18:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
 [03Dec2024 00:29:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
 [03Dec2024 00:29:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[03Dec2024 00:30:21.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 00:30:23.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[03Dec2024 00:32:11.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 00:32:32.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Dec2024 00:32:32.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[03Dec2024 00:32:56.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
