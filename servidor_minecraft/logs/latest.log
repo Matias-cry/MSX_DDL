@@ -58,3 +58,8 @@
 [03Dec2024 01:19:02.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian fell from a high place
 [03Dec2024 01:28:22.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [03Dec2024 01:28:22.617] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:33:12.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:34:45.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell while climbing
+[03Dec2024 01:35:14.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:36:46.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Dec2024 01:36:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOLA<--[HERE]
