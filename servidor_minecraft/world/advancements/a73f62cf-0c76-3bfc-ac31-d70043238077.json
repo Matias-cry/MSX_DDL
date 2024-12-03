@@ -52,6 +52,7 @@
       "minecraft:deep_ocean": "2024-12-03 02:32:39 +0000",
       "minecraft:cherry_grove": "2024-11-29 06:02:59 +0000",
       "minecraft:sunflower_plains": "2024-11-29 05:38:22 +0000",
+      "minecraft:birch_forest": "2024-12-03 02:42:35 +0000",
       "minecraft:savanna_plateau": "2024-12-01 05:30:57 +0000",
       "minecraft:beach": "2024-11-29 04:45:08 +0000",
       "minecraft:river": "2024-11-29 04:45:30 +0000",
@@ -5027,25 +5028,19 @@
     },
     "done": true
   },
-  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
-    "criteria": {
-      "requirement": "2024-12-03 02:26:58 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:ocean_temple_quad/find_normal": {
-    "criteria": {
-      "requirement": "2024-12-03 02:19:29 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:abyssal_conqueror": {
-    "criteria": {
-      "abyssal_conqueror": "2024-12-03 02:25:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-03 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-03 02:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-03 02:02:48 +0000"
     },
@@ -5057,15 +5052,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-03 02:30:50 +0000"
+      "tamed_animal": "2024-12-03 02:09:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
+  "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
-      "has_scute": "2024-12-03 02:25:55 +0000"
+      "tame_rat": "2024-12-03 02:09:41 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-03 02:19:29 +0000"
     },
     "done": true
   },
@@ -5075,33 +5076,33 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-03 02:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-03 02:02:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-03 02:24:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "ancient_elements:abyssal_conqueror": {
     "criteria": {
-      "has_salmon": "2024-12-03 02:02:48 +0000"
+      "abyssal_conqueror": "2024-12-03 02:25:38 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_hippocampus": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "tame_rat": "2024-12-03 02:09:41 +0000"
+      "has_scute": "2024-12-03 02:25:55 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-03 02:26:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-03 02:30:50 +0000"
     },
     "done": true
   },
