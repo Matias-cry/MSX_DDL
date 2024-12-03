@@ -693,6 +693,7 @@
       "minecraft:cave_spider": "2024-11-30 03:51:26 +0000",
       "minecraft:enderman": "2024-11-29 06:54:04 +0000",
       "minecraft:silverfish": "2024-12-01 05:15:09 +0000",
+      "minecraft:stray": "2024-12-03 02:57:20 +0000",
       "minecraft:zombie": "2024-11-29 04:50:53 +0000",
       "minecraft:drowned": "2024-11-29 05:35:04 +0000",
       "minecraft:zombie_villager": "2024-11-29 07:24:26 +0000"
@@ -5025,9 +5026,9 @@
     },
     "done": true
   },
-  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+  "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
-      "requirement": "2024-12-03 02:25:53 +0000"
+      "tame_rat": "2024-12-03 02:17:31 +0000"
     },
     "done": true
   },
@@ -5043,15 +5044,21 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-03 02:25:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2024-12-03 02:34:26 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_hippocampus": {
+  "ancient_elements:can_someone_ventilate": {
     "criteria": {
-      "tame_rat": "2024-12-03 02:17:31 +0000"
+      "can_someone_ventilate": "2024-12-03 02:50:47 +0000"
     },
     "done": true
   },
