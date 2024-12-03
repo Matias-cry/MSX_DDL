@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-03 02:32:39 +0000",
       "minecraft:cherry_grove": "2024-11-29 06:02:59 +0000",
       "minecraft:sunflower_plains": "2024-11-29 05:38:22 +0000",
       "minecraft:savanna_plateau": "2024-12-01 05:30:57 +0000",
@@ -5053,6 +5054,12 @@
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2024-12-03 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-03 02:30:50 +0000"
     },
     "done": true
   },

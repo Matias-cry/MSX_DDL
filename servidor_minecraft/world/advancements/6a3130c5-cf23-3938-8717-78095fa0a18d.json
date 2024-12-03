@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-03 02:32:35 +0000",
       "minecraft:cherry_grove": "2024-11-29 06:02:57 +0000",
       "minecraft:sunflower_plains": "2024-11-29 05:38:30 +0000",
       "minecraft:badlands": "2024-12-01 05:57:42 +0000",
@@ -5039,6 +5040,12 @@
   "awesomedungeonocean:root": {
     "criteria": {
       "awesomedungeonocean:ocean_temple_quad": "2024-12-03 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-03 02:34:26 +0000"
     },
     "done": true
   },
