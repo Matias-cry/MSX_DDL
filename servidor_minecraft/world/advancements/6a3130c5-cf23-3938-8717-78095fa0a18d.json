@@ -4739,21 +4739,27 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "requirement": "2024-12-01 12:37:41 +0000"
+      "has_stripped_logs": "2024-12-01 12:29:11 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "has_amethyst_block": "2024-12-01 12:31:49 +0000"
+      "has_log": "2024-12-01 12:29:11 +0000"
     },
     "done": true
   },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2024-12-01 12:29:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-01 12:31:49 +0000"
     },
     "done": true
   },
@@ -4775,33 +4781,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-01 12:29:11 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_slab": {
     "criteria": {
       "has_amethyst_block": "2024-12-01 12:31:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-01 12:29:11 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-01 12:31:49 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2024-12-01 12:35:01 +0000"
     },
     "done": true
   },
@@ -4838,6 +4826,18 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-01 12:31:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-01 12:35:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2024-12-01 12:37:41 +0000"
     },
     "done": true
   },

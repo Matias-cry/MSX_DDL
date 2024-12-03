@@ -17,3 +17,39 @@
 [03Dec2024 00:47:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
 [03Dec2024 00:47:53.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
 [03Dec2024 00:48:49.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 00:51:50.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:50022] logged in with entity id 12681 at (-1.7369185133129228, 60.0, 122.31658783106856)
+[03Dec2024 00:51:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[03Dec2024 00:52:28.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> chulueta
+[03Dec2024 00:52:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set the world spawn point to 0, 59, 126 [0.0]]
+[03Dec2024 00:52:34.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> me agarraste con las manos en la masilla
+[03Dec2024 00:52:44.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> entra al voice
+[03Dec2024 00:52:57.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> perate que sin querer cambie el spawn del mundo
+[03Dec2024 00:53:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> jajajaja
+[03Dec2024 00:53:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> voy a ponerlo de nuevo
+[03Dec2024 00:53:32.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[03Dec2024 00:53:42.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set the world spawn point to 190, 64, 141 [0.0]]
+[03Dec2024 00:53:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 00:53:52.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5337ms or 106 ticks behind
+[03Dec2024 00:53:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> mira
+[03Dec2024 00:54:09.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> watafak
+[03Dec2024 00:54:13.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> sangre
+[03Dec2024 00:54:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo's life was severed by Crying0bsidian
+[03Dec2024 00:54:19.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> :v
+[03Dec2024 00:54:20.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[03Dec2024 00:54:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 00:54:27.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> No pense que tenia tanto rango
+[03Dec2024 00:54:34.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> ahora soy mago de sangre
+[03Dec2024 00:55:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ven a dormir
+[03Dec2024 01:01:22.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [It's Purple!]
+[03Dec2024 01:04:19.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 01:04:25.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[03Dec2024 01:04:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 01:04:50.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[03Dec2024 01:04:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell from a high place
+[03Dec2024 01:07:22.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:09:22.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:09:22.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:09:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Bonfire Lit]
+[03Dec2024 01:09:54.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 01:09:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 01:10:13.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
