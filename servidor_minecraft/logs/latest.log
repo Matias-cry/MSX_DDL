@@ -1,3 +1,6 @@
 [03Dec2024 00:00:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set the world spawn point to 191, 63, 150 [0.0]]
 [03Dec2024 00:03:48.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [03Dec2024 00:03:48.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[03Dec2024 00:14:06.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 00:18:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 00:18:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
