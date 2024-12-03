@@ -4,3 +4,5 @@
 [03Dec2024 00:14:06.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [03Dec2024 00:18:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
 [03Dec2024 00:18:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[03Dec2024 00:29:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Spectator Mode]
+[03Dec2024 00:29:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
