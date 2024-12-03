@@ -5056,6 +5056,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-03 03:01:39 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:can_someone_ventilate": {
     "criteria": {
       "can_someone_ventilate": "2024-12-03 02:50:47 +0000"
