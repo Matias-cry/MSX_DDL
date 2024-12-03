@@ -65,3 +65,188 @@
 [03Dec2024 01:36:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOLA<--[HERE]
 [03Dec2024 01:43:57.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -4.500000, 68.000000, 118.500000]
 [03Dec2024 01:44:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[03Dec2024 01:52:51.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Free Willy]
+[03Dec2024 01:56:07.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 01:59:00.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 0.36641397479280613
+[03Dec2024 01:59:18.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 0.28547575649304235
+[03Dec2024 01:59:18.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 0.5544591020391181
+[03Dec2024 01:59:18.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 0.7682734558090374
+[03Dec2024 01:59:18.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 0.9991207781114895
+[03Dec2024 01:59:18.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 1.102240945638016
+[03Dec2024 01:59:18.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Crying0bsidian) moved wrongly! 1.3627322405923223
+[03Dec2024 01:59:36.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Dec2024 01:59:46.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Tie me to the Mast]
+[03Dec2024 01:59:55.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Dec2024 02:01:09.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: You logged in from another location
+[03Dec2024 02:01:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[03Dec2024 02:01:09.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:52100] logged in with entity id 28101 at (-479.5841864640667, 68.0, 353.12177891176736)
+[03Dec2024 02:01:09.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[03Dec2024 02:01:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Dec2024 02:01:21.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[03Dec2024 02:01:27.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[03Dec2024 02:01:27.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[03Dec2024 02:01:28.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:47074] logged in with entity id 28214 at (-477.69999998807907, 67.0, 352.32865930235636)
+[03Dec2024 02:01:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[03Dec2024 02:02:46.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was killed
+[03Dec2024 02:02:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed marzuyo]
+[03Dec2024 02:03:15.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 02:04:13.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[03Dec2024 02:04:13.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[03Dec2024 02:04:24.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was killed
+[03Dec2024 02:04:24.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed marzuyo]
+[03Dec2024 02:04:52.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:36542] logged in with entity id 29770 at (-476.4994727194747, 62.07326432466506, 344.6620167153791)
+[03Dec2024 02:04:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[03Dec2024 02:06:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 02:07:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was killed
+[03Dec2024 02:07:45.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed marzuyo]
+[03Dec2024 02:07:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[03Dec2024 02:08:27.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Poseidon, God of the Seas]
+[03Dec2024 02:09:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Free Willy]
+[03Dec2024 02:09:41.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Best Friends Forever]
+[03Dec2024 02:09:57.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian drowned
+[03Dec2024 02:10:58.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5245505941712687
+[03Dec2024 02:10:59.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7453549875528795
+[03Dec2024 02:11:01.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7951150538266232
+[03Dec2024 02:11:04.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7712175298800004
+[03Dec2024 02:11:06.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8151445177949501
+[03Dec2024 02:11:08.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[03Dec2024 02:11:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[03Dec2024 02:11:19.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3279132031552311
+[03Dec2024 02:11:19.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3279132031552311
+[03Dec2024 02:11:19.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6986996488065971
+[03Dec2024 02:12:47.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.36061804897502725
+[03Dec2024 02:12:47.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5965782252998224
+[03Dec2024 02:12:47.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8874769173073673
+[03Dec2024 02:12:47.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.981553055426275
+[03Dec2024 02:12:47.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.5695955732139169
+[03Dec2024 02:12:47.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.9491878544341716
+[03Dec2024 02:12:47.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.5997175025547108
+[03Dec2024 02:12:47.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.9200591743129394
+[03Dec2024 02:12:47.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.6319369757681557
+[03Dec2024 02:12:47.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.3747966513583947
+[03Dec2024 02:12:47.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.8702491332501268
+[03Dec2024 02:12:47.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.6938544801988087
+[03Dec2024 02:12:47.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.5450758540681022
+[03Dec2024 02:13:04.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3139764674563446
+[03Dec2024 02:13:54.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7550786342422084
+[03Dec2024 02:13:54.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7743555294024609
+[03Dec2024 02:13:55.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.517514994493801
+[03Dec2024 02:13:57.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.2598003537267459
+[03Dec2024 02:14:36.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:40758] logged in with entity id 34230 at (-1.8227787781944744, 60.0, 113.76292409079419)
+[03Dec2024 02:14:36.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[03Dec2024 02:15:01.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tr3sCu4tro[/[::1]:45488] logged in with entity id 34590 at (-158.9248893925443, -31.0, 25.89665855414547)
+[03Dec2024 02:15:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro joined the game
+[03Dec2024 02:15:15.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6289007040926051
+[03Dec2024 02:15:15.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6591612020163777
+[03Dec2024 02:15:17.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5246364438925266
+[03Dec2024 02:15:17.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6247434486359237
+[03Dec2024 02:15:18.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6693399532228234
+[03Dec2024 02:15:18.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6693399532228234
+[03Dec2024 02:15:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[03Dec2024 02:16:31.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.45739738389932394
+[03Dec2024 02:16:31.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7661686456809358
+[03Dec2024 02:16:40.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Dec2024 02:17:01.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.4788783974893523
+[03Dec2024 02:17:01.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.42237074658562584
+[03Dec2024 02:17:06.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.4555206702790974
+[03Dec2024 02:17:07.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8142483186697139
+[03Dec2024 02:17:10.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5493755696822
+[03Dec2024 02:17:11.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6376499328290756
+[03Dec2024 02:17:17.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[03Dec2024 02:17:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Free Willy]
+[03Dec2024 02:17:40.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7603ms or 152 ticks behind
+[03Dec2024 02:17:47.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3809191314596904
+[03Dec2024 02:17:48.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3182971553214309
+[03Dec2024 02:17:49.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3090046826301012
+[03Dec2024 02:17:49.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3434850142233043
+[03Dec2024 02:17:49.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3434850142233043
+[03Dec2024 02:17:51.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.2800003189420035
+[03Dec2024 02:17:56.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.44329189718613715
+[03Dec2024 02:18:01.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.2606725553689622
+[03Dec2024 02:18:01.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.2550915443865236
+[03Dec2024 02:18:16.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Dec2024 02:19:03.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8236392039792995
+[03Dec2024 02:19:07.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.5259546982732215
+[03Dec2024 02:19:10.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.829587840186405
+[03Dec2024 02:19:13.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.7847298660974918
+[03Dec2024 02:19:18.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.8200385646693298
+[03Dec2024 02:19:19.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.7342619637843106
+[03Dec2024 02:19:21.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6343280180544286
+[03Dec2024 02:19:21.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.32788330880563815
+[03Dec2024 02:19:22.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8176424619544649
+[03Dec2024 02:19:23.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8093084897984586
+[03Dec2024 02:19:24.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.33329027390850813
+[03Dec2024 02:19:27.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.7640266557422407
+[03Dec2024 02:19:27.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6220970432014415
+[03Dec2024 02:19:29.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Find: Temple quad]
+[03Dec2024 02:19:30.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.3988277411165926
+[03Dec2024 02:19:30.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.3988277411165926
+[03Dec2024 02:19:31.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5004067788890396
+[03Dec2024 02:19:33.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has completed the challenge [Find: Temple quad]
+[03Dec2024 02:19:33.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.6062752765032072
+[03Dec2024 02:19:33.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6839607448320325
+[03Dec2024 02:19:34.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7579510578652497
+[03Dec2024 02:19:36.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.36366941706590744
+[03Dec2024 02:19:38.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6553574911599198
+[03Dec2024 02:19:39.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.4734637623494109
+[03Dec2024 02:19:39.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.5126740635901115
+[03Dec2024 02:19:40.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.667460010878699
+[03Dec2024 02:19:40.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.667460010878699
+[03Dec2024 02:19:41.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.31615148010688515
+[03Dec2024 02:19:41.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.31615148010688515
+[03Dec2024 02:19:56.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.31285616873981326
+[03Dec2024 02:19:56.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.5
+[03Dec2024 02:19:56.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.5
+[03Dec2024 02:20:08.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5600181447612971
+[03Dec2024 02:20:35.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6459874544336983
+[03Dec2024 02:20:36.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8097869899744053
+[03Dec2024 02:20:36.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.8214076267617267
+[03Dec2024 02:20:36.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.564309640977388
+[03Dec2024 02:20:37.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.4389900131476998
+[03Dec2024 02:20:37.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.33460001045217036
+[03Dec2024 02:20:38.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7272810897883513
+[03Dec2024 02:20:38.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7272810897883513
+[03Dec2024 02:20:38.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.38789660507165036
+[03Dec2024 02:20:39.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3272157954167335
+[03Dec2024 02:20:39.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3272157954167335
+[03Dec2024 02:20:39.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5646807204428992
+[03Dec2024 02:20:39.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6195389937670177
+[03Dec2024 02:20:39.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.48195425218724847
+[03Dec2024 02:20:39.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.48195425218724847
+[03Dec2024 02:20:39.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.37492377967847845
+[03Dec2024 02:20:39.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.37492377967847845
+[03Dec2024 02:20:42.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.4846872985398473
+[03Dec2024 02:20:42.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.008441491192813
+[03Dec2024 02:20:43.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5821182167654694
+[03Dec2024 02:20:43.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5821182167654694
+[03Dec2024 02:20:43.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5821182167654694
+[03Dec2024 02:20:43.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5821182167654694
+[03Dec2024 02:20:43.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.8988244304010176
+[03Dec2024 02:20:43.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 1.8988244304010176
+[03Dec2024 02:20:45.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5464482359459988
+[03Dec2024 02:20:45.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5464482359459988
+[03Dec2024 02:20:48.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.26904730204663
+[03Dec2024 02:20:50.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.44803088000454444
+[03Dec2024 02:20:51.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.5597025585269443
+[03Dec2024 02:20:51.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.6601727527656301
+[03Dec2024 02:20:52.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7889622133220461
+[03Dec2024 02:20:52.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7889622133220461
+[03Dec2024 02:20:52.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.7889622133220461
+[03Dec2024 02:20:56.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.4064130929371855
+[03Dec2024 02:20:56.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.3156120843889211
+[03Dec2024 02:20:57.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.32755420747416786
+[03Dec2024 02:21:13.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.274205245207305
+[03Dec2024 02:21:13.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.274205245207305
+[03Dec2024 02:21:16.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.2510747875803191
+[03Dec2024 02:21:19.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of marzuyo) moved wrongly! 0.27350093369327994
