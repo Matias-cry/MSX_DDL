@@ -675,9 +675,11 @@
       "minecraft:witch": "2024-12-01 05:15:56 +0000",
       "minecraft:wither_skeleton": "2024-11-29 08:01:00 +0000",
       "minecraft:enderman": "2024-11-29 08:45:19 +0000",
+      "minecraft:silverfish": "2024-12-03 03:18:12 +0000",
       "minecraft:stray": "2024-12-03 02:55:58 +0000",
       "minecraft:zombie": "2024-11-29 04:55:22 +0000",
-      "minecraft:drowned": "2024-11-29 05:35:15 +0000"
+      "minecraft:drowned": "2024-11-29 05:35:15 +0000",
+      "minecraft:zombie_villager": "2024-12-03 03:09:49 +0000"
     },
     "done": false
   },
@@ -5107,6 +5109,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-03 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-03 02:57:21 +0000"
@@ -5179,6 +5187,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-03 03:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 02:57:21 +0000"
@@ -5206,6 +5220,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-03 02:57:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-03 03:11:06 +0000"
     },
     "done": true
   },
