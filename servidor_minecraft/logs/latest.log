@@ -1135,3 +1135,11 @@
 [03Dec2024 03:41:04.986] [Worker-Main-135/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [48, 89], pos: BlockPos{x=774, y=125, z=1424}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / ancient_elements:floating_islands_feature]
 [03Dec2024 03:41:57.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [03Dec2024 03:41:57.568] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 03:44:40.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[03Dec2024 03:44:59.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4093ms or 81 ticks behind
+[03Dec2024 03:49:50.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 03:50:05.558] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Dec2024 03:52:55.921] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[03Dec2024 03:52:55.923] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[03Dec2024 03:53:14.421] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[03Dec2024 03:53:14.445] [Worker-Main-135/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
