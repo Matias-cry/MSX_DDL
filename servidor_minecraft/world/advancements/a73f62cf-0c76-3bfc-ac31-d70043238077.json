@@ -5139,6 +5139,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-03 04:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-03 02:57:18 +0000"
@@ -5217,9 +5223,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-03 04:04:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-03 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-03 04:04:33 +0000"
     },
     "done": true
   },
@@ -5232,6 +5250,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-03 03:02:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-03 04:04:33 +0000"
     },
     "done": true
   },
@@ -5259,9 +5283,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-03 04:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 04:10:06 +0000"
     },
     "done": true
   },
@@ -5277,9 +5313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 04:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-03 02:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-03 04:10:06 +0000"
     },
     "done": true
   },

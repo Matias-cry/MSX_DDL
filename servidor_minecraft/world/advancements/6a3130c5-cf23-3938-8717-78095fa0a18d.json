@@ -5056,6 +5056,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-03 04:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-03 03:53:25 +0000"
@@ -5134,6 +5140,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-03 04:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-03 03:41:03 +0000"
@@ -5167,6 +5179,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-03 03:53:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-03 04:01:58 +0000"
     },
     "done": true
   },
