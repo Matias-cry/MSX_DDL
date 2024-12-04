@@ -60,6 +60,7 @@
       "minecraft:dark_forest": "2024-12-04 01:42:06 +0000",
       "minecraft:sparse_jungle": "2024-12-03 04:30:44 +0000",
       "minecraft:river": "2024-11-29 04:45:30 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-04 01:47:58 +0000",
       "minecraft:dripstone_caves": "2024-11-29 07:02:19 +0000",
       "minecraft:cold_ocean": "2024-11-29 21:40:43 +0000",
       "minecraft:forest": "2024-11-29 05:48:35 +0000",
@@ -67,6 +68,7 @@
       "minecraft:ocean": "2024-11-29 05:11:33 +0000",
       "minecraft:jungle": "2024-12-03 04:34:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-30 05:15:31 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-04 01:48:08 +0000",
       "minecraft:flower_forest": "2024-11-29 05:34:34 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:08 +0000",
       "minecraft:meadow": "2024-11-29 07:23:15 +0000",
@@ -5417,6 +5419,42 @@
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-12-03 04:26:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-04 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 01:49:12 +0000"
+    },
+    "done": true
+  },
+  "roost2:whats_this_used_for": {
+    "criteria": {
+      "whats_this_used_for_0": "2024-12-04 01:51:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 01:49:12 +0000"
     },
     "done": true
   },
