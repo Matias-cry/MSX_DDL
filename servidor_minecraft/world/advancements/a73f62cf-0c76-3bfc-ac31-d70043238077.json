@@ -680,6 +680,7 @@
       "minecraft:vindicator": "2024-11-29 05:30:29 +0000",
       "minecraft:magma_cube": "2024-11-29 08:43:45 +0000",
       "minecraft:spider": "2024-11-29 05:12:31 +0000",
+      "minecraft:piglin_brute": "2024-12-04 09:37:17 +0000",
       "minecraft:creeper": "2024-11-29 04:51:58 +0000",
       "minecraft:evoker": "2024-11-29 05:37:13 +0000",
       "minecraft:phantom": "2024-12-04 07:18:06 +0000",
@@ -687,6 +688,7 @@
       "minecraft:witch": "2024-12-01 05:15:56 +0000",
       "minecraft:wither_skeleton": "2024-11-29 08:01:00 +0000",
       "minecraft:husk": "2024-12-04 07:42:45 +0000",
+      "minecraft:piglin": "2024-12-04 09:37:14 +0000",
       "minecraft:enderman": "2024-11-29 08:45:19 +0000",
       "minecraft:silverfish": "2024-12-03 03:18:12 +0000",
       "minecraft:stray": "2024-12-03 02:55:58 +0000",
@@ -5662,9 +5664,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-04 09:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-04 08:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-04 09:39:17 +0000"
     },
     "done": true
   },
@@ -5677,6 +5703,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2024-12-04 08:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
     },
     "done": true
   },
@@ -5698,9 +5730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-12-04 08:53:13 +0000"
+    },
+    "done": true
+  },
+  "roost2:ohhh_thats_what_its_used_for": {
+    "criteria": {
+      "ohhh_thats_what_its_used_for_0": "2024-12-04 09:26:33 +0000"
     },
     "done": true
   },
@@ -5710,9 +5754,45 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-04 09:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2024-12-04 08:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2024-12-04 09:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-04 09:36:37 +0000"
     },
     "done": true
   },

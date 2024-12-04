@@ -687,12 +687,14 @@
       "minecraft:hoglin": "2024-12-01 10:40:11 +0000",
       "minecraft:guardian": "2024-12-03 01:45:48 +0000",
       "minecraft:spider": "2024-11-29 04:51:27 +0000",
+      "minecraft:piglin_brute": "2024-12-04 09:37:55 +0000",
       "minecraft:creeper": "2024-11-29 05:13:24 +0000",
       "minecraft:phantom": "2024-11-30 04:59:36 +0000",
       "minecraft:zombified_piglin": "2024-11-29 08:14:03 +0000",
       "minecraft:witch": "2024-11-29 06:11:18 +0000",
       "minecraft:wither_skeleton": "2024-11-29 08:01:50 +0000",
       "minecraft:cave_spider": "2024-11-30 03:51:26 +0000",
+      "minecraft:piglin": "2024-12-04 09:26:41 +0000",
       "minecraft:enderman": "2024-11-29 06:54:04 +0000",
       "minecraft:silverfish": "2024-12-01 05:15:09 +0000",
       "minecraft:stray": "2024-12-03 02:57:20 +0000",
@@ -5424,9 +5426,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-04 09:38:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2024-12-04 09:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-04 09:39:28 +0000"
     },
     "done": true
   },
@@ -5442,15 +5468,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_upgrade_smithing_template": {
     "criteria": {
       "has_silver_upgrade_smithing_template": "2024-12-04 09:14:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cabbage": {
     "criteria": {
       "has_cabbage_crate": "2024-12-04 09:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-04 09:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-04 09:36:34 +0000"
     },
     "done": true
   },
