@@ -838,3 +838,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 08:55:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was killed
 [04Dec2024 08:55:12.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Killed marzuyo]
 [04Dec2024 08:55:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[04Dec2024 08:57:50.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Another Brick in the Wall]
+[04Dec2024 08:58:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [The Heart and the Flame]
+[04Dec2024 09:00:37.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
