@@ -6056,3 +6056,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 00:15:06.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 00:16:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Dec2024 00:16:21.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[04Dec2024 00:20:06.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 00:20:06.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 00:25:06.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 00:25:06.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
