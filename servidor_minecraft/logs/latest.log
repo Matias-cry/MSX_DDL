@@ -3,3 +3,18 @@
 [04Dec2024 01:38:18.222] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
 [04Dec2024 01:38:18.231] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [04Dec2024 01:38:18.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d16fb8[id=<null>,name=marzuyo,properties={},legacy=false] (/[::1]:33440) lost connection: Connection closed - mismatched mod channel list
+[04Dec2024 01:39:28.478] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [cosmeticarmorreworked:main] rejected their client side version number
+[04Dec2024 01:39:28.479] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Dec2024 01:39:28.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2993ea07[id=<null>,name=marzuyo,properties={},legacy=false] (/[::1]:39336) lost connection: Connection closed - mismatched mod channel list
+[04Dec2024 01:40:42.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Dec2024 01:40:43.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:52122] logged in with entity id 193 at (3528.0832331666584, 82.0, 1215.3755860111162)
+[04Dec2024 01:40:43.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[04Dec2024 01:40:51.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9075ms or 181 ticks behind
+[04Dec2024 01:41:21.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14954ms or 299 ticks behind
+[04Dec2024 01:41:41.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[04Dec2024 01:42:03.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6370ms or 127 ticks behind
+[04Dec2024 01:44:48.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Dec2024 01:45:08.744] [Worker-Main-106/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[04Dec2024 01:45:08.758] [Worker-Main-106/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[04Dec2024 01:45:35.330] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[04Dec2024 01:45:35.334] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
