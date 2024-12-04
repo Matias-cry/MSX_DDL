@@ -5601,6 +5601,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-04 08:08:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu_dodge": {
     "criteria": {
       "ex": "2024-12-04 07:48:20 +0000"

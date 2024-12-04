@@ -428,7 +428,8 @@
       "porkchop": "2024-11-30 03:04:48 +0000",
       "apple": "2024-11-30 02:52:47 +0000",
       "mutton": "2024-11-30 03:05:27 +0000",
-      "rotten_flesh": "2024-11-30 03:36:27 +0000"
+      "rotten_flesh": "2024-11-30 03:36:27 +0000",
+      "carrot": "2024-12-04 08:17:14 +0000"
     },
     "done": false
   },
@@ -1621,6 +1622,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2024-12-04 07:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-04 08:12:09 +0000"
     },
     "done": true
   },
