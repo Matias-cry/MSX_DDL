@@ -65,6 +65,7 @@
       "minecraft:cold_ocean": "2024-11-29 21:40:43 +0000",
       "minecraft:forest": "2024-11-29 05:48:35 +0000",
       "minecraft:deep_cold_ocean": "2024-11-29 21:41:00 +0000",
+      "minecraft:desert": "2024-12-04 02:16:14 +0000",
       "minecraft:ocean": "2024-11-29 05:11:33 +0000",
       "minecraft:jungle": "2024-12-03 04:34:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-30 05:15:31 +0000",
@@ -5446,15 +5447,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 01:49:12 +0000"
+    },
+    "done": true
+  },
   "roost2:whats_this_used_for": {
     "criteria": {
       "whats_this_used_for_0": "2024-12-04 01:51:24 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
-      "has_item": "2024-12-04 01:49:12 +0000"
+      "has_item": "2024-12-04 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-04 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 02:07:16 +0000"
     },
     "done": true
   },
