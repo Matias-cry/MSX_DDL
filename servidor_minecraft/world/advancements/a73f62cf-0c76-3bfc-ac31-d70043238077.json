@@ -3038,9 +3038,10 @@
       "minecraft:crimson_forest": "2024-11-29 07:56:53 +0000",
       "minecraft:nether_wastes": "2024-11-29 08:01:47 +0000",
       "minecraft:soul_sand_valley": "2024-12-01 08:14:21 +0000",
-      "minecraft:warped_forest": "2024-11-29 07:59:06 +0000"
+      "minecraft:warped_forest": "2024-11-29 07:59:06 +0000",
+      "minecraft:basalt_deltas": "2024-12-04 10:13:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -5736,6 +5737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-04 10:13:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-12-04 08:53:13 +0000"
@@ -5778,6 +5785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-04 10:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
@@ -5805,6 +5818,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-04 08:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-04 10:13:51 +0000"
     },
     "done": true
   },
