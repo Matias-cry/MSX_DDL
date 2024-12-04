@@ -64,6 +64,7 @@
       "minecraft:dripstone_caves": "2024-11-29 07:02:19 +0000",
       "minecraft:cold_ocean": "2024-11-29 21:40:43 +0000",
       "minecraft:forest": "2024-11-29 05:48:35 +0000",
+      "minecraft:lush_caves": "2024-12-04 08:26:02 +0000",
       "minecraft:deep_cold_ocean": "2024-11-29 21:41:00 +0000",
       "minecraft:desert": "2024-12-04 02:16:14 +0000",
       "minecraft:ocean": "2024-11-29 05:11:33 +0000",
@@ -5499,27 +5500,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_smithing_trim_template": "2024-12-04 07:45:50 +0000"
+      "has_logs": "2024-12-04 07:14:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
-      "has_item": "2024-12-04 07:36:54 +0000"
+      "has_item": "2024-12-04 07:20:05 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rattlesnake": {
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
-      "killed": "2024-12-04 07:36:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
-    "criteria": {
-      "has_item": "2024-12-04 07:36:54 +0000"
+      "has_item": "2024-12-04 07:21:34 +0000"
     },
     "done": true
   },
@@ -5535,9 +5530,69 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-04 07:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
     },
     "done": true
   },
@@ -5553,39 +5608,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-12-04 07:45:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2024-12-04 07:20:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2024-12-04 07:39:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-04 07:14:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2024-12-04 07:21:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2024-12-04 07:26:36 +0000"
     },
     "done": true
   },
@@ -5595,15 +5620,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_sea_serpent_scales_teal": "2024-12-04 07:26:36 +0000"
+      "has_smithing_trim_template": "2024-12-04 07:45:50 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
     "criteria": {
-      "acacia_blossom": "2024-12-04 08:08:22 +0000"
+      "has_dune_armor_trim_smithing_template": "2024-12-04 07:45:50 +0000"
     },
     "done": true
   },
@@ -5613,39 +5638,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2024-12-04 07:26:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
-    "criteria": {
-      "has_item": "2024-12-04 07:36:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-12-04 08:03:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+      "acacia_blossom": "2024-12-04 08:08:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "has_item": "2024-12-04 07:36:54 +0000"
+      "sword": "2024-12-04 08:25:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2024-12-04 08:24:51 +0000"
     },
     "done": true
   },

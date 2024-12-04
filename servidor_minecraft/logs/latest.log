@@ -1063,3 +1063,56 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 08:21:40.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
 [04Dec2024 08:21:58.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
 [04Dec2024 08:22:18.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4756ms or 95 ticks behind
+[04Dec2024 08:22:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Cover Me with Diamonds]
+[04Dec2024 08:22:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Suit Up]
+[04Dec2024 08:22:47.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14394ms or 287 ticks behind
+[04Dec2024 08:23:10.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7266ms or 145 ticks behind
+[04Dec2024 08:23:29.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4149ms or 82 ticks behind
+[04Dec2024 08:23:46.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[04Dec2024 08:24:08.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Dec2024 08:24:31.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Dec2024 08:24:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was turned to ice by Ice Dragon
+[04Dec2024 08:24:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 08:24:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo walked into a cactus whilst trying to escape KAMAIROKI
+[04Dec2024 08:24:50.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
+[04Dec2024 08:25:08.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[04Dec2024 08:25:17.070] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received invalid discriminator byte 15 on channel sophisticatedcore:channel
+[04Dec2024 08:25:25.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[04Dec2024 08:25:30.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [A Flaming Sword]
+[04Dec2024 08:25:43.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[04Dec2024 08:26:02.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[04Dec2024 08:26:02.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[04Dec2024 08:26:58.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Dec2024 08:27:03.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI moved wrongly!
+[04Dec2024 08:27:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was slain by Ice Dragon
+[04Dec2024 08:27:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 08:27:16.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2762ms or 55 ticks behind
+[04Dec2024 08:27:39.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[04Dec2024 08:27:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez fell from a high place
+[04Dec2024 08:27:57.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[04Dec2024 08:28:02.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5282, y=14, z=-708} BlockPos{x=5281, y=14, z=-709}
+[04Dec2024 08:28:02.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5283, y=14, z=-708} BlockPos{x=5281, y=14, z=-709}
+[04Dec2024 08:28:17.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Dec2024 08:28:35.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Dec2024 08:28:53.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[04Dec2024 08:29:10.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[04Dec2024 08:29:30.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Dec2024 08:29:48.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[04Dec2024 08:30:08.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5653ms or 113 ticks behind
+[04Dec2024 08:30:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[04Dec2024 08:30:26.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[04Dec2024 08:30:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 08:30:41.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo walked into a cactus whilst trying to escape Ice Dragon
+[04Dec2024 08:30:45.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[04Dec2024 08:30:45.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[04Dec2024 08:31:00.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was turned to ice by Ice Dragon
+[04Dec2024 08:31:03.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[04Dec2024 08:31:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[04Dec2024 08:31:11.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian moved too quickly! -10.419842786972367,-1.1999999999999993,-7.736356821066124
+[04Dec2024 08:31:24.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Ice Dragon
+[04Dec2024 08:31:27.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04Dec2024 08:31:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[04Dec2024 08:31:46.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[04Dec2024 08:31:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was slain by Ice Dragon
+[04Dec2024 08:31:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 08:32:03.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
