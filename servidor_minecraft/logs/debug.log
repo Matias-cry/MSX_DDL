@@ -6683,3 +6683,100 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 07:18:44.699] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: welcome back KAMAIROKI
 [04Dec2024 07:18:44.700] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: give a christmas-season gift sack for the KAMAIROKI
 [04Dec2024 07:18:47.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Dec2024 07:19:16.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13697ms or 273 ticks behind
+[04Dec2024 07:19:35.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3471ms or 69 ticks behind
+[04Dec2024 07:19:47.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:20:12.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[04Dec2024 07:20:28.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4092, y=66, z=1234} BlockPos{x=4092, y=64, z=1234}
+[04Dec2024 07:20:45.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04Dec2024 07:20:59.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4099, y=66, z=1228} BlockPos{x=4100, y=64, z=1225}
+[04Dec2024 07:20:59.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4099, y=66, z=1228} BlockPos{x=4100, y=64, z=1225}
+[04Dec2024 07:21:05.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Dec2024 07:21:31.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4094, y=65, z=1238} BlockPos{x=4094, y=64, z=1239}
+[04Dec2024 07:22:04.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 07:22:04.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 07:22:04.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[04Dec2024 07:22:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[04Dec2024 07:22:32.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Dec2024 07:22:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to KAMAIROKI]
+[04Dec2024 07:22:51.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04Dec2024 07:23:25.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[04Dec2024 07:23:49.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Dec2024 07:24:07.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Enchanter]
+[04Dec2024 07:24:12.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7333ms or 146 ticks behind
+[04Dec2024 07:24:35.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8761ms or 175 ticks behind
+[04Dec2024 07:24:58.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7225ms or 144 ticks behind
+[04Dec2024 07:25:22.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8958ms or 179 ticks behind
+[04Dec2024 07:25:52.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15342ms or 306 ticks behind
+[04Dec2024 07:26:16.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8834ms or 176 ticks behind
+[04Dec2024 07:26:40.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8919ms or 178 ticks behind
+[04Dec2024 07:26:43.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Dec2024 07:26:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI fell from a high place
+[04Dec2024 07:26:50.107] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful KAMAIROKI
+[04Dec2024 07:26:54.971] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa KAMAIROKI
+[04Dec2024 07:26:59.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:27:07.291] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:27:09.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14313ms or 286 ticks behind
+[04Dec2024 07:27:16.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to Crying0bsidian]
+[04Dec2024 07:27:38.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14080ms or 281 ticks behind
+[04Dec2024 07:28:02.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
+[04Dec2024 07:28:23.369] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:28:30.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12797ms or 255 ticks behind
+[04Dec2024 07:28:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez was caught by Necromancer's fangs
+[04Dec2024 07:28:32.312] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful PanConPez
+[04Dec2024 07:28:33.648] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa PanConPez
+[04Dec2024 07:28:39.367] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Dec2024 07:28:42.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez moved too quickly! -9.705292991625498,2.0,1.5311982427758721
+[04Dec2024 07:28:56.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13413, l='ServerLevel[world]', x=4530.50, y=24.00, z=512.50]
+[04Dec2024 07:29:05.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20471ms or 409 ticks behind
+[04Dec2024 07:29:29.318] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[04Dec2024 07:29:31.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10631ms or 212 ticks behind
+[04Dec2024 07:29:52.552] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:29:52.553] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:29:57.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 07:29:57.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 07:30:08.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22498ms or 449 ticks behind
+[04Dec2024 07:30:30.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6606ms or 132 ticks behind
+[04Dec2024 07:30:51.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6105ms or 122 ticks behind
+[04Dec2024 07:31:13.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7482ms or 149 ticks behind
+[04Dec2024 07:31:32.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4107ms or 82 ticks behind
+[04Dec2024 07:31:53.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5411ms or 108 ticks behind
+[04Dec2024 07:31:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has made the advancement [Cover Me with Diamonds]
+[04Dec2024 07:32:15.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7271ms or 145 ticks behind
+[04Dec2024 07:32:37.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6918ms or 138 ticks behind
+[04Dec2024 07:32:58.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
+[04Dec2024 07:33:24.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11585ms or 231 ticks behind
+[04Dec2024 07:33:48.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8306ms or 166 ticks behind
+[04Dec2024 07:34:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[04Dec2024 07:34:05.747] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful KAMAIROKI
+[04Dec2024 07:34:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Killed KAMAIROKI]
+[04Dec2024 07:34:07.433] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa KAMAIROKI
+[04Dec2024 07:34:11.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8503ms or 170 ticks behind
+[04Dec2024 07:34:29.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[04Dec2024 07:34:43.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 07:34:44.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:34:46.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[04Dec2024 07:34:48.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Dec2024 07:35:07.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
+[04Dec2024 07:35:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [The Desert Swimmers]
+[04Dec2024 07:35:25.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
+[04Dec2024 07:35:46.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
+[04Dec2024 07:36:05.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4545ms or 90 ticks behind
+[04Dec2024 07:36:24.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[04Dec2024 07:36:35.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Rigged from the Start]
+[04Dec2024 07:36:38.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Dec2024 07:36:43.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[04Dec2024 07:36:48.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [No Step on Snake]
+[04Dec2024 07:36:57.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 07:36:57.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 07:37:06.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
+[04Dec2024 07:37:29.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
+[04Dec2024 07:37:53.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8765ms or 175 ticks behind
+[04Dec2024 07:38:18.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10879ms or 217 ticks behind
+[04Dec2024 07:38:40.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6576ms or 131 ticks behind
+[04Dec2024 07:38:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez was slain by Mimic
+[04Dec2024 07:38:55.380] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful PanConPez
+[04Dec2024 07:38:57.164] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa PanConPez
+[04Dec2024 07:39:05.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9724ms or 194 ticks behind
+[04Dec2024 07:39:14.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -4.500000, 68.000000, 118.500000]
+[04Dec2024 07:39:30.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10551ms or 211 ticks behind

@@ -69,6 +69,7 @@
       "minecraft:ocean": "2024-11-29 05:11:33 +0000",
       "minecraft:jungle": "2024-12-03 04:34:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-30 05:15:31 +0000",
+      "minecraft:warm_ocean": "2024-12-04 07:35:18 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-04 01:48:08 +0000",
       "minecraft:flower_forest": "2024-11-29 05:34:34 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:08 +0000",
@@ -679,6 +680,7 @@
       "minecraft:spider": "2024-11-29 05:12:31 +0000",
       "minecraft:creeper": "2024-11-29 04:51:58 +0000",
       "minecraft:evoker": "2024-11-29 05:37:13 +0000",
+      "minecraft:phantom": "2024-12-04 07:18:06 +0000",
       "minecraft:zombified_piglin": "2024-11-29 08:14:06 +0000",
       "minecraft:witch": "2024-12-01 05:15:56 +0000",
       "minecraft:wither_skeleton": "2024-11-29 08:01:00 +0000",
@@ -5495,9 +5497,99 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-04 07:36:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-04 07:20:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-04 07:14:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-04 07:21:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-04 07:26:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-04 07:36:54 +0000"
     },
     "done": true
   },
