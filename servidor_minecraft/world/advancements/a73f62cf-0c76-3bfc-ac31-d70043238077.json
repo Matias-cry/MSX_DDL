@@ -74,6 +74,7 @@
       "minecraft:flower_forest": "2024-11-29 05:34:34 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:08 +0000",
       "minecraft:meadow": "2024-11-29 07:23:15 +0000",
+      "minecraft:savanna": "2024-12-04 07:59:47 +0000",
       "minecraft:plains": "2024-11-29 04:37:05 +0000"
     },
     "done": false
@@ -5621,6 +5622,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2024-12-04 07:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2024-12-04 08:03:55 +0000"
     },
     "done": true
   },

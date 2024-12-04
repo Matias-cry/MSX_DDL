@@ -6855,3 +6855,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 08:00:48.837] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful KAMAIROKI
 [04Dec2024 08:00:50.205] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa KAMAIROKI
 [04Dec2024 08:01:08.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12865ms or 257 ticks behind
+[04Dec2024 08:01:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[04Dec2024 08:01:46.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22983ms or 459 ticks behind
+[04Dec2024 08:02:00.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Rotten to the Core]
+[04Dec2024 08:02:17.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15483ms or 309 ticks behind
+[04Dec2024 08:02:45.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13082ms or 261 ticks behind
+[04Dec2024 08:03:19.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19756ms or 395 ticks behind
+[04Dec2024 08:03:56.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21890ms or 437 ticks behind
+[04Dec2024 08:04:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Dragonslayer]
+[04Dec2024 08:04:19.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[04Dec2024 08:04:39.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5638ms or 112 ticks behind
+[04Dec2024 08:04:56.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[04Dec2024 08:05:14.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[04Dec2024 08:05:41.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11955ms or 239 ticks behind
+[04Dec2024 08:05:46.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:05:46.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:06:10.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14331ms or 286 ticks behind
+[04Dec2024 08:06:22.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5889, y=69, z=-494} BlockPos{x=5890, y=69, z=-496}
+[04Dec2024 08:06:24.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5897, y=69, z=-493} BlockPos{x=5897, y=68, z=-494}
+[04Dec2024 08:06:28.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5888, y=69, z=-489} BlockPos{x=5888, y=68, z=-487}
+[04Dec2024 08:06:28.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5887, y=69, z=-489} BlockPos{x=5888, y=68, z=-487}
+[04Dec2024 08:06:28.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5886, y=69, z=-489} BlockPos{x=5886, y=68, z=-490}
+[04Dec2024 08:06:34.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8585ms or 171 ticks behind
+[04Dec2024 08:06:35.645] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Dec2024 08:06:35.646] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Dec2024 08:07:00.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11541ms or 230 ticks behind
+[04Dec2024 08:07:29.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14077ms or 281 ticks behind
+[04Dec2024 08:07:52.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7777ms or 155 ticks behind
+[04Dec2024 08:08:19.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[04Dec2024 08:08:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Flowers of the Savanna]
+[04Dec2024 08:08:36.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[04Dec2024 08:09:05.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Dec2024 08:09:24.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4088ms or 81 ticks behind
+[04Dec2024 08:09:46.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6528ms or 130 ticks behind
+[04Dec2024 08:10:10.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9290ms or 185 ticks behind
+[04Dec2024 08:10:33.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8185ms or 163 ticks behind
+[04Dec2024 08:10:57.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8814ms or 176 ticks behind
+[04Dec2024 08:11:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Best Friends Forever]
+[04Dec2024 08:11:20.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8114ms or 162 ticks behind
+[04Dec2024 08:11:26.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Dec2024 08:11:46.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11500ms or 230 ticks behind
+[04Dec2024 08:11:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
