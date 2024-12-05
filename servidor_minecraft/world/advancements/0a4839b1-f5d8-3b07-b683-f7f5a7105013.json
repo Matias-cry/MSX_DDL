@@ -2692,21 +2692,33 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-04 08:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-04 08:22:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
-      "has_kelp": "2024-12-04 08:33:05 +0000"
+      "has_silver_nugget": "2024-12-04 08:22:45 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fish_stew": {
+  "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
-      "has_any_ingredient": "2024-12-04 08:33:54 +0000"
+      "has_item": "2024-12-04 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2024-12-04 08:28:46 +0000"
     },
     "done": true
   },
@@ -2722,39 +2734,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2024-12-04 08:23:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-04 08:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-04 08:33:54 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-04 08:31:09 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2024-12-04 08:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-04 08:22:27 +0000"
     },
     "done": true
   },
@@ -2770,24 +2752,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain_sticky": {
-    "criteria": {
-      "has_item": "2024-12-04 08:28:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-04 08:33:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2024-12-04 08:22:45 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-04 08:31:09 +0000"
@@ -2800,12 +2764,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-04 08:33:54 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-04 08:31:09 +0000"
@@ -2815,12 +2773,6 @@
   "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-04 08:31:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-04 08:33:54 +0000"
     },
     "done": true
   },
@@ -2839,6 +2791,54 @@
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-04 08:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-04 08:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-04 08:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-04 08:33:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-04 08:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-04 08:33:54 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2024-12-04 08:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-04 08:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-04 08:33:54 +0000"
     },
     "done": true
   },
