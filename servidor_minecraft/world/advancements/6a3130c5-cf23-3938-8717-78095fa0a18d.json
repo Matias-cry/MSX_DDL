@@ -5762,5 +5762,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-05 04:40:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

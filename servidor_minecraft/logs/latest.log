@@ -932,3 +932,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:40:27.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [05Dec2024 04:40:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [An Ear-Shattering Roar]
 [05Dec2024 04:42:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Dragon Growth Hormone]
+[05Dec2024 04:48:47.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 04:49:50.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:49:50.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:49:50.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:49:50.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:49:50.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=120} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:49:51.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=120} BlockPos{x=-41, y=66, z=120}
+[05Dec2024 04:52:26.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 04:53:30.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 04:53:56.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
