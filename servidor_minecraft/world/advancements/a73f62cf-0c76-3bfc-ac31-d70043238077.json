@@ -6029,9 +6029,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-05 03:41:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-05 03:50:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:40 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2024-12-05 03:34:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:40 +0000"
     },
     "done": true
   },

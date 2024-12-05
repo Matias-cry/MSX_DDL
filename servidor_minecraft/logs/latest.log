@@ -843,3 +843,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:41:49.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Suit Up]
 [05Dec2024 03:41:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Suit Up]
 [05Dec2024 03:42:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Ghoul
+[05Dec2024 03:42:26.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[05Dec2024 03:42:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 03:44:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was pummeled by Crying0bsidian
+[05Dec2024 03:44:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 03:44:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:45:03.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[05Dec2024 03:45:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:45:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:45:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:46:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:46:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:47:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
+[05Dec2024 03:47:45.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[05Dec2024 03:47:50.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chef'/14339, l='ServerLevel[world]', x=2842.39, y=93.00, z=-745.44] died, message: 'Chef was pummeled by marzuyo'
+[05Dec2024 03:47:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -10.000000, 69.000000, 123.000000]
+[05Dec2024 03:48:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:48:08.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[05Dec2024 03:48:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:48:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3304.500000, 69.000000, -1947.500000]
+[05Dec2024 03:48:42.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[05Dec2024 03:49:24.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [The Song of the Dragons]
+[05Dec2024 03:49:37.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 03:50:00.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was pummeled by marzuyo
+[05Dec2024 03:50:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
+[05Dec2024 03:50:04.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:50:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 03:50:21.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [The Song of the Dragons]
+[05Dec2024 03:50:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:50:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 03:51:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
+[05Dec2024 03:51:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 03:52:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:52:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
+[05Dec2024 03:53:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3304.500000, 69.000000, -1947.500000]
+[05Dec2024 03:53:19.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[05Dec2024 03:57:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:59:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3301.500000, 69.000000, -1947.500000]
+[05Dec2024 03:59:41.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Dec2024 03:59:43.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 03:59:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3290.500000, 68.000000, -1954.500000]
+[05Dec2024 03:59:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 04:00:01.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5560ms or 111 ticks behind
+[05Dec2024 04:01:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 04:01:34.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 04:01:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
+[05Dec2024 04:02:04.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Disconnected
+[05Dec2024 04:02:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[05Dec2024 04:02:04.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
