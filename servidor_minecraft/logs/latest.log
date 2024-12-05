@@ -840,3 +840,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 02:22:29.882] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [05Dec2024 02:22:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
 [05Dec2024 02:23:00.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 02:28:58.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[05Dec2024 02:34:41.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19309, l='ServerLevel[world]', x=2850.21, y=95.17, z=-736.71] died, message: 'Villager was slain by Ice Dragon'
+[05Dec2024 02:34:48.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19308, l='ServerLevel[world]', x=2836.51, y=93.00, z=-731.18] was struck by lightning LightningBolt['Lightning Bolt'/19794, l='ServerLevel[world]', x=2839.03, y=92.00, z=-732.42].
+[05Dec2024 02:34:48.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Surge Protector]
+[05Dec2024 02:34:48.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Surge Protector]
+[05Dec2024 02:40:55.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19510, l='ServerLevel[world]', x=2844.32, y=95.00, z=-760.30] died, message: 'Villager was slain by Zombie'
+[05Dec2024 02:43:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Convergent Evolution...]
+[05Dec2024 02:44:08.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Ice Dragon
+[05Dec2024 02:44:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Convergent Evolution...]
+[05Dec2024 02:44:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 02:44:23.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
