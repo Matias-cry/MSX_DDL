@@ -5665,39 +5665,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-12-04 09:38:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-04 08:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-04 09:39:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
-    "criteria": {
-      "has_item": "2024-12-04 08:57:50 +0000"
     },
     "done": true
   },
@@ -5707,39 +5677,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2024-12-04 08:58:18 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-04 08:53:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
-    "criteria": {
-      "has_dragonscale_white": "2024-12-04 08:56:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-04 10:13:51 +0000"
     },
     "done": true
   },
@@ -5749,33 +5689,27 @@
     },
     "done": true
   },
-  "roost2:ohhh_thats_what_its_used_for": {
-    "criteria": {
-      "ohhh_thats_what_its_used_for_0": "2024-12-04 09:26:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2024-12-04 08:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "loot_bastion_other": "2024-12-04 09:38:34 +0000"
+      "egg": "2024-12-04 08:54:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+      "has_dragonscale_white": "2024-12-04 08:56:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+      "has_item": "2024-12-04 08:57:50 +0000"
     },
     "done": true
   },
@@ -5785,15 +5719,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
-      "has_basalt": "2024-12-04 10:13:51 +0000"
+      "has_item": "2024-12-04 08:57:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+  "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+      "core": "2024-12-04 08:58:18 +0000"
+    },
+    "done": true
+  },
+  "roost2:ohhh_thats_what_its_used_for": {
+    "criteria": {
+      "ohhh_thats_what_its_used_for_0": "2024-12-04 09:26:33 +0000"
     },
     "done": true
   },
@@ -5809,15 +5749,81 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_item": "2024-12-04 08:57:50 +0000"
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "egg": "2024-12-04 08:54:10 +0000"
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-04 09:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-04 09:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-04 09:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-04 09:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-04 09:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-04 10:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-04 10:13:51 +0000"
     },
     "done": true
   },
@@ -5827,9 +5833,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
     "criteria": {
-      "has_warped_fungus": "2024-12-04 09:49:35 +0000"
+      "requirement": "2024-12-05 01:52:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-05 01:53:25 +0000"
     },
     "done": true
   },

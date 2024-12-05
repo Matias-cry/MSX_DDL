@@ -819,3 +819,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 01:47:25.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [05Dec2024 01:47:41.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
 [05Dec2024 01:47:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 01:49:53.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:39982] logged in with entity id 2305 at (101.74691263917119, 38.0, 669.325695862642)
+[05Dec2024 01:49:53.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[05Dec2024 01:49:56.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[05Dec2024 01:51:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> mori?
+[05Dec2024 01:52:35.162] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 01:52:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> pontelo en
+[05Dec2024 01:52:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> la otra
+[05Dec2024 01:53:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Magery]
