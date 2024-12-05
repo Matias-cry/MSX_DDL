@@ -827,3 +827,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 06:13:01.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:34438] logged in with entity id 588 at (-16.906548725454407, 62.166109260938214, 120.69999998807907)
 [05Dec2024 06:13:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
 [05Dec2024 06:13:05.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 06:19:20.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved wrongly!
