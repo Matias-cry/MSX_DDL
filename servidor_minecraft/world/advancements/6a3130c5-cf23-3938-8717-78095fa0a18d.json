@@ -5780,9 +5780,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 07:24:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
       "has_item": "2024-12-05 06:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 07:24:55 +0000"
     },
     "done": true
   },
