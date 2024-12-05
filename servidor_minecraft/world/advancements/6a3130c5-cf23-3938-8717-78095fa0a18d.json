@@ -5678,6 +5678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-05 03:30:44 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/warped_anchor": {
     "criteria": {
       "has_silver_block": "2024-12-05 03:07:55 +0000"
