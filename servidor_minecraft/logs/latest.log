@@ -825,3 +825,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:05:44.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3471, y=0, z=-1017}
 [05Dec2024 03:07:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
 [05Dec2024 03:08:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 03:19:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 03:19:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[05Dec2024 03:20:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 03:20:54.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:41176] logged in with entity id 2412 at (3041.018454804841, 71.0, -1407.8521296568715)
+[05Dec2024 03:20:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[05Dec2024 03:20:59.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5619ms or 112 ticks behind
+[05Dec2024 03:21:23.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Spectator Mode]
+[05Dec2024 03:21:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 03:21:49.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
