@@ -1891,3 +1891,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 08:20:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
 [05Dec2024 08:21:02.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
 [05Dec2024 08:21:12.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.44788150710496666
+[05Dec2024 08:22:26.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 08:26:44.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[05Dec2024 08:26:44.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[05Dec2024 08:28:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has completed the challenge [Drakvyrn Slayer]
+[05Dec2024 08:28:51.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 08:28:51.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]

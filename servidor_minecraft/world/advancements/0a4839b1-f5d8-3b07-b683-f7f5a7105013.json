@@ -1419,7 +1419,8 @@
       "minecraft:husk": "2024-12-04 07:43:22 +0000",
       "minecraft:enderman": "2024-11-30 04:51:43 +0000",
       "minecraft:silverfish": "2024-11-30 04:37:50 +0000",
-      "minecraft:zombie": "2024-11-29 09:18:27 +0000"
+      "minecraft:zombie": "2024-11-29 09:18:27 +0000",
+      "minecraft:drowned": "2024-12-05 08:29:07 +0000"
     },
     "done": false
   },
@@ -2935,6 +2936,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-05 08:27:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-05 07:46:14 +0000"
@@ -3001,6 +3008,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-05 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-05 08:27:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-05 08:07:58 +0000"
@@ -3025,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-05 08:23:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-05 07:46:14 +0000"
@@ -3034,6 +3059,18 @@
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-05 08:27:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-05 08:27:30 +0000"
     },
     "done": true
   },

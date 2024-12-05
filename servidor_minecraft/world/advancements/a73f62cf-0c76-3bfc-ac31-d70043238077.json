@@ -6276,6 +6276,12 @@
     },
     "done": true
   },
+  "choups_drakvyrn_mod:drakvyrn_slayer": {
+    "criteria": {
+      "drakvyrn_slayer_0": "2024-12-05 08:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-05 07:33:12 +0000"
