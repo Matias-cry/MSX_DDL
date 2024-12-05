@@ -6270,5 +6270,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-05 07:33:12 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-05 07:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-05 07:46:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

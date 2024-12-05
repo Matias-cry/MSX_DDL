@@ -52,6 +52,7 @@
       "minecraft:sunflower_plains": "2024-11-29 09:55:46 +0000",
       "minecraft:beach": "2024-11-29 09:38:22 +0000",
       "minecraft:river": "2024-11-30 04:48:36 +0000",
+      "minecraft:dripstone_caves": "2024-12-05 07:56:21 +0000",
       "minecraft:cold_ocean": "2024-12-04 08:32:55 +0000",
       "minecraft:forest": "2024-11-29 10:01:44 +0000",
       "minecraft:lush_caves": "2024-12-04 08:20:09 +0000",
@@ -2849,9 +2850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-05 07:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
     },
     "done": true
   },
@@ -2861,9 +2874,45 @@
     },
     "done": true
   },
+  "ancient_elements:crystal_pioneer": {
+    "criteria": {
+      "crystal_pioneer": "2024-12-05 07:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-05 07:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
     },
     "done": true
   },
@@ -2873,9 +2922,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2024-12-05 07:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-05 07:46:14 +0000"
     },
     "done": true
   },

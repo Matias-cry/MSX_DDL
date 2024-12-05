@@ -1599,3 +1599,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 07:29:12.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10328ms or 206 ticks behind
 [05Dec2024 07:29:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
 [05Dec2024 07:29:29.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[05Dec2024 07:30:47.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Dec2024 07:31:05.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Dec2024 07:32:15.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 07:37:00.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has reached the goal [Crystal Pioneer]
+[05Dec2024 07:38:04.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Dec2024 07:38:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Shiny Object Syndrome]
+[05Dec2024 07:38:44.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 07:39:15.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was doomed to fall by Necromancer
+[05Dec2024 07:39:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
+[05Dec2024 07:39:22.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[05Dec2024 07:41:22.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Dec2024 07:45:00.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[05Dec2024 07:45:18.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
+[05Dec2024 07:46:11.932] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept clear action of the Crying0bsidian, nbt: {Cubes:1b,Markers:1b,Paints:1b,PartType:"armourers:unknown"}
+[05Dec2024 07:48:27.802] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/20903 - bloody champian.armour', to: 'db:'
+[05Dec2024 07:49:04.314] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept clear action of the Crying0bsidian, nbt: {Cubes:1b,Markers:1b,Paints:1b,PartType:"armourers:unknown"}
+[05Dec2024 07:51:20.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 07:52:58.568] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept clear action of the Crying0bsidian, nbt: {Cubes:1b,Markers:1b,Paints:1b,PartType:"armourers:unknown"}
+[05Dec2024 07:53:29.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[05Dec2024 07:53:29.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[05Dec2024 07:53:44.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:36090] logged in with entity id 63971 at (23.465991355577156, 66.0, 129.4440900591455)
+[05Dec2024 07:53:44.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[05Dec2024 07:55:27.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65032, l='ServerLevel[world]', x=131.60, y=63.00, z=1687.10] died, message: 'Villager was slain by Roost Rider'
+[05Dec2024 07:57:08.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 07:57:14.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 07:57:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Fire Dragon
+[05Dec2024 07:57:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was incinerated by Fire Dragon
+[05Dec2024 07:57:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[05Dec2024 07:57:47.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[05Dec2024 07:57:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[05Dec2024 07:57:59.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[05Dec2024 07:57:59.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[05Dec2024 07:57:59.877] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 07:59:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was turned into KFC by Fire Dragon
+[05Dec2024 07:59:17.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[05Dec2024 07:59:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[05Dec2024 08:00:01.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was incinerated by Fire Dragon
+[05Dec2024 08:00:05.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[05Dec2024 08:00:05.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI walked into fire whilst fighting Fire Dragon
+[05Dec2024 08:00:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[05Dec2024 08:00:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was incinerated by Fire Dragon
+[05Dec2024 08:00:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
+[05Dec2024 08:01:10.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was slain by Fire Dragon
+[05Dec2024 08:01:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to marzuyo]
+[05Dec2024 08:01:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was burnt to a crisp whilst fighting KAMAIROKI
+[05Dec2024 08:01:22.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to KAMAIROKI]
