@@ -1011,3 +1011,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 05:19:22.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3240645962239199
 [05Dec2024 05:19:22.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3319059842026917
 [05Dec2024 05:19:22.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6160889014308775
+[05Dec2024 05:31:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Forged in Flame]
