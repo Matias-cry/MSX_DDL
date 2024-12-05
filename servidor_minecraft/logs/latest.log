@@ -947,3 +947,67 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:55:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 3724.000000, 63.000000, -1915.000000]
 [05Dec2024 04:55:51.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 0.000000, 73.000000, 158.000000]
 [05Dec2024 05:03:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 05:07:49.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 05:08:03.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 05:09:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -4.500000, 68.000000, 118.500000]
+[05Dec2024 05:10:02.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 05:12:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 05:12:06.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 05:12:29.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 05:14:25.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: You logged in from another location
+[05Dec2024 05:14:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[05Dec2024 05:14:25.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55980] logged in with entity id 49640 at (-19.695293674732703, 60.0, 115.90163360176226)
+[05Dec2024 05:14:26.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[05Dec2024 05:14:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 05:15:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 05:16:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> marcos
+[05Dec2024 05:17:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ?
+[05Dec2024 05:17:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo hit the ground too hard
+[05Dec2024 05:18:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> marcos
+[05Dec2024 05:19:19.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.27098147597454414
+[05Dec2024 05:19:19.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6723916306447606
+[05Dec2024 05:19:19.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
+[05Dec2024 05:19:19.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
+[05Dec2024 05:19:19.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
+[05Dec2024 05:19:19.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
+[05Dec2024 05:19:20.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.27225978192623757
+[05Dec2024 05:19:20.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6865804035788571
+[05Dec2024 05:19:20.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.1635778978610478
+[05Dec2024 05:19:20.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.6557678102321134
+[05Dec2024 05:19:20.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 2.1542372762803703
+[05Dec2024 05:19:20.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 2.655927697791615
+[05Dec2024 05:19:20.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3192997230647734
+[05Dec2024 05:19:20.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3189555673843927
+[05Dec2024 05:19:20.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3203697269314034
+[05Dec2024 05:19:21.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3219180586499988
+[05Dec2024 05:19:21.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32314762639148853
+[05Dec2024 05:19:21.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32574910043469174
+[05Dec2024 05:19:21.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32038810326166356
+[05Dec2024 05:19:21.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.31953793792779095
+[05Dec2024 05:19:21.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.4744869719858684
+[05Dec2024 05:19:21.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.9920556977539121
+[05Dec2024 05:19:21.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.5449762422766184
+[05Dec2024 05:19:21.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.44444517000935946
+[05Dec2024 05:19:21.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.38390000354675635
+[05Dec2024 05:19:21.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3535218894796657
+[05Dec2024 05:19:21.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3388654767064736
+[05Dec2024 05:19:21.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3855710005297368
+[05Dec2024 05:19:21.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3572070464885968
+[05Dec2024 05:19:21.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.34397361705707397
+[05Dec2024 05:19:21.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3301396787486368
+[05Dec2024 05:19:21.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32475581154542965
+[05Dec2024 05:19:21.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32347332193758405
+[05Dec2024 05:19:21.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3239798167680732
+[05Dec2024 05:19:21.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.7850299140934793
+[05Dec2024 05:19:21.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.345616539407942
+[05Dec2024 05:19:22.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3310187737422581
+[05Dec2024 05:19:22.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3252261977492594
+[05Dec2024 05:19:22.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32372501621675553
+[05Dec2024 05:19:22.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.7751783235849153
+[05Dec2024 05:19:22.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.36442001302275173
+[05Dec2024 05:19:22.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.34783313163846685
+[05Dec2024 05:19:22.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3322048280507204
+[05Dec2024 05:19:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32586083176234126
+[05Dec2024 05:19:22.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3240645962239199
+[05Dec2024 05:19:22.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3319059842026917
+[05Dec2024 05:19:22.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6160889014308775
