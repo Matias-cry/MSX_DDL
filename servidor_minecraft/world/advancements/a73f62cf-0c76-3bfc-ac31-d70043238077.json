@@ -6053,6 +6053,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-05 04:05:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2024-12-05 03:50:21 +0000"

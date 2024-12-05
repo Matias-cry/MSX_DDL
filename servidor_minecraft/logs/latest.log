@@ -891,3 +891,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:02:04.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Disconnected
 [05Dec2024 04:02:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
 [05Dec2024 04:02:04.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 04:04:23.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1284abfe[id=<null>,name=Crying0bsidian,properties={},legacy=false] (/[::1]:39590): Took too long to log in
+[05Dec2024 04:04:23.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1284abfe[id=<null>,name=Crying0bsidian,properties={},legacy=false] (/[::1]:39590) lost connection: Took too long to log in
+[05Dec2024 04:04:23.707] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 04:05:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 04:05:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[05Dec2024 04:05:37.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55864] logged in with entity id 27400 at (3297.439895166956, 69.42159999847412, -1949.4475217907034)
+[05Dec2024 04:05:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[05Dec2024 04:09:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
+[05Dec2024 04:11:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> porque no hablas
+[05Dec2024 04:12:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> oye
+[05Dec2024 04:12:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> hablaa
+[05Dec2024 04:12:38.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[05Dec2024 04:12:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game

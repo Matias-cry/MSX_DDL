@@ -5648,30 +5648,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
-    "criteria": {
-      "has_item": "2024-12-05 03:41:43 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/monstrometer": {
-    "criteria": {
-      "has_silver_block": "2024-12-05 03:07:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
-    "criteria": {
-      "has_item": "2024-12-05 03:41:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2024-12-05 03:41:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2024-12-05 03:07:24 +0000"
@@ -5681,12 +5657,6 @@
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-05 03:07:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2024-12-05 03:41:43 +0000"
     },
     "done": true
   },
@@ -5702,21 +5672,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
-      "bestiary": "2024-12-05 03:49:24 +0000"
+      "has_dragonscales_blue": "2024-12-05 03:07:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
+  "galosphere:recipes/decorations/monstrometer": {
     "criteria": {
-      "has_creeper_head": "2024-12-05 03:30:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks": {
-    "criteria": {
-      "has_item": "2024-12-05 03:41:49 +0000"
+      "has_silver_block": "2024-12-05 03:07:55 +0000"
     },
     "done": true
   },
@@ -5726,9 +5690,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone": {
+  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
     "criteria": {
-      "has_item": "2024-12-05 03:42:22 +0000"
+      "has_silver_block": "2024-12-05 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-05 03:30:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-05 03:41:43 +0000"
     },
     "done": true
   },
@@ -5738,27 +5726,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
-    "criteria": {
-      "has_item": "2024-12-05 03:42:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2024-12-05 03:07:24 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2024-12-05 03:41:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks": {
     "criteria": {
-      "has_silver_block": "2024-12-05 03:07:55 +0000"
+      "has_item": "2024-12-05 03:41:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-05 03:41:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-05 03:49:24 +0000"
     },
     "done": true
   },
