@@ -9305,3 +9305,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 09:01:24.800] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa PanConPez
 [05Dec2024 09:01:52.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 09:01:52.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 09:04:03.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Dec2024 09:04:36.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Applied effect Jump Boost to PanConPez]
+[05Dec2024 09:04:42.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez moved too quickly! -0.007459277815854648,10.420000076293945,0.005394848385208206
+[05Dec2024 09:04:44.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez moved too quickly! 0.0,10.420000076293945,0.0033354791037822906
+[05Dec2024 09:04:45.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez moved too quickly! 0.008673091580334358,10.420000076293945,0.0
+[05Dec2024 09:04:46.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez moved too quickly! 0.0,10.420000076293945,0.0
+[05Dec2024 09:05:55.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Voluntary Exile]
+[05Dec2024 09:06:54.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 09:06:54.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 09:07:50.410] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/17403 - demon wing.armour', to: 'db:'
+[05Dec2024 09:07:50.411] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file 'VfO7BipafE' into 'world'
+[05Dec2024 09:07:50.412] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => finish skin loading
+[05Dec2024 09:07:50.903] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => accept skin request
+[05Dec2024 09:07:50.903] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => response skin data, exception: null
+[05Dec2024 09:08:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 09:08:31.250] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:08:44.086] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:08:53.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved wrongly!
+[05Dec2024 09:08:55.216] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:09:17.099] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => accept skin request
+[05Dec2024 09:09:17.099] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => response skin data, exception: null
+[05Dec2024 09:09:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[05Dec2024 09:09:25.782] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: keep careful KAMAIROKI
+[05Dec2024 09:09:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Killed KAMAIROKI]
+[05Dec2024 09:09:27.024] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: woa KAMAIROKI
+[05Dec2024 09:09:28.294] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => accept skin request
+[05Dec2024 09:09:28.294] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:VfO7BipafE' => response skin data, exception: null
+[05Dec2024 09:09:33.621] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/03871 - Demon King Helmet.armour', to: 'db:'
+[05Dec2024 09:09:33.623] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:POal5jvO06' => finish skin loading
+[05Dec2024 09:09:39.570] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/03434 - Lunar King Leggings+Boots.armour', to: 'db:'
+[05Dec2024 09:09:39.571] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:n7jhGcqxxf' => finish skin loading
+[05Dec2024 09:09:50.314] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/03433 - Lunar King Robes.armour', to: 'db:'
+[05Dec2024 09:09:50.316] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:6ipm0RVh8i' => finish skin loading
+[05Dec2024 09:09:56.505] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:09:57.007] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:09:57.615] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:10:33.229] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/02568 - Portal Sword.armour', to: 'db:'
+[05Dec2024 09:10:33.230] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file '8KYsWACO3J' into 'world'
+[05Dec2024 09:10:33.231] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => finish skin loading
+[05Dec2024 09:10:33.529] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => accept skin request
+[05Dec2024 09:10:33.529] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => response skin data, exception: null
+[05Dec2024 09:10:35.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [An Ear-Shattering Roar]
+[05Dec2024 09:10:38.056] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 09:10:38.357] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => accept skin request
+[05Dec2024 09:10:38.357] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => response skin data, exception: null
+[05Dec2024 09:10:38.406] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => accept skin request
+[05Dec2024 09:10:38.406] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:8KYsWACO3J' => response skin data, exception: null
+[05Dec2024 09:11:54.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 09:11:54.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 09:12:46.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 09:14:05.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI lost connection: Timed out
+[05Dec2024 09:14:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI left the game
+[05Dec2024 09:14:05.785] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: good bye KAMAIROKI
+[05Dec2024 09:14:05.785] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: remove synced player 0a4839b1-f5d8-3b07-b683-f7f5a7105013
