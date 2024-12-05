@@ -1366,3 +1366,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 11:54:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
 [05Dec2024 11:57:01.581] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/20849 - Half black Cape.armour', to: 'db:'
 [05Dec2024 11:59:22.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 12:05:31.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 12:06:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> oye
+[05Dec2024 12:06:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> estas en discord?
+[05Dec2024 12:07:19.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
+[05Dec2024 12:07:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[05Dec2024 12:09:46.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[05Dec2024 12:09:46.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
