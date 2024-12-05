@@ -64,6 +64,7 @@
       "minecraft:lukewarm_ocean": "2024-12-04 01:47:58 +0000",
       "minecraft:snowy_plains": "2024-12-05 02:24:45 +0000",
       "minecraft:dripstone_caves": "2024-11-29 07:02:19 +0000",
+      "minecraft:snowy_taiga": "2024-12-05 02:50:21 +0000",
       "minecraft:cold_ocean": "2024-11-29 21:40:43 +0000",
       "minecraft:forest": "2024-11-29 05:48:35 +0000",
       "minecraft:lush_caves": "2024-12-04 08:26:02 +0000",
@@ -5853,9 +5854,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2024-12-05 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
     },
     "done": true
   },
@@ -5883,6 +5896,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-05 02:53:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-05 02:44:26 +0000"
@@ -5907,6 +5926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-05 02:44:26 +0000"
@@ -5916,6 +5941,12 @@
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2024-12-05 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
     },
     "done": true
   },
@@ -5931,6 +5962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-05 02:34:48 +0000"
@@ -5940,6 +5977,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2024-12-05 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
     },
     "done": true
   },
@@ -5970,6 +6013,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-05 02:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-05 02:52:54 +0000"
     },
     "done": true
   },
