@@ -1013,3 +1013,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 05:19:22.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6160889014308775
 [05Dec2024 05:31:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Forged in Flame]
 [05Dec2024 05:42:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Local Brewery]
+[05Dec2024 05:45:12.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 05:47:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Draconic Evolution]
