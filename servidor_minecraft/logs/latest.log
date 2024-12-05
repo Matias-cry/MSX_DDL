@@ -815,3 +815,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 01:32:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Zombified Piglin
 [05Dec2024 01:35:42.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
 [05Dec2024 01:35:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 01:38:08.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3028ms or 60 ticks behind
+[05Dec2024 01:47:25.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 01:47:41.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 01:47:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
