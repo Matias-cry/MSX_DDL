@@ -2371,3 +2371,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 09:12:46.834] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [05Dec2024 09:14:05.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI lost connection: Timed out
 [05Dec2024 09:14:05.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI left the game
+[05Dec2024 09:25:06.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez lost connection: Timed out
+[05Dec2024 09:25:06.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
+[05Dec2024 09:27:23.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanConPez[/[::1]:60812] logged in with entity id 111260 at (192.5214007224584, 121.0, 287.6649110715152)
+[05Dec2024 09:27:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez joined the game
+[05Dec2024 09:28:37.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [What a Deal!]
+[05Dec2024 09:29:39.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez lost connection: Timed out
+[05Dec2024 09:29:39.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
+[05Dec2024 09:29:39.149] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Dec2024 09:33:48.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanConPez[/[::1]:44894] logged in with entity id 112273 at (188.67487306572073, 121.5625, 285.30000001192093)
+[05Dec2024 09:33:48.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez joined the game
+[05Dec2024 09:35:38.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 09:36:17.686] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Dec2024 09:36:58.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez has made the advancement [Mine? Mine? Mine?]
+[05Dec2024 09:39:04.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 09:43:03.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=65, z=213} BlockPos{x=365, y=63, z=211}
+[05Dec2024 09:43:03.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=65, z=213} BlockPos{x=365, y=63, z=211}

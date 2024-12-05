@@ -6271,9 +6271,39 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
     "criteria": {
       "has_wayfinder_armor_trim_smithing_template": "2024-12-05 08:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
     },
     "done": true
   },
@@ -6283,15 +6313,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
   "choups_drakvyrn_mod:drakvyrn_slayer": {
     "criteria": {
       "drakvyrn_slayer_0": "2024-12-05 08:28:24 +0000"
     },
     "done": true
   },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-05 09:32:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-05 09:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-05 08:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
     },
     "done": true
   },
@@ -6310,6 +6430,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-05 07:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-05 09:23:40 +0000"
     },
     "done": true
   },
