@@ -827,3 +827,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 01:52:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> pontelo en
 [05Dec2024 01:52:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> la otra
 [05Dec2024 01:53:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Magery]
+[05Dec2024 02:06:53.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 02:08:24.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 02:08:24.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
