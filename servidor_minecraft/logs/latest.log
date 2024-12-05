@@ -1,49 +1,47 @@
-[05Dec2024 03:01:59.208] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Dec2024 03:01:59.226] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Dec2024 03:02:08.909] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Dec2024 03:02:09.206] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX_DDL/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Dec2024 03:02:10.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 03:02:10.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 03:02:10.294] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 03:02:10.298] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Dec2024 03:02:11.593] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Dec2024 03:02:11.595] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[05Dec2024 03:02:18.334] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Dec2024 03:02:18.645] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Dec2024 03:02:22.469] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[05Dec2024 03:02:22.470] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[05Dec2024 03:02:22.471] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[05Dec2024 03:02:24.337] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[05Dec2024 03:02:44.414] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[05Dec2024 06:08:07.198] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Dec2024 06:08:07.215] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Dec2024 06:08:14.625] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Dec2024 06:08:14.735] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX_DDL/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Dec2024 06:08:15.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 06:08:15.517] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 06:08:15.519] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 06:08:15.523] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 06:08:15.948] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Dec2024 06:08:15.950] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[05Dec2024 06:08:22.861] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Dec2024 06:08:23.141] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Dec2024 06:08:25.974] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05Dec2024 06:08:25.978] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[05Dec2024 06:08:25.983] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[05Dec2024 06:08:28.237] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[05Dec2024 06:08:46.698] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[05Dec2024 03:02:47.593] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[05Dec2024 03:02:47.629] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[05Dec2024 03:02:49.074] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Dec2024 03:02:49.076] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Dec2024 03:02:49.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Dec2024 03:02:49.096] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Dec2024 03:02:49.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Dec2024 03:02:49.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Dec2024 03:02:49.120] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Dec2024 03:02:49.126] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Dec2024 03:02:50.433] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Dec2024 03:02:50.433] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Dec2024 03:02:53.478] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[05Dec2024 03:02:54.906] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Dec2024 03:03:02.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda/0x00007fd5f1c03560@5cc5ab55] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
-[05Dec2024 03:03:02.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.ReplaceItemModifier$$Lambda/0x00007fd5f1c04078@c38b88] * Field[conditions: passthrough[flatXmapped]] * Field[removed_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * Field[added_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:replace_item.
-[05Dec2024 03:03:02.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda/0x00007fd5f1c04730@79c1d32] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
-[05Dec2024 03:03:02.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda/0x00007fd5f1c04dc8@76729197] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e]] has been registered twice for the same name farmersdelight:pastry_slicing.
-[05Dec2024 03:03:02.899] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[05Dec2024 03:03:07.427] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
-[05Dec2024 03:03:07.435] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
-[05Dec2024 03:03:07.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Dec2024 03:03:08.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[05Dec2024 03:03:08.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [galospheretrimming] Starting version check at https://github.com/KreloX/GalosphereTrimming/blob/master/updates.json
-[05Dec2024 03:03:08.517] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
-[05Dec2024 03:03:08.631] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[05Dec2024 03:03:08.640] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
-[05Dec2024 03:03:08.770] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[05Dec2024 06:08:49.669] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[05Dec2024 06:08:49.697] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[05Dec2024 06:08:50.907] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Dec2024 06:08:50.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Dec2024 06:08:50.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Dec2024 06:08:50.922] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Dec2024 06:08:50.932] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Dec2024 06:08:50.934] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Dec2024 06:08:50.936] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Dec2024 06:08:50.946] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Dec2024 06:08:52.217] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Dec2024 06:08:52.227] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Dec2024 06:08:55.447] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[05Dec2024 06:08:57.144] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Dec2024 06:09:04.713] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddItemModifier$$Lambda/0x00007f0701c04720@5cc5ab55] * Field[conditions: passthrough[flatXmapped]] * Field[item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:add_item.
+[05Dec2024 06:09:04.721] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.ReplaceItemModifier$$Lambda/0x00007f0701c05238@c38b88] * Field[conditions: passthrough[flatXmapped]] * Field[removed_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * Field[added_item: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e] * OptionalFieldCodec[count: Int][xmapped]] has been registered twice for the same name farmersdelight:replace_item.
+[05Dec2024 06:09:04.721] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.AddLootTableModifier$$Lambda/0x00007f0701c058f0@79c1d32] * Field[conditions: passthrough[flatXmapped]] * Field[lootTable: String[comapFlatMapped]]] has been registered twice for the same name farmersdelight:add_loot_table.
+[05Dec2024 06:09:04.722] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry forge:global_loot_modifier_serializers: The object RecordCodec[UnitDecoder[vectorwing.farmersdelight.common.loot.modifier.PastrySlicingModifier$$Lambda/0x00007f0701c05f88@76729197] * Field[conditions: passthrough[flatXmapped]] * Field[slice: net.minecraftforge.registries.ForgeRegistry$RegistryCodec@1dad2f1e]] has been registered twice for the same name farmersdelight:pastry_slicing.
+[05Dec2024 06:09:05.140] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[05Dec2024 06:09:08.238] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: HELLO FROM PREINIT
+[05Dec2024 06:09:08.241] [modloading-worker-0/INFO] [com.axedgaming.endersdelight.EndersDelight/]: DIRT BLOCK >> translation{key='block.minecraft.dirt', args=[]}
+[05Dec2024 06:09:08.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Dec2024 06:09:09.000] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[05Dec2024 06:09:09.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [galospheretrimming] Starting version check at https://github.com/KreloX/GalosphereTrimming/blob/master/updates.json
+[05Dec2024 06:09:09.345] [main/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Starting to register Curios item...
+[05Dec2024 06:09:09.387] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -58,42 +56,44 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[05Dec2024 03:03:15.732] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Dec2024 03:03:20.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[05Dec2024 03:03:20.490] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[05Dec2024 03:03:23.472] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.480] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.488] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.490] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.505] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.514] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.520] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.548] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.555] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.557] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_absi_palace/start_pool`: { spacing: 50, separation: 25, salt: 19482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.558] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_accum_quad/start_pool`: { spacing: 50, separation: 25, salt: 28482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.563] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_blaze_tower/start_pool`: { spacing: 50, separation: 25, salt: 37482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.564] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_center_square/start_pool`: { spacing: 50, separation: 25, salt: 46482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.565] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_giant_crimson_tree/start_pool`: { spacing: 50, separation: 25, salt: 55482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.566] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_obsi_house/start_pool`: { spacing: 50, separation: 25, salt: 64482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.567] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.568] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.569] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.570] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.571] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.572] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.572] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.578] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.579] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.580] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
-[05Dec2024 03:03:23.596] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
-[05Dec2024 03:03:26.827] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Dec2024 03:03:27.327] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:illager as it is missing following references: roost2:bandit (from roost2-1.0.0r-forge-1.20.1.jar)
-[05Dec2024 03:03:27.329] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[05Dec2024 06:09:09.416] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[05Dec2024 06:09:09.434] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[05Dec2024 06:09:16.298] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Dec2024 06:09:21.468] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[05Dec2024 06:09:21.472] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX_DDL/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[05Dec2024 06:09:24.047] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:abandoned_oak_palace/start_pool`: { spacing: 50, separation: 25, salt: 1694767080, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.068] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonend:aws_all_end_structures/start_pool`: { spacing: 20, separation: 15, salt: 49082056, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.071] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:better_default_jungle_temple/start_pool`: { spacing: 50, separation: 25, salt: 1654787080, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.081] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.113] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:desert_temple_husk/start_pool`: { spacing: 50, separation: 25, salt: 1394767080, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.118] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.120] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.153] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:jungle_giant_tree/start_pool`: { spacing: 50, separation: 25, salt: 1494763380, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.164] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:mushroom_abandonned/start_pool`: { spacing: 50, separation: 25, salt: 1494227080, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.170] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_absi_palace/start_pool`: { spacing: 50, separation: 25, salt: 19482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.172] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_accum_quad/start_pool`: { spacing: 50, separation: 25, salt: 28482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.174] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_blaze_tower/start_pool`: { spacing: 50, separation: 25, salt: 37482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.177] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_center_square/start_pool`: { spacing: 50, separation: 25, salt: 46482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.179] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_giant_crimson_tree/start_pool`: { spacing: 50, separation: 25, salt: 55482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.180] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonnether:nth_obsi_house/start_pool`: { spacing: 50, separation: 25, salt: 64482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.183] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.186] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.188] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.191] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.193] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.194] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.197] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.208] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:swamp_big_temple/start_pool`: { spacing: 50, separation: 25, salt: 1594763280, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.210] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:the_usine/start_pool`: { spacing: 50, separation: 25, salt: 1694767078, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.211] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:t_z_tower/start_pool`: { spacing: 50, separation: 25, salt: 1794767078, useValueFromConfiguration: true}
+[05Dec2024 06:09:24.212] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeon:witch_castle/start_pool`: { spacing: 50, separation: 25, salt: 1894776078, useValueFromConfiguration: true}
+[05Dec2024 06:09:26.774] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Dec2024 06:09:27.012] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:illager as it is missing following references: roost2:bandit (from roost2-1.0.0r-forge-1.20.1.jar)
+[05Dec2024 06:09:27.024] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[05Dec2024 03:03:28.782] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/exotic_roll_medley_block
+[05Dec2024 06:09:28.968] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/exotic_roll_medley_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'culturaldelights:exotic_roll_medley_block'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -145,7 +145,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Dec2024 03:03:28.937] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_leaves
+[05Dec2024 06:09:29.157] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_leaves
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -213,7 +213,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Dec2024 03:03:29.276] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_leaf_carpet
+[05Dec2024 06:09:29.522] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_leaf_carpet
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'culturaldelights:avocado_leaf_carpet'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -265,7 +265,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Dec2024 03:03:29.486] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_bundle
+[05Dec2024 06:09:29.834] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/avocado_bundle
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'culturaldelights:avocado_bundle'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -331,7 +331,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Dec2024 03:03:29.854] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/fruiting_avocado_leaves
+[05Dec2024 06:09:30.078] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:culturaldelights:blocks/fruiting_avocado_leaves
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -399,7 +399,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Dec2024 03:03:30.113] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:beetroot_soup from minecraft:recipes/beetroot_soup.json
+[05Dec2024 06:09:30.268] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:beetroot_soup from minecraft:recipes/beetroot_soup.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
@@ -424,7 +424,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	... 13 more
-[05Dec2024 03:03:30.369] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:mushroom_stew from minecraft:recipes/mushroom_stew.json
+[05Dec2024 06:09:30.556] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:mushroom_stew from minecraft:recipes/mushroom_stew.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
@@ -449,7 +449,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	... 13 more
-[05Dec2024 03:03:30.490] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:rabbit_stew_from_brown_mushroom from minecraft:recipes/rabbit_stew_from_brown_mushroom.json
+[05Dec2024 06:09:30.589] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:rabbit_stew_from_brown_mushroom from minecraft:recipes/rabbit_stew_from_brown_mushroom.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
@@ -474,7 +474,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	... 13 more
-[05Dec2024 03:03:30.510] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:rabbit_stew_from_red_mushroom from minecraft:recipes/rabbit_stew_from_red_mushroom.json
+[05Dec2024 06:09:30.598] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file minecraft:rabbit_stew_from_red_mushroom from minecraft:recipes/rabbit_stew_from_red_mushroom.json
 com.google.gson.JsonParseException: java.io.EOFException: End of input at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
@@ -499,8 +499,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	... 13 more
-[05Dec2024 03:03:31.286] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost2:entities/roost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[05Dec2024 03:03:31.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[05Dec2024 06:09:31.413] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost2:entities/roost}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[05Dec2024 06:09:31.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -536,7 +536,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:31.768] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+[05Dec2024 06:09:32.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
 com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -572,7 +572,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:32.019] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelights:fermenting/pickle
+[05Dec2024 06:09:32.270] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelights:fermenting/pickle
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'brewinandchewin:fermenting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -599,7 +599,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'brewina
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:32.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe festive_delight:spring_rolls_craft
+[05Dec2024 06:09:32.316] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe festive_delight:spring_rolls_craft
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:wheat_dought'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -636,9 +636,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:wheat_dought'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:32.067] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
-[05Dec2024 03:03:32.407] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2755 advancements
-[05Dec2024 03:03:32.472] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[05Dec2024 06:09:32.356] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[05Dec2024 06:09:33.085] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2755 advancements
+[05Dec2024 06:09:33.125] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -697,8 +697,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:32.479] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[05Dec2024 03:03:32.479] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[05Dec2024 06:09:33.131] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[05Dec2024 06:09:33.132] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -757,261 +757,73 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Dec2024 03:03:32.485] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[05Dec2024 03:03:32.502] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[05Dec2024 03:03:32.513] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[05Dec2024 03:03:32.514] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[05Dec2024 03:03:37.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Dec2024 03:03:37.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Dec2024 03:03:37.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Dec2024 03:03:37.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Dec2024 03:03:37.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Dec2024 03:03:38.062] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Dec2024 03:03:38.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Dec2024 03:03:38.247] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Dec2024 03:03:38.248] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Dec2024 03:03:38.249] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Dec2024 03:03:39.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Dec2024 03:03:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Dec2024 03:04:06.962] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.973] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.975] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.976] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.980] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:06.982] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.157] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.783] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:08.803] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.907] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.908] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.924] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.927] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.929] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.937] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.939] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:09.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:10.048] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:10.524] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:11.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Dec2024 03:04:11.524] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[05Dec2024 03:04:12.659] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20136 ms
-[05Dec2024 03:04:12.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.625s)! For help, type "help"
-[05Dec2024 03:04:12.824] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Dec2024 03:04:12.832] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[05Dec2024 03:04:12.833] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[05Dec2024 03:05:08.865] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Dec2024 03:05:09.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:48098] logged in with entity id 100 at (3274.578583107081, 87.0, -1061.040151761918)
-[05Dec2024 03:05:09.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
-[05Dec2024 03:05:15.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
-[05Dec2024 03:05:34.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
-[05Dec2024 03:05:44.956] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3471, y=0, z=-1017}
-[05Dec2024 03:07:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
-[05Dec2024 03:08:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
-[05Dec2024 03:19:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Dec2024 03:19:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
-[05Dec2024 03:20:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
-[05Dec2024 03:20:54.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:41176] logged in with entity id 2412 at (3041.018454804841, 71.0, -1407.8521296568715)
-[05Dec2024 03:20:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
-[05Dec2024 03:20:59.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5619ms or 112 ticks behind
-[05Dec2024 03:21:23.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Spectator Mode]
-[05Dec2024 03:21:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
-[05Dec2024 03:21:49.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[05Dec2024 03:22:11.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7385ms or 147 ticks behind
-[05Dec2024 03:25:52.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[05Dec2024 03:33:11.355] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 03:33:33.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 03:34:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has reached the goal [Ice Scream]
-[05Dec2024 03:38:30.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9791, l='ServerLevel[world]', x=3512.49, y=103.00, z=-2064.05] died, message: 'Villager was slain by Froststalker'
-[05Dec2024 03:41:49.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Suit Up]
-[05Dec2024 03:41:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Suit Up]
-[05Dec2024 03:42:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Ghoul
-[05Dec2024 03:42:26.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[05Dec2024 03:42:28.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 03:44:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was pummeled by Crying0bsidian
-[05Dec2024 03:44:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 03:44:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:45:03.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[05Dec2024 03:45:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:45:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:45:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:46:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:46:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:47:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
-[05Dec2024 03:47:45.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[05Dec2024 03:47:50.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chef'/14339, l='ServerLevel[world]', x=2842.39, y=93.00, z=-745.44] died, message: 'Chef was pummeled by marzuyo'
-[05Dec2024 03:47:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -10.000000, 69.000000, 123.000000]
-[05Dec2024 03:48:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:48:08.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
-[05Dec2024 03:48:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:48:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3304.500000, 69.000000, -1947.500000]
-[05Dec2024 03:48:42.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[05Dec2024 03:49:24.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [The Song of the Dragons]
-[05Dec2024 03:49:37.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 03:50:00.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was pummeled by marzuyo
-[05Dec2024 03:50:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
-[05Dec2024 03:50:04.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:50:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 03:50:21.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [The Song of the Dragons]
-[05Dec2024 03:50:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:50:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 03:51:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
-[05Dec2024 03:51:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 03:52:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:52:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was slain by Dread Knight
-[05Dec2024 03:53:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3304.500000, 69.000000, -1947.500000]
-[05Dec2024 03:53:19.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[05Dec2024 03:57:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:59:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3301.500000, 69.000000, -1947.500000]
-[05Dec2024 03:59:41.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[05Dec2024 03:59:43.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 03:59:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to 3290.500000, 68.000000, -1954.500000]
-[05Dec2024 03:59:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to Crying0bsidian]
-[05Dec2024 04:00:01.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5560ms or 111 ticks behind
-[05Dec2024 04:01:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 04:01:34.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 04:01:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was slain by Dread Knight
-[05Dec2024 04:02:04.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Disconnected
-[05Dec2024 04:02:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
-[05Dec2024 04:02:04.065] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Dec2024 04:04:23.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1284abfe[id=<null>,name=Crying0bsidian,properties={},legacy=false] (/[::1]:39590): Took too long to log in
-[05Dec2024 04:04:23.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1284abfe[id=<null>,name=Crying0bsidian,properties={},legacy=false] (/[::1]:39590) lost connection: Took too long to log in
-[05Dec2024 04:04:23.707] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Dec2024 04:05:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Dec2024 04:05:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
-[05Dec2024 04:05:37.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55864] logged in with entity id 27400 at (3297.439895166956, 69.42159999847412, -1949.4475217907034)
-[05Dec2024 04:05:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
-[05Dec2024 04:09:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 04:11:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> porque no hablas
-[05Dec2024 04:12:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> oye
-[05Dec2024 04:12:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> hablaa
-[05Dec2024 04:12:38.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
-[05Dec2024 04:12:38.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
-[05Dec2024 04:15:26.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! -8.731209692036373,2.375,4.771080799039964
-[05Dec2024 04:15:26.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
-[05Dec2024 04:16:27.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Dec2024 04:16:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
-[05Dec2024 04:17:08.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo was doomed to fall by Ice Dragon
-[05Dec2024 04:17:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 3293.500000, 105.000000, -1703.500000]
-[05Dec2024 04:17:22.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[05Dec2024 04:20:23.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:20:52.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:20:58.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo fell from a high place
-[05Dec2024 04:23:06.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:23:50.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:32860] logged in with entity id 34921 at (3284.4411411501333, 69.0, -1947.720953099764)
-[05Dec2024 04:23:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
-[05Dec2024 04:23:52.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo moved too quickly! -10.216518127263456,-0.2722207479599632,0.4216702996488806
-[05Dec2024 04:23:53.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:23:55.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
-[05Dec2024 04:24:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 04:30:22.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:31:30.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:38:24.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
-[05Dec2024 04:38:30.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [An Ear-Shattering Roar]
-[05Dec2024 04:39:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
-[05Dec2024 04:39:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Dragon Commander]
-[05Dec2024 04:40:02.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[05Dec2024 04:40:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
-[05Dec2024 04:40:27.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:40:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [An Ear-Shattering Roar]
-[05Dec2024 04:42:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Dragon Growth Hormone]
-[05Dec2024 04:48:47.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:49:50.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:49:50.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:49:50.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:49:50.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=121} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:49:50.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=120} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:49:51.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-43, y=68, z=120} BlockPos{x=-41, y=66, z=120}
-[05Dec2024 04:52:26.144] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:53:30.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 04:53:56.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 04:54:54.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 3754.000000, 63.000000, -1917.000000]
-[05Dec2024 04:55:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to -11.000000, 69.000000, 120.000000]
-[05Dec2024 04:55:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 3724.000000, 63.000000, -1915.000000]
-[05Dec2024 04:55:51.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Teleported marzuyo to 0.000000, 73.000000, 158.000000]
-[05Dec2024 05:03:50.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
-[05Dec2024 05:07:49.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
-[05Dec2024 05:08:03.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 05:09:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to -4.500000, 68.000000, 118.500000]
-[05Dec2024 05:10:02.724] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 05:12:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
-[05Dec2024 05:12:06.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 05:12:29.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 05:14:25.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: You logged in from another location
-[05Dec2024 05:14:25.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
-[05Dec2024 05:14:25.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55980] logged in with entity id 49640 at (-19.695293674732703, 60.0, 115.90163360176226)
-[05Dec2024 05:14:26.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
-[05Dec2024 05:14:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
-[05Dec2024 05:15:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
-[05Dec2024 05:16:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> marcos
-[05Dec2024 05:17:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marzuyo> ?
-[05Dec2024 05:17:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo hit the ground too hard
-[05Dec2024 05:18:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> marcos
-[05Dec2024 05:19:19.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.27098147597454414
-[05Dec2024 05:19:19.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6723916306447606
-[05Dec2024 05:19:19.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
-[05Dec2024 05:19:19.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
-[05Dec2024 05:19:19.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
-[05Dec2024 05:19:19.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.0
-[05Dec2024 05:19:20.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.27225978192623757
-[05Dec2024 05:19:20.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6865804035788571
-[05Dec2024 05:19:20.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.1635778978610478
-[05Dec2024 05:19:20.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 1.6557678102321134
-[05Dec2024 05:19:20.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 2.1542372762803703
-[05Dec2024 05:19:20.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 2.655927697791615
-[05Dec2024 05:19:20.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3192997230647734
-[05Dec2024 05:19:20.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3189555673843927
-[05Dec2024 05:19:20.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3203697269314034
-[05Dec2024 05:19:21.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3219180586499988
-[05Dec2024 05:19:21.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32314762639148853
-[05Dec2024 05:19:21.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32574910043469174
-[05Dec2024 05:19:21.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32038810326166356
-[05Dec2024 05:19:21.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.31953793792779095
-[05Dec2024 05:19:21.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.4744869719858684
-[05Dec2024 05:19:21.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.9920556977539121
-[05Dec2024 05:19:21.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.5449762422766184
-[05Dec2024 05:19:21.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.44444517000935946
-[05Dec2024 05:19:21.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.38390000354675635
-[05Dec2024 05:19:21.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3535218894796657
-[05Dec2024 05:19:21.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3388654767064736
-[05Dec2024 05:19:21.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3855710005297368
-[05Dec2024 05:19:21.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3572070464885968
-[05Dec2024 05:19:21.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.34397361705707397
-[05Dec2024 05:19:21.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3301396787486368
-[05Dec2024 05:19:21.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32475581154542965
-[05Dec2024 05:19:21.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32347332193758405
-[05Dec2024 05:19:21.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3239798167680732
-[05Dec2024 05:19:21.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.7850299140934793
-[05Dec2024 05:19:21.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.345616539407942
-[05Dec2024 05:19:22.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3310187737422581
-[05Dec2024 05:19:22.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3252261977492594
-[05Dec2024 05:19:22.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32372501621675553
-[05Dec2024 05:19:22.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.7751783235849153
-[05Dec2024 05:19:22.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.36442001302275173
-[05Dec2024 05:19:22.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.34783313163846685
-[05Dec2024 05:19:22.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3322048280507204
-[05Dec2024 05:19:22.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.32586083176234126
-[05Dec2024 05:19:22.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3240645962239199
-[05Dec2024 05:19:22.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.3319059842026917
-[05Dec2024 05:19:22.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved wrongly! 0.6160889014308775
-[05Dec2024 05:31:21.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Forged in Flame]
-[05Dec2024 05:42:18.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Local Brewery]
-[05Dec2024 05:45:12.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[05Dec2024 05:47:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Draconic Evolution]
+[05Dec2024 06:09:33.139] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[05Dec2024 06:09:33.151] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[05Dec2024 06:09:33.159] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[05Dec2024 06:09:33.161] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[05Dec2024 06:09:38.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Dec2024 06:09:38.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Dec2024 06:09:38.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Dec2024 06:09:38.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Dec2024 06:09:38.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Dec2024 06:09:38.680] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Dec2024 06:09:38.840] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Dec2024 06:09:38.840] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Dec2024 06:09:38.841] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Dec2024 06:09:38.841] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Dec2024 06:09:39.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Dec2024 06:09:54.064] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[05Dec2024 06:10:03.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Dec2024 06:10:17.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.472] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.479] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.640] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.751] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.803] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:17.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:18.576] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:19.075] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:19.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:20.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:20.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:21.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 06:10:21.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[05Dec2024 06:10:23.064] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19991 ms
+[05Dec2024 06:10:23.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (44.203s)! For help, type "help"
+[05Dec2024 06:10:23.158] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 06:10:23.168] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[05Dec2024 06:10:23.169] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[05Dec2024 06:10:25.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Dec2024 06:10:45.323] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Dec2024 06:10:45.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:37710] logged in with entity id 134 at (-19.1211479123094, 60.0, 121.59752567496591)
+[05Dec2024 06:10:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[05Dec2024 06:10:47.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Dec2024 06:11:11.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9157ms or 183 ticks behind
+[05Dec2024 06:12:07.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 06:13:01.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:34438] logged in with entity id 588 at (-16.906548725454407, 62.166109260938214, 120.69999998807907)
+[05Dec2024 06:13:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[05Dec2024 06:13:05.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
