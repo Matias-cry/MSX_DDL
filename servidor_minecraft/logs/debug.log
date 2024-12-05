@@ -7252,3 +7252,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 11:40:48.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 11:40:48.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 11:40:59.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 11:45:26.952] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: syncing library files 0/0 to 'Crying0bsidian'.
+[05Dec2024 11:45:48.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 11:45:48.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 11:46:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 11:47:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 11:48:34.009] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:solid'
+[05Dec2024 11:48:34.013] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:glowing'
+[05Dec2024 11:48:34.013] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:glass'
+[05Dec2024 11:48:34.013] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:glass_glowing'
+[05Dec2024 11:48:34.013] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:cube'
+[05Dec2024 11:48:34.014] [Netty Epoll Server IO #0/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Registering Skin Cube 'armourers:mesh'
+[05Dec2024 11:48:34.033] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/05281 - Plague Doctor Mask.armour', to: 'db:'
+[05Dec2024 11:48:34.042] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file '0IJbLMOKtG' into 'world'
+[05Dec2024 11:48:34.045] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:0IJbLMOKtG' => finish skin loading
+[05Dec2024 11:48:34.387] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:0IJbLMOKtG' => accept skin request
+[05Dec2024 11:48:34.388] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:0IJbLMOKtG' => response skin data, exception: null
+[05Dec2024 11:48:48.305] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13072 - Plague Doctor Torso.armour', to: 'db:'
+[05Dec2024 11:48:48.307] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file 'poGvEjP5Xe' into 'world'
+[05Dec2024 11:48:48.307] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:poGvEjP5Xe' => finish skin loading
+[05Dec2024 11:48:48.625] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:poGvEjP5Xe' => accept skin request
+[05Dec2024 11:48:48.625] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:poGvEjP5Xe' => response skin data, exception: null
+[05Dec2024 11:48:54.627] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13073 - Plague Doctor Legs.armour', to: 'db:'
+[05Dec2024 11:48:54.628] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file 'QUu48oVIhE' into 'world'
+[05Dec2024 11:48:54.629] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:QUu48oVIhE' => finish skin loading
+[05Dec2024 11:48:54.974] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:QUu48oVIhE' => accept skin request
+[05Dec2024 11:48:54.974] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:QUu48oVIhE' => response skin data, exception: null
+[05Dec2024 11:49:02.073] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13074 - Plague Doctor Feet.armour', to: 'db:'
+[05Dec2024 11:49:02.075] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Save file 'Go0ewoxBiW' into 'world'
+[05Dec2024 11:49:02.076] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Go0ewoxBiW' => finish skin loading
+[05Dec2024 11:49:02.406] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Go0ewoxBiW' => accept skin request
+[05Dec2024 11:49:02.406] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Go0ewoxBiW' => response skin data, exception: null
+[05Dec2024 11:49:51.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 11:50:17.505] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:50:17.842] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:0IJbLMOKtG' => accept skin request
+[05Dec2024 11:50:17.843] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:0IJbLMOKtG' => response skin data, exception: null
+[05Dec2024 11:50:21.588] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:50:21.924] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:QUu48oVIhE' => accept skin request
+[05Dec2024 11:50:21.924] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:QUu48oVIhE' => response skin data, exception: null
+[05Dec2024 11:50:23.425] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:50:23.752] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:poGvEjP5Xe' => accept skin request
+[05Dec2024 11:50:23.752] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:poGvEjP5Xe' => response skin data, exception: null
+[05Dec2024 11:50:24.960] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:50:25.297] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Go0ewoxBiW' => accept skin request
+[05Dec2024 11:50:25.297] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: 'db:Go0ewoxBiW' => response skin data, exception: null
+[05Dec2024 11:50:48.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 11:50:48.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 11:51:00.928] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:04.190] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:05.575] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:05.882] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:07.225] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:15.499] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:17.259] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:18.406] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:19.725] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:23.503] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[05Dec2024 11:51:28.274] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players

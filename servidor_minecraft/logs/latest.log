@@ -1348,3 +1348,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 11:36:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Mournful Magic]
 [05Dec2024 11:36:57.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Mournful Magic]
 [05Dec2024 11:40:59.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Dec2024 11:46:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[05Dec2024 11:47:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[05Dec2024 11:48:34.033] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/05281 - Plague Doctor Mask.armour', to: 'db:'
+[05Dec2024 11:48:48.305] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13072 - Plague Doctor Torso.armour', to: 'db:'
+[05Dec2024 11:48:54.627] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13073 - Plague Doctor Legs.armour', to: 'db:'
+[05Dec2024 11:49:02.073] [Server thread/INFO] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept load request of the 'Crying0bsidian', from: 'fs:/downloads/13074 - Plague Doctor Feet.armour', to: 'db:'
+[05Dec2024 11:49:51.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
