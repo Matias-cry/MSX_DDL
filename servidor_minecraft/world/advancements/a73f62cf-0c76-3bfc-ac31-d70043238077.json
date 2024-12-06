@@ -6449,15 +6449,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
-      "has_terracotta": "2024-12-05 11:00:37 +0000"
+      "has_brown_terracotta": "2024-12-05 10:29:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_terracotta": "2024-12-05 11:00:37 +0000"
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 10:45:05 +0000"
     },
     "done": true
   },
@@ -6467,39 +6515,21 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+      "has_log": "2024-12-05 10:52:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
-      "has_light_gray_terracotta": "2024-12-05 11:01:38 +0000"
+      "has_terracotta": "2024-12-05 11:00:37 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
-      "scroll_forge": "2024-12-05 11:51:37 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
+      "has_terracotta": "2024-12-05 11:00:37 +0000"
     },
     "done": true
   },
@@ -6518,24 +6548,6 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 11:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2024-12-05 10:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
     },
     "done": true
   },
@@ -6563,57 +6575,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_slab": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 11:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
     },
     "done": true
   },
@@ -6623,69 +6587,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_ice": {
-    "criteria": {
-      "requirement": "2024-12-05 11:36:57 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2024-12-05 10:52:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 11:00:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_button": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
     },
     "done": true
   },
@@ -6695,45 +6599,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
-    "criteria": {
-      "has_black_terracotta": "2024-12-05 11:01:17 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 11:00:37 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
-    "criteria": {
-      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
-    "criteria": {
-      "has_planks": "2024-12-05 11:43:09 +0000"
     },
     "done": true
   },
@@ -6749,21 +6617,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-12-05 11:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-05 11:01:38 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_slab": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/amethyst_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/building_blocks/smooth_amethyst": {
     "criteria": {
       "has_amethyst_block": "2024-12-05 11:02:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2024-12-05 10:45:05 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/smooth_amethyst_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2024-12-05 11:02:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_ice": {
+    "criteria": {
+      "requirement": "2024-12-05 11:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 11:43:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-05 11:51:37 +0000"
     },
     "done": true
   },
