@@ -6776,15 +6776,45 @@
     },
     "done": true
   },
-  "betterarcheology:fossil_found": {
+  "roost2:roosting": {
     "criteria": {
-      "betterarcheology:fossil_found": "2024-12-06 02:00:48 +0000"
+      "roosting_0": "2024-12-06 01:33:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:50:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:50:35 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-06 02:00:48 +0000"
     },
     "done": true
   },
@@ -6801,18 +6831,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2024-12-06 01:50:35 +0000"
-    },
-    "done": true
-  },
-  "roost2:roosting": {
-    "criteria": {
-      "roosting_0": "2024-12-06 01:33:07 +0000"
-    },
-    "done": true
-  },
   "betterarcheology:all_fossils_found": {
     "criteria": {
       "betterarcheology:villager_fossil_head": "2024-12-06 02:00:48 +0000"
@@ -6822,18 +6840,6 @@
   "betterarcheology:recipes/recipe_villager_fossil_from_body": {
     "criteria": {
       "has_the_recipe": "2024-12-06 02:00:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2024-12-06 01:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2024-12-06 01:33:49 +0000"
     },
     "done": true
   },
@@ -6849,15 +6855,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2024-12-06 01:50:35 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2024-12-06 02:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-06 02:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-06 02:45:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2024-12-06 02:53:39 +0000"
     },
     "done": true
   },
