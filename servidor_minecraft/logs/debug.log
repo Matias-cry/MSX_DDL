@@ -8429,3 +8429,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 03:34:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
 [06Dec2024 03:34:32.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
 [06Dec2024 03:36:23.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:37:39.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06Dec2024 03:37:50.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:37:50.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 03:38:19.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 03:38:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Not Today, Thank You]
+[06Dec2024 03:38:59.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:39:06.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:40:29.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'choups_drakvyrn_mod:choups_drakvyrn_mod' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'festive_delight:festive_delight' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jet_and_elias_armors:jet_and_elias_armors' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fossilsorigins:fossilsorigins' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.178] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'galosphere:network' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ancient_elements:ancient_elements' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armourers_workshop:play' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'betterarcheology:messages' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'roost2:roost2' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Vanilla acceptance test: REJECTED
+[06Dec2024 03:41:18.179] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexscaves:main_channel,eeeabsmobs:net,carryon:carryonpackets,choups_drakvyrn_mod:choups_drakvyrn_mod,sophisticatedbackpacks:channel,citadel:main_channel,festive_delight:festive_delight,iceandfire:main_channel,curios:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,supermartijn642configlib:sync_configs,alexsmobs:main_channel,fossilsorigins:fossilsorigins,cosmeticarmorreworked:main,galosphere:network,sophisticatedcore:channel,caelus:main,ancient_elements:ancient_elements,armourers_workshop:play,roost2:roost2,geckolib:main] rejected vanilla connections
+[06Dec2024 03:41:18.180] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/[0:0:0:0:0:0:0:1%0]:41914] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[06Dec2024 03:41:59.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:42:15.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 03:42:16.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[06Dec2024 03:42:48.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:42:48.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 03:42:51.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:45:50.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:45:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 03:47:48.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 03:47:48.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

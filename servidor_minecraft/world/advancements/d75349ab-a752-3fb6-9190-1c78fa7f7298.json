@@ -639,6 +639,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-03 21:32:36 +0000",
       "minecraft:spider": "2024-11-29 21:35:09 +0000",
+      "minecraft:witch": "2024-12-06 03:40:54 +0000",
       "minecraft:cave_spider": "2024-11-29 21:35:06 +0000",
       "minecraft:enderman": "2024-12-03 21:34:50 +0000",
       "minecraft:zombie": "2024-12-03 21:32:06 +0000"
@@ -1504,9 +1505,11 @@
     "criteria": {
       "cabbage": "2024-12-03 21:55:09 +0000",
       "beetroot": "2024-12-03 21:55:11 +0000",
+      "sugar_cane": "2024-12-06 03:34:43 +0000",
       "potato": "2024-12-03 21:55:24 +0000",
       "wheat": "2024-12-03 21:55:14 +0000",
-      "pumpkin": "2024-12-03 21:55:29 +0000"
+      "pumpkin": "2024-12-03 21:55:29 +0000",
+      "carrot": "2024-12-06 03:34:34 +0000"
     },
     "done": false
   },
@@ -1702,15 +1705,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 03:30:38 +0000"
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-06 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-06 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
     },
     "done": true
   },
@@ -1732,9 +1771,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:44:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 03:31:15 +0000"
+    },
+    "done": true
+  },
+  "roost2:roosting": {
+    "criteria": {
+      "roosting_0": "2024-12-06 03:32:49 +0000"
     },
     "done": true
   },
@@ -1747,6 +1804,12 @@
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 03:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
     },
     "done": true
   },
@@ -1768,6 +1831,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-06 03:15:58 +0000"
@@ -1786,15 +1855,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 03:31:15 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:41:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-06 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 03:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 03:36:43 +0000"
     },
     "done": true
   },
@@ -1834,9 +1933,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:unbreakable_shell": {
     "criteria": {
       "unbreakable_shell": "2024-12-06 03:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
     },
     "done": true
   },
@@ -1870,6 +1981,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-06 03:39:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-06 03:05:02 +0000"
@@ -1897,6 +2026,18 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 03:31:15 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-06 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 03:36:43 +0000"
     },
     "done": true
   },
