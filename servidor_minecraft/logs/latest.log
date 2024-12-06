@@ -810,3 +810,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 00:25:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
 [06Dec2024 00:26:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
 [06Dec2024 00:28:35.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 00:33:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[06Dec2024 00:38:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set the time to 1000]
+[06Dec2024 00:45:28.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
