@@ -832,3 +832,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 01:05:37.422] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Dec2024 01:07:31.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
 [06Dec2024 01:08:19.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 01:17:44.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanConPez[/[::1]:50730] logged in with entity id 7409 at (279.4873508942392, 64.0, -201.3876549158299)
+[06Dec2024 01:17:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez joined the game
+[06Dec2024 01:20:32.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[06Dec2024 01:21:01.119] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

@@ -6767,5 +6767,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2024-12-06 01:10:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
