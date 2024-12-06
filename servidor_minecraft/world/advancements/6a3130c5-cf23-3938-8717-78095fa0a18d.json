@@ -61,6 +61,7 @@
       "minecraft:beach": "2024-11-29 04:45:10 +0000",
       "minecraft:stony_peaks": "2024-12-01 05:57:10 +0000",
       "minecraft:river": "2024-11-29 04:45:31 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-06 01:27:36 +0000",
       "minecraft:snowy_plains": "2024-12-05 02:24:37 +0000",
       "minecraft:dripstone_caves": "2024-11-29 07:14:26 +0000",
       "minecraft:snowy_taiga": "2024-12-05 02:50:28 +0000",
@@ -6116,6 +6117,18 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-06 01:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-06 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-06 01:19:04 +0000"
     },
     "done": true
   },

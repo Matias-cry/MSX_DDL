@@ -611,9 +611,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-06 01:22:42 +0000",
       "minecraft:skeleton": "2024-11-30 03:12:42 +0000",
       "minecraft:spider": "2024-12-04 07:37:01 +0000",
       "minecraft:creeper": "2024-11-30 02:58:30 +0000",
+      "minecraft:enderman": "2024-12-06 01:19:42 +0000",
       "minecraft:zombie": "2024-11-30 02:54:25 +0000"
     },
     "done": false
@@ -1924,6 +1926,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-05 09:50:19 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-06 01:23:02 +0000"
     },
     "done": true
   },
