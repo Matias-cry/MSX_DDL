@@ -9300,3 +9300,193 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 04:28:28.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [06Dec2024 04:28:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Oe bobeas con mi libro los hechizos no se acaban no?
 [06Dec2024 04:29:02.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to -23.500000, 67.000000, 124.500000]
+[06Dec2024 04:29:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 04:29:21.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[06Dec2024 04:29:42.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[06Dec2024 04:30:05.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 04:30:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no
+[06Dec2024 04:30:46.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[06Dec2024 04:30:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> ya si agarra 1 pluma nomas
+[06Dec2024 04:31:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to Tr3sCu4tro]
+[06Dec2024 04:31:19.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 04:31:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [A Seedy Place]
+[06Dec2024 04:31:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 04:31:49.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[06Dec2024 04:33:39.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:33:39.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:34:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [The Parrots and the Bats]
+[06Dec2024 04:34:44.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:35:40.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 04:35:40.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 04:36:22.841] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:38:01.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Ta piolaza
+[06Dec2024 04:38:39.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:38:39.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:38:51.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Oe luego preguntas en el foro lo de los dinosaurios
+[06Dec2024 04:39:28.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:39:59.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Si
+[06Dec2024 04:40:14.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:40:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> dormir es para kbros
+[06Dec2024 04:40:32.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Who You Gonna Call?]
+[06Dec2024 04:40:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Sweet Dreams]
+[06Dec2024 04:40:41.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 04:40:42.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 04:40:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> zzz
+[06Dec2024 04:41:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 215.500000, 63.000000, 754.500000]
+[06Dec2024 04:41:25.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[06Dec2024 04:41:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Oe solo puedo ser mago de un elemento no?
+[06Dec2024 04:43:03.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Dec2024 04:43:34.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Dec2024 04:43:53.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:43:53.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 04:43:59.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10592ms or 211 ticks behind
+[06Dec2024 04:44:05.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> bobeas que libro de hechizos tienes??
+[06Dec2024 04:44:17.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[06Dec2024 04:44:18.285] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:18.749] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:18.995] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:20.208] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:20.458] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:20.646] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:21.154] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:22.145] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:23.117] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:23.600] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:23.799] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:23.956] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:24.201] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:24.546] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.120] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.294] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.447] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.595] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.796] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:25.965] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:26.144] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:26.309] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:26.510] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:44:36.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[06Dec2024 04:44:45.909] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:44:58.684] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:01.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[06Dec2024 04:45:17.129] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:45:18.764] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:45:19.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
+[06Dec2024 04:45:23.294] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[06Dec2024 04:45:25.409] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:45:25.517] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: observer slots has 1 changes, sync to players
+[06Dec2024 04:45:27.042] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:45:38.038] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:39.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4737ms or 94 ticks behind
+[06Dec2024 04:45:42.282] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:45.549] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:47.673] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:49.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> ya vamo a matar algo
+[06Dec2024 04:45:52.434] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:54.047] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:45:56.361] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:46:00.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6365ms or 127 ticks behind
+[06Dec2024 04:46:11.199] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Dec2024 04:46:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Amateur Archaeologist]
+[06Dec2024 04:46:20.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4590ms or 91 ticks behind
+[06Dec2024 04:46:22.927] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:46:26.120] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:46:29.274] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:46:33.704] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:34.791] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:34.973] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:35.179] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:35.339] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:35.540] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:35.657] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:35.814] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:36.093] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:36.239] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:36.559] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:36.771] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:36.903] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:37.121] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:37.290] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:37.558] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:37.714] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:37.968] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:38.078] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:38.269] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:38.424] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:38.647] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:38.778] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:39.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[06Dec2024 04:46:39.797] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:40.400] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:40.654] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:40.793] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:40.963] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:41.162] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:41.582] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:41.752] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:41.948] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:42.215] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:42.386] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:42.585] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:42.777] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:43.051] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:43.206] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:43.439] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:43.618] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:43.796] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:44.017] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:44.268] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:44.493] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:44.669] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:44.873] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:45.122] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:45.301] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:46.815] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:47.173] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:47.863] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:49.757] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:49.970] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:51.070] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:52.262] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:52.611] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:52.832] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:53.212] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:53.511] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:53.892] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:54.530] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:46:56.795] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:47:00.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> en el ice and fire tiene un libro guia?
+[06Dec2024 04:47:04.947] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:10.393] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:11.722] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:14.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[06Dec2024 04:47:14.859] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:19.501] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:24.822] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:27.031] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:28.997] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:30.910] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:36.968] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:39.167] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:42.716] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:47:45.087] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:03.467] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:06.136] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:08.539] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:10.087] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:12.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06Dec2024 04:48:12.947] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:15.748] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 10 operation for 'marzuyo'
+[06Dec2024 04:48:24.101] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:26.457] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:27.547] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:28.016] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:28.213] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:29.250] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:29.591] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:29.944] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: accept 11 operation for 'marzuyo'
+[06Dec2024 04:48:30.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
+[06Dec2024 04:48:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> tiene filo 3 y empuje 1
+[06Dec2024 04:49:02.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no
+[06Dec2024 04:49:08.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no
+[06Dec2024 04:49:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tr3sCu4tro: Teleported Tr3sCu4tro to SubPhoenix0304]
