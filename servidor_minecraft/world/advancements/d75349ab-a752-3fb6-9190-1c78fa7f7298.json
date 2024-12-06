@@ -647,7 +647,8 @@
       "minecraft:cave_spider": "2024-11-29 21:35:06 +0000",
       "minecraft:enderman": "2024-12-03 21:34:50 +0000",
       "minecraft:zombie": "2024-12-03 21:32:06 +0000",
-      "minecraft:drowned": "2024-12-06 22:54:11 +0000"
+      "minecraft:drowned": "2024-12-06 22:54:11 +0000",
+      "minecraft:zombie_villager": "2024-12-06 23:17:33 +0000"
     },
     "done": false
   },
@@ -3042,6 +3043,12 @@
     },
     "done": true
   },
+  "ancient_elements:miners_nightmare": {
+    "criteria": {
+      "miners_nightmare": "2024-12-06 23:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
@@ -3057,6 +3064,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2024-12-06 23:11:06 +0000"
     },
     "done": true
   },
@@ -3129,6 +3142,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-06 23:17:16 +0000"
     },
     "done": true
   },

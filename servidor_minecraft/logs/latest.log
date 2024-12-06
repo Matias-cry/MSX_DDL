@@ -834,3 +834,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 23:09:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Miner's Nightmare]
 [06Dec2024 23:11:30.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll was shot by Skeleton
 [06Dec2024 23:11:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Sweet Dreams]
+[06Dec2024 23:13:35.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2, l='ServerLevel[world]', x=130.70, y=68.00, z=130.71] died, message: 'Villager was slain by Zombie'
+[06Dec2024 23:17:16.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Shiny Object Syndrome]
+[06Dec2024 23:23:02.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 23:23:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
