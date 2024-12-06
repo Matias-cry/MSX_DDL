@@ -51,8 +51,10 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-03 02:37:08 +0000",
       "minecraft:beach": "2024-11-30 02:57:52 +0000",
+      "minecraft:dark_forest": "2024-12-06 02:19:07 +0000",
       "minecraft:river": "2024-11-30 02:54:28 +0000",
       "minecraft:swamp": "2024-12-03 22:12:34 +0000",
+      "minecraft:grove": "2024-12-06 02:20:11 +0000",
       "minecraft:forest": "2024-11-30 03:39:36 +0000",
       "minecraft:ocean": "2024-11-30 04:31:06 +0000",
       "minecraft:flower_forest": "2024-11-30 03:23:23 +0000",
@@ -204,6 +206,7 @@
       "minecraft:skeleton": "2024-11-30 03:24:50 +0000",
       "minecraft:spider": "2024-12-03 03:13:47 +0000",
       "minecraft:creeper": "2024-11-30 05:40:09 +0000",
+      "minecraft:witch": "2024-12-06 02:17:06 +0000",
       "minecraft:zombie": "2024-11-30 02:53:45 +0000"
     },
     "done": false
@@ -2450,6 +2453,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2024-12-06 02:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-06 02:18:42 +0000"
     },
     "done": true
   },
