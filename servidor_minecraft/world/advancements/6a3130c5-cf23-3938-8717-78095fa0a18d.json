@@ -73,6 +73,7 @@
       "minecraft:ice_spikes": "2024-12-05 10:30:42 +0000",
       "minecraft:ocean": "2024-11-29 05:10:49 +0000",
       "minecraft:jungle": "2024-12-06 01:47:30 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-06 02:07:57 +0000",
       "minecraft:flower_forest": "2024-11-29 05:38:10 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:14 +0000",
       "minecraft:meadow": "2024-11-29 07:23:47 +0000",
@@ -6160,6 +6161,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
@@ -6226,9 +6233,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2024-12-06 01:33:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-06 02:10:44 +0000"
     },
     "done": true
   },
@@ -6280,9 +6299,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
     },
     "done": true
   },
