@@ -1552,3 +1552,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 04:49:02.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no
 [06Dec2024 04:49:08.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> no
 [06Dec2024 04:49:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tr3sCu4tro: Teleported Tr3sCu4tro to SubPhoenix0304]
+[06Dec2024 04:49:40.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[06Dec2024 04:49:52.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tr3sCu4tro: Teleported Tr3sCu4tro to -9.500000, 60.000000, 116.500000]
+[06Dec2024 04:50:04.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8607ms or 172 ticks behind
+[06Dec2024 04:50:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Ya vamo a matar algo p
+[06Dec2024 04:50:54.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[06Dec2024 04:51:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [A Flaming Sword]
+[06Dec2024 04:51:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [I Am Inevitable]
+[06Dec2024 04:53:39.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:55:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has completed the challenge [Find: Mushroom abandonned]
+[06Dec2024 04:55:49.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[06Dec2024 04:55:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Vamos a matar al wither p
+[06Dec2024 04:57:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 04:57:21.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[06Dec2024 04:59:42.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to -23.500000, 67.000000, 124.500000]
+[06Dec2024 05:00:02.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Book of Monsters]
