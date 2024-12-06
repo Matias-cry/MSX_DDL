@@ -1925,6 +1925,7 @@
     "criteria": {
       "kelp": "2024-12-01 10:51:22 +0000",
       "brown_mushroom": "2024-11-29 06:11:53 +0000",
+      "wheat": "2024-12-06 03:25:29 +0000",
       "carrot": "2024-12-05 08:48:19 +0000"
     },
     "done": false
@@ -6876,6 +6877,25 @@
   "cataclysm:kill_maledictus": {
     "criteria": {
       "ignis": "2024-12-06 02:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-06 03:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-12-06 03:25:52 +0000",
+      "minecraft:cow": "2024-12-06 03:25:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-06 03:25:29 +0000"
     },
     "done": true
   },

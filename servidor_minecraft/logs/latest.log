@@ -1376,3 +1376,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 03:26:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported Crying0bsidian to marzuyo]
 [06Dec2024 03:26:29.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Dec2024 03:26:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [The Parrots and the Bats]
+[06Dec2024 03:26:56.328] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:26:57.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[06Dec2024 03:27:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Solid as a Rock]
+[06Dec2024 03:27:18.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Unbreakable Shell]
+[06Dec2024 03:27:35.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23496ms or 469 ticks behind
+[06Dec2024 03:27:56.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5550ms or 111 ticks behind
+[06Dec2024 03:27:57.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 03:30:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> un tp timido nomas
+[06Dec2024 03:30:18.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> :v
+[06Dec2024 03:30:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Made SubPhoenix0304 a server operator]
+[06Dec2024 03:30:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Creative Mode]
+[06Dec2024 03:30:51.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to Crying0bsidian]
+[06Dec2024 03:30:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [marzuyo: Set own game mode to Survival Mode]
+[06Dec2024 03:31:46.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> lo primero que hace
+[06Dec2024 03:31:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crying0bsidian> revisar los cofres
+[06Dec2024 03:32:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> pero si solo abri lo de la comida xd
+[06Dec2024 03:32:41.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[06Dec2024 03:32:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Roosting]
+[06Dec2024 03:33:27.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crying0bsidian lost connection: Timed out
+[06Dec2024 03:33:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian left the game
+[06Dec2024 03:34:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SubPhoenix0304: Teleported SubPhoenix0304 to 170.500000, 72.000000, 566.500000]
+[06Dec2024 03:34:32.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[06Dec2024 03:36:23.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

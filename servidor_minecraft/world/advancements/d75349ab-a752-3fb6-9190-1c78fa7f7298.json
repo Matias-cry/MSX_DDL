@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-03 21:45:19 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 03:32:34 +0000",
       "minecraft:river": "2024-11-29 21:41:05 +0000",
       "minecraft:forest": "2024-12-03 22:06:21 +0000",
       "minecraft:flower_forest": "2024-11-29 21:41:43 +0000",
@@ -1701,6 +1702,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 03:30:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:17 +0000"
@@ -1710,6 +1723,18 @@
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 03:31:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 03:31:15 +0000"
     },
     "done": true
   },
@@ -1755,6 +1780,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-06 03:31:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 03:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-06 03:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:17 +0000"
@@ -1773,9 +1816,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-06 03:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-12-06 03:26:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:unbreakable_shell": {
+    "criteria": {
+      "unbreakable_shell": "2024-12-06 03:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-06 03:31:15 +0000"
     },
     "done": true
   },
@@ -1785,15 +1852,51 @@
     },
     "done": true
   },
+  "ancient_elements:solid_as_a_rock": {
+    "criteria": {
+      "solid_as_a_rock": "2024-12-06 03:27:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 03:31:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-06 03:05:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 03:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-06 03:31:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 03:31:15 +0000"
     },
     "done": true
   },

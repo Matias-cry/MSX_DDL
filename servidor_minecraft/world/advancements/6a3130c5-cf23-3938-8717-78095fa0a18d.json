@@ -6139,15 +6139,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "has_terracotta": "2024-12-06 01:34:34 +0000"
+      "killed_by": "2024-12-06 01:31:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+  "roost2:roosting": {
     "criteria": {
-      "has_terracotta": "2024-12-06 01:34:34 +0000"
+      "roosting_0": "2024-12-06 01:32:53 +0000"
     },
     "done": true
   },
@@ -6157,15 +6157,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
+  "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "has_baked_potato": "2024-12-06 01:58:30 +0000"
+      "has_purple_wool": "2024-12-06 01:33:24 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
-      "has_item": "2024-12-06 02:10:44 +0000"
+      "has_purple_wool": "2024-12-06 01:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 01:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 01:34:34 +0000"
     },
     "done": true
   },
@@ -6181,21 +6199,9 @@
     },
     "done": true
   },
-  "roost2:roosting": {
-    "criteria": {
-      "roosting_0": "2024-12-06 01:32:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
-    "criteria": {
-      "has_item": "2024-12-06 01:35:27 +0000"
     },
     "done": true
   },
@@ -6205,21 +6211,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2024-12-06 01:35:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2024-12-06 01:33:24 +0000"
     },
     "done": true
   },
@@ -6235,42 +6229,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-06 02:10:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-06 02:15:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2024-12-06 01:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-06 02:15:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2024-12-06 02:10:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2024-12-06 01:35:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
@@ -6283,87 +6241,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-06 01:33:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2024-12-06 01:35:27 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-12-06 01:31:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2024-12-06 03:18:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-06 01:59:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2024-12-06 02:10:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-06 01:34:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2024-12-06 02:10:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2024-12-06 01:58:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-06 01:35:46 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2024-12-06 02:26:29 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2024-12-06 02:50:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-06 01:35:27 +0000"
     },
     "done": true
   },
@@ -6385,15 +6271,129 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-06 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 01:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 01:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2024-12-06 01:35:46 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-06 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 02:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 02:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 02:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-06 02:15:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-06 02:26:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2024-12-06 02:50:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-06 03:18:36 +0000"
     },
     "done": true
   },
