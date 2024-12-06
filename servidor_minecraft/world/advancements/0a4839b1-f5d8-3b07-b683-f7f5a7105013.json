@@ -1415,6 +1415,7 @@
     "criteria": {
       "minecraft:pillager": "2024-11-30 04:49:24 +0000",
       "minecraft:skeleton": "2024-11-29 09:20:23 +0000",
+      "minecraft:ghast": "2024-12-06 05:15:14 +0000",
       "minecraft:spider": "2024-11-30 04:46:40 +0000",
       "minecraft:creeper": "2024-11-29 09:59:58 +0000",
       "minecraft:husk": "2024-12-04 07:43:22 +0000",
@@ -3123,11 +3124,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-06 05:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-06 04:25:31 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-06 05:13:10 +0000",
+      "minecraft:nether_wastes": "2024-12-06 05:11:14 +0000",
+      "minecraft:warped_forest": "2024-12-06 05:15:51 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
@@ -3138,6 +3153,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-06 04:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-06 05:11:13 +0000"
     },
     "done": true
   },
@@ -3219,6 +3240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 05:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-06 04:25:31 +0000"
@@ -3228,6 +3255,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-06 04:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-06 05:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-06 05:10:01 +0000"
     },
     "done": true
   },
@@ -3255,12 +3294,24 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-06 05:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-06 04:34:29 +0000",
       "minecraft:cow": "2024-12-06 04:34:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 05:05:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
@@ -3289,6 +3340,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-06 04:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 05:05:21 +0000"
     },
     "done": true
   },
