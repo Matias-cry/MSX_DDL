@@ -72,13 +72,17 @@
       "minecraft:lush_caves": "2024-12-06 02:14:54 +0000",
       "minecraft:deep_cold_ocean": "2024-12-03 01:44:53 +0000",
       "minecraft:ice_spikes": "2024-12-05 10:30:42 +0000",
+      "minecraft:desert": "2024-12-06 05:37:43 +0000",
+      "minecraft:windswept_forest": "2024-12-06 08:16:27 +0000",
       "minecraft:ocean": "2024-11-29 05:10:49 +0000",
       "minecraft:jungle": "2024-12-06 01:47:30 +0000",
       "minecraft:snowy_beach": "2024-12-06 02:27:26 +0000",
+      "minecraft:warm_ocean": "2024-12-06 07:54:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 02:07:57 +0000",
       "minecraft:flower_forest": "2024-11-29 05:38:10 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:14 +0000",
       "minecraft:meadow": "2024-11-29 07:23:47 +0000",
+      "minecraft:savanna": "2024-12-06 05:32:22 +0000",
       "minecraft:plains": "2024-11-29 04:36:19 +0000"
     },
     "done": false
@@ -706,6 +710,7 @@
       "minecraft:zombified_piglin": "2024-11-29 08:14:03 +0000",
       "minecraft:witch": "2024-11-29 06:11:18 +0000",
       "minecraft:wither_skeleton": "2024-11-29 08:01:50 +0000",
+      "minecraft:husk": "2024-12-06 07:56:14 +0000",
       "minecraft:cave_spider": "2024-11-30 03:51:26 +0000",
       "minecraft:piglin": "2024-12-04 09:26:41 +0000",
       "minecraft:enderman": "2024-11-29 06:54:04 +0000",
@@ -2659,9 +2664,10 @@
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_sherd": "2024-11-29 06:44:42 +0000"
+      "has_sherd": "2024-11-29 06:44:42 +0000",
+      "ocean_ruin_cold": "2024-12-06 07:24:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
     "criteria": {
@@ -6404,21 +6410,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_sandstone": "2024-12-06 05:13:09 +0000"
+      "has_gray_wool": "2024-12-06 04:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-06 04:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-06 04:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-06 05:13:09 +0000"
     },
     "done": true
   },
@@ -6434,39 +6458,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-06 05:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2024-12-06 05:13:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-06 05:13:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-06 04:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2024-12-06 04:15:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-06 05:13:09 +0000"
     },
     "done": true
   },
@@ -6488,15 +6482,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 04:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-06 05:13:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
-      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
+      "has_sandstone": "2024-12-06 05:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-06 05:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-06 05:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-06 05:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-06 05:13:09 +0000"
     },
     "done": true
   },
@@ -6524,39 +6554,227 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-06 04:45:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-12-06 04:15:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2024-12-06 04:15:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-06 05:13:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
-      "has_planks": "2024-12-06 04:45:27 +0000"
+      "has_sandstone_slab": "2024-12-06 05:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-06 05:38:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-06 05:43:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2024-12-06 05:46:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-06 05:46:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 05:46:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-06 05:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-06 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-06 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-06 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-06 06:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-06 06:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-06 06:20:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2024-12-06 06:40:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-06 06:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-06 06:51:13 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-06 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_guardian_fossil_from_head": {
+    "criteria": {
+      "has_item": "2024-12-06 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:guardian_fossil_head": "2024-12-06 07:06:50 +0000",
+      "betterarcheology:guardian_fossil_body": "2024-12-06 07:37:32 +0000"
+    },
+    "done": false
+  },
+  "betterarcheology:recipes/decorations/guardian_fossil": {
+    "criteria": {
+      "has_guardian_fossil_head": "2024-12-06 07:06:50 +0000",
+      "has_the_recipe": "2024-12-06 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_guardian_fossil_from_body": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-06 07:11:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 07:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 07:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 07:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2024-12-06 07:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 07:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-06 08:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2024-12-06 08:00:27 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:desert_temple_husk/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-06 07:55:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2024-12-06 08:08:08 +0000"
+    },
+    "done": true
+  },
+  "roost2:whats_this_used_for": {
+    "criteria": {
+      "whats_this_used_for_0": "2024-12-06 07:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-06 08:23:20 +0000"
     },
     "done": true
   },
