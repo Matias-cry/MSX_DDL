@@ -828,3 +828,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 22:53:06.720] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Dec2024 22:53:06.721] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Dec2024 23:02:11.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Crops of the Wild]
+[06Dec2024 23:02:36.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[06Dec2024 23:04:36.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Chest Slayer]
+[06Dec2024 23:06:42.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 23:09:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Miner's Nightmare]
+[06Dec2024 23:11:30.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll was shot by Skeleton
+[06Dec2024 23:11:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Sweet Dreams]
