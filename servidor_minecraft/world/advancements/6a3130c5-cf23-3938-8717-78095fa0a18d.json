@@ -6742,6 +6742,18 @@
     },
     "done": true
   },
+  "roost2:whats_this_used_for": {
+    "criteria": {
+      "whats_this_used_for_0": "2024-12-06 07:27:54 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:desert_temple_husk/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-06 07:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2024-12-06 08:00:27 +0000"
@@ -6754,27 +6766,33 @@
     },
     "done": true
   },
-  "awesomedungeon:desert_temple_husk/find_normal": {
-    "criteria": {
-      "requirement": "2024-12-06 07:55:34 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed": "2024-12-06 08:08:08 +0000"
     },
     "done": true
   },
-  "roost2:whats_this_used_for": {
-    "criteria": {
-      "whats_this_used_for_0": "2024-12-06 07:27:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2024-12-06 08:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-06 08:37:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-06 08:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-06 08:47:21 +0000"
     },
     "done": true
   },

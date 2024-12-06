@@ -64,6 +64,7 @@
       "minecraft:warm_ocean": "2024-12-04 07:35:25 +0000",
       "minecraft:flower_forest": "2024-11-30 04:52:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-06 07:16:50 +0000",
+      "minecraft:deep_dark": "2024-12-06 09:15:30 +0000",
       "minecraft:savanna": "2024-12-04 07:59:38 +0000",
       "minecraft:plains": "2024-11-29 08:34:32 +0000"
     },
@@ -3656,21 +3657,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/polymer_plate": {
+  "alexscaves:alexscaves/uranium_rod": {
     "criteria": {
-      "cooked_dinosaur_chop": "2024-12-06 08:08:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-06 07:59:43 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2024-12-06 08:29:30 +0000"
+      "limestone": "2024-12-06 07:51:21 +0000"
     },
     "done": true
   },
@@ -3680,9 +3669,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/uranium_rod": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "limestone": "2024-12-06 07:51:21 +0000"
+      "underground_cabin": "2024-12-06 07:59:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-06 08:08:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2024-12-06 08:20:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-06 08:29:30 +0000"
     },
     "done": true
   },
@@ -3698,9 +3705,45 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/raygun": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "raygun": "2024-12-06 08:20:52 +0000"
+      "killed_by_grottoceratops": "2024-12-06 09:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-06 09:02:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-06 09:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-06 09:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-06 09:15:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-06 09:12:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-06 09:13:20 +0000"
     },
     "done": true
   },
