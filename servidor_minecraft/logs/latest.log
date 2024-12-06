@@ -1180,3 +1180,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 02:22:51.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/50234, l='ServerLevel[world]', x=-3583.59, y=131.81, z=-6598.98]
 [06Dec2024 02:23:19.212] [Worker-Main-25/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-229, -433], pos: MutableBlockPos{x=-3661, y=-7, z=-6928}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
 [06Dec2024 02:25:04.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> como se llama el mod de la magia?
+[06Dec2024 02:25:32.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Dec2024 02:25:51.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[06Dec2024 02:26:29.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian has made the advancement [Frosted Prison]
+[06Dec2024 02:26:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Frosted Prison]
+[06Dec2024 02:26:35.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 02:26:42.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tr3sCu4tro: Teleported Tr3sCu4tro to Crying0bsidian]
+[06Dec2024 02:26:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro has made the advancement [Frosted Prison]
+[06Dec2024 02:28:06.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Dec2024 02:28:10.300] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=-28, z=-8}
+[06Dec2024 02:28:10.321] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=-27, z=-12}
+[06Dec2024 02:28:38.703] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=12, y=-28, z=3}
+[06Dec2024 02:28:38.706] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-28, z=3}
+[06Dec2024 02:28:38.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06Dec2024 02:29:30.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> si
+[06Dec2024 02:29:35.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> luego entro voy a hacer algo
+[06Dec2024 02:29:54.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tr3sCu4tro lost connection: Timed out
+[06Dec2024 02:29:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro left the game
+[06Dec2024 02:29:54.307] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Dec2024 02:34:31.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

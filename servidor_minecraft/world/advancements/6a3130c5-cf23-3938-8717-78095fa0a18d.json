@@ -74,6 +74,7 @@
       "minecraft:ice_spikes": "2024-12-05 10:30:42 +0000",
       "minecraft:ocean": "2024-11-29 05:10:49 +0000",
       "minecraft:jungle": "2024-12-06 01:47:30 +0000",
+      "minecraft:snowy_beach": "2024-12-06 02:27:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-06 02:07:57 +0000",
       "minecraft:flower_forest": "2024-11-29 05:38:10 +0000",
       "minecraft:deep_dark": "2024-11-29 08:51:14 +0000",
@@ -6339,6 +6340,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-06 01:35:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-06 02:26:29 +0000"
     },
     "done": true
   },
