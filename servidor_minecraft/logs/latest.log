@@ -1552,3 +1552,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 23:32:43.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14199, l='ServerLevel[world]', x=823.29, y=-12.96, z=817.94]
 [06Dec2024 23:32:43.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14202, l='ServerLevel[world]', x=834.24, y=-12.62, z=811.54]
 [06Dec2024 23:32:43.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14203, l='ServerLevel[world]', x=837.16, y=-13.30, z=812.45]
+[06Dec2024 23:33:51.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[06Dec2024 23:34:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Rocks Off!]
+[06Dec2024 23:34:49.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 23:35:32.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [It Belongs in a Museum]
+[06Dec2024 23:45:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 has made the advancement [Flexible Schedule]
+[06Dec2024 23:50:54.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SubPhoenix0304 moved too quickly! -10.250314731733624,0.0,-0.1670677330869239
+[06Dec2024 23:51:02.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SubPhoenix0304 lost connection: Timed out
+[06Dec2024 23:51:02.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 left the game
+[06Dec2024 23:51:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Dec2024 23:51:12.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[06Dec2024 23:51:35.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SubPhoenix0304[/[::1]:51572] logged in with entity id 19541 at (602.5009908665495, -10.0, 757.3421524949007)
+[06Dec2024 23:51:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 joined the game
+[06Dec2024 23:51:38.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Dec2024 23:51:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SubPhoenix0304> me saco xd

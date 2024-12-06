@@ -1013,7 +1013,9 @@
       "cooked_beef": "2024-11-29 21:46:17 +0000",
       "baked_potato": "2024-12-06 04:37:26 +0000",
       "bread": "2024-11-29 21:40:48 +0000",
+      "golden_apple": "2024-12-06 23:46:40 +0000",
       "rotten_flesh": "2024-12-06 04:00:22 +0000",
+      "cookie": "2024-12-06 23:46:14 +0000",
       "glow_berries": "2024-12-03 21:40:51 +0000",
       "carrot": "2024-12-06 04:30:02 +0000"
     },
@@ -3031,6 +3033,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 22:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-06 22:58:56 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-06 23:04:36 +0000"
@@ -3040,12 +3060,6 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:miners_nightmare": {
-    "criteria": {
-      "miners_nightmare": "2024-12-06 23:09:35 +0000"
     },
     "done": true
   },
@@ -3067,21 +3081,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
-    "criteria": {
-      "has_silver_upgrade_smithing_template": "2024-12-06 23:11:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-06 22:58:56 +0000"
     },
     "done": true
   },
@@ -3094,12 +3096,6 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2024-12-06 22:58:56 +0000"
     },
     "done": true
   },
@@ -3145,12 +3141,6 @@
     },
     "done": true
   },
-  "ancient_elements:shiny_object_syndrome": {
-    "criteria": {
-      "shiny_object_syndrome": "2024-12-06 23:17:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
@@ -3163,15 +3153,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2024-12-06 22:58:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 23:06:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:miners_nightmare": {
+    "criteria": {
+      "miners_nightmare": "2024-12-06 23:09:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2024-12-06 23:11:06 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:shiny_object_syndrome": {
+    "criteria": {
+      "shiny_object_syndrome": "2024-12-06 23:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 23:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-06 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-06 23:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-06 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2024-12-06 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 23:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 23:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 23:35:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-06 23:35:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-06 23:42:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-06 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-06 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-06 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-06 23:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-06 23:46:47 +0000"
     },
     "done": true
   },
