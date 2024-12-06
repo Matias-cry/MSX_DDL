@@ -813,3 +813,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 00:33:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
 [06Dec2024 00:38:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set the time to 1000]
 [06Dec2024 00:45:28.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[06Dec2024 00:54:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set the time to 1000]
+[06Dec2024 00:54:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[06Dec2024 00:56:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[06Dec2024 00:58:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Creative Mode]
+[06Dec2024 00:58:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Set own game mode to Survival Mode]
+[06Dec2024 00:59:55.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Dec2024 01:00:54.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:43710] logged in with entity id 4416 at (380.55396121539763, 64.92159999847412, 182.84139673279213)
+[06Dec2024 01:00:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[06Dec2024 01:00:58.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[06Dec2024 01:02:15.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.3258301910430637
+[06Dec2024 01:02:16.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.42631735442299695
+[06Dec2024 01:02:19.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.32786839767769466
+[06Dec2024 01:02:19.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.4855881354361636
+[06Dec2024 01:02:21.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Crying0bsidian) moved wrongly! 0.390857543786333
