@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-03 04:28:02 +0000",
       "minecraft:deep_ocean": "2024-12-03 02:32:39 +0000",
+      "minecraft:eroded_badlands": "2024-12-06 01:30:31 +0000",
       "minecraft:frozen_river": "2024-12-05 02:28:01 +0000",
       "minecraft:cherry_grove": "2024-11-29 06:02:59 +0000",
       "minecraft:sunflower_plains": "2024-11-29 05:38:22 +0000",
@@ -6770,6 +6771,73 @@
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2024-12-06 01:10:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-06 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/decorations/villager_fossil": {
+    "criteria": {
+      "has_villager_fossil_head": "2024-12-06 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_villager_fossil_from_head": {
+    "criteria": {
+      "has_item": "2024-12-06 02:00:48 +0000",
+      "has_the_recipe": "2024-12-06 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:50:35 +0000"
+    },
+    "done": true
+  },
+  "roost2:roosting": {
+    "criteria": {
+      "roosting_0": "2024-12-06 01:33:07 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:villager_fossil_head": "2024-12-06 02:00:48 +0000"
+    },
+    "done": false
+  },
+  "betterarcheology:recipes/recipe_villager_fossil_from_body": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-06 01:50:35 +0000"
     },
     "done": true
   },
