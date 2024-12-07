@@ -35,3 +35,8 @@
 [07Dec2024 02:06:29.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74d965b2[id=<null>,name=SubPhoenix0304,properties={},legacy=false] (/[::1]:42866) lost connection: Timed out
 [07Dec2024 02:06:36.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SubPhoenix0304[/[::1]:56964] logged in with entity id 34403 at (651.0913541869387, -33.0, 825.5766241008176)
 [07Dec2024 02:06:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 joined the game
+[07Dec2024 02:28:53.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SubPhoenix0304 lost connection: Timed out
+[07Dec2024 02:28:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 left the game
+[07Dec2024 02:28:53.436] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 02:35:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 02:35:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
