@@ -3177,9 +3177,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
-      "has_book": "2024-12-06 23:35:48 +0000"
+      "killed_by": "2024-12-06 23:33:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2024-12-06 23:34:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-06 23:35:32 +0000"
     },
     "done": true
   },
@@ -3189,27 +3201,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
+      "has_paper": "2024-12-06 23:35:35 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_roller": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "killed_by": "2024-12-06 23:33:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-12-06 23:36:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_shell": {
-    "criteria": {
-      "soul_heart": "2024-12-06 23:34:05 +0000"
+      "has_book": "2024-12-06 23:35:48 +0000"
     },
     "done": true
   },
@@ -3231,9 +3231,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "cave_tablet": "2024-12-06 23:35:32 +0000"
+      "has_coal_block": "2024-12-06 23:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
     },
     "done": true
   },
@@ -3261,21 +3273,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-06 23:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-06 23:40:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2024-12-06 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:from_ancient_times": {
+    "criteria": {
+      "from_ancient_times": "2024-12-06 23:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-06 23:57:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-06 23:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-06 23:57:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-06 23:57:31 +0000"
     },
     "done": true
   },
