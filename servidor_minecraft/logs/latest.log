@@ -40,3 +40,5 @@
 [07Dec2024 02:28:53.436] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [07Dec2024 02:35:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Dec2024 02:35:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 02:49:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 02:49:51.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
