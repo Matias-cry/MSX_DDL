@@ -49,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-07 00:24:52 +0000",
       "minecraft:river": "2024-11-29 21:45:08 +0000",
       "minecraft:flower_forest": "2024-11-29 21:45:40 +0000",
       "minecraft:plains": "2024-11-29 21:40:45 +0000"
@@ -436,6 +437,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 23:32:47 +0000",
+      "minecraft:spider": "2024-12-07 00:28:01 +0000",
       "minecraft:zombie": "2024-11-29 21:48:37 +0000"
     },
     "done": false
@@ -461,6 +463,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-07 00:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-07 00:25:03 +0000"
     },
     "done": true
   },
@@ -503,6 +511,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-06 23:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-07 00:27:28 +0000"
     },
     "done": true
   },
@@ -560,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:56:37 +0000"
@@ -587,6 +607,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2024-12-07 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-07 00:27:28 +0000"
     },
     "done": true
   },
@@ -635,6 +661,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-06 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
     },
     "done": true
   },
@@ -698,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-06 23:32:49 +0000"
@@ -728,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2024-12-07 00:20:19 +0000"
@@ -740,10 +784,19 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 00:30:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-07 00:18:25 +0000",
       "onion": "2024-12-07 00:19:44 +0000",
+      "sweet_berries": "2024-12-07 00:32:55 +0000",
+      "tomato": "2024-12-07 00:31:24 +0000",
+      "potato": "2024-12-07 00:27:34 +0000",
       "wheat": "2024-12-07 00:18:19 +0000"
     },
     "done": false
@@ -844,6 +897,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-07 00:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:56:37 +0000"
@@ -904,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-07 00:27:28 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:56:37 +0000"
@@ -959,6 +1024,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-07 00:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-07 00:14:37 +0000"
@@ -971,9 +1042,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-07 00:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
     },
     "done": true
   },
@@ -995,15 +1078,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2024-12-07 00:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-07 00:18:19 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-07 00:25:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-12-07 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-07 00:24:54 +0000"
     },
     "done": true
   },
@@ -1031,6 +1132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-07 00:24:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 23:56:37 +0000"
@@ -1049,9 +1156,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-07 00:28:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2024-12-07 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-07 00:24:54 +0000"
     },
     "done": true
   },
