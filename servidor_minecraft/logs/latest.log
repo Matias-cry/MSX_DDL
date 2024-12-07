@@ -42,3 +42,37 @@
 [07Dec2024 02:35:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
 [07Dec2024 02:49:51.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Dec2024 02:49:51.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 03:29:50.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marzuyo[/[::1]:60732] logged in with entity id 38663 at (2205.375793863633, -33.5, -1400.3685564885338)
+[07Dec2024 03:29:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo joined the game
+[07Dec2024 03:29:53.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[07Dec2024 03:30:20.483] [Worker-Main-238/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2015, y=29, z=-1300}
+[07Dec2024 03:30:45.543] [Worker-Main-233/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1987, y=119, z=-1381}
+[07Dec2024 03:30:45.545] [Worker-Main-233/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1987, y=119, z=-1381}
+[07Dec2024 03:30:45.556] [Worker-Main-233/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1987, y=119, z=-1381}
+[07Dec2024 03:35:12.395] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2116, y=-42, z=-1122}
+[07Dec2024 03:40:07.696] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:07.697] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.562] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.563] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.564] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.584] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.585] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.586] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:08.586] [Worker-Main-238/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Dec2024 03:40:27.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved too quickly! 3.4491547242328124,-8.994733847143312,-4.403846728941744
+[07Dec2024 03:40:27.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved too quickly! 4.074994982032877,-8.994733847143312,-4.968644165402566
+[07Dec2024 03:40:27.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved too quickly! 4.7019068171553045,-8.994733847143312,-5.440795946899243
+[07Dec2024 03:40:27.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hilda (vehicle of marzuyo) moved too quickly! 5.329415833502026,-8.994733847143312,-5.830252469933384
+[07Dec2024 03:41:23.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42165, l='ServerLevel[world]', x=2177.32, y=-42.34, z=-1430.43]
+[07Dec2024 03:41:23.854] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42166, l='ServerLevel[world]', x=2176.48, y=-41.80, z=-1432.98]
+[07Dec2024 03:41:23.856] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42167, l='ServerLevel[world]', x=2176.55, y=-42.87, z=-1430.86]
+[07Dec2024 03:41:23.859] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42168, l='ServerLevel[world]', x=2177.15, y=-43.95, z=-1429.89]
+[07Dec2024 03:41:23.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42169, l='ServerLevel[world]', x=2176.83, y=-42.87, z=-1440.32]
+[07Dec2024 03:41:23.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42170, l='ServerLevel[world]', x=2176.38, y=-43.95, z=-1443.04]
+[07Dec2024 03:41:23.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42171, l='ServerLevel[world]', x=2177.10, y=-42.34, z=-1437.77]
+[07Dec2024 03:41:23.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42172, l='ServerLevel[world]', x=2177.31, y=-43.14, z=-1439.01]
+[07Dec2024 03:41:23.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42173, l='ServerLevel[world]', x=2176.22, y=-43.68, z=-1440.53]
+[07Dec2024 03:41:23.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/42174, l='ServerLevel[world]', x=2176.30, y=-44.21, z=-1442.05]
+[07Dec2024 03:42:00.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Hidden in the Skies]
+[07Dec2024 03:43:06.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
+[07Dec2024 03:43:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
