@@ -76,3 +76,9 @@
 [07Dec2024 03:42:00.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo has made the advancement [Hidden in the Skies]
 [07Dec2024 03:43:06.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marzuyo lost connection: Timed out
 [07Dec2024 03:43:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marzuyo left the game
+[07Dec2024 03:50:26.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3mptySh3ll[/[::1]:49758] logged in with entity id 44289 at (83.30000001192093, 103.0, 82.2547155892749)
+[07Dec2024 03:50:26.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
+[07Dec2024 03:52:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 03:52:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 03:56:04.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=103, z=70} BlockPos{x=83, y=102, z=71}
+[07Dec2024 03:56:04.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=103, z=70} BlockPos{x=83, y=102, z=71}
