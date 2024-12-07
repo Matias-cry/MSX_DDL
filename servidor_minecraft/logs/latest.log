@@ -214,3 +214,7 @@
 [07Dec2024 05:37:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thekiller has completed the challenge [Choup's Drakvyrn Mod !]
 [07Dec2024 05:37:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Crying0bsidian: Teleported thekiller to Crying0bsidian]
 [07Dec2024 05:38:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thekiller was slain by Zombie
+[07Dec2024 05:38:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian was zapped with a raygun by KAMAIROKI
+[07Dec2024 05:39:34.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 159.500000, 57.000000, 4527.500000]
+[07Dec2024 05:43:37.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thekiller lost connection: Timed out
+[07Dec2024 05:43:37.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thekiller left the game
