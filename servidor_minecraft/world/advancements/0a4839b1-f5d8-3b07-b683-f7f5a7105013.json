@@ -3759,6 +3759,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2024-12-07 05:09:50 +0000"
+    },
+    "done": true
+  },
   "roost2:ohhh_thats_what_its_used_for": {
     "criteria": {
       "ohhh_thats_what_its_used_for_0": "2024-12-07 04:11:24 +0000"
