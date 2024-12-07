@@ -30,3 +30,5 @@
 [07Dec2024 01:28:50.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07Dec2024 01:30:00.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez lost connection: Timed out
 [07Dec2024 01:30:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
+[07Dec2024 02:02:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 02:02:58.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
