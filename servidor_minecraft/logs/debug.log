@@ -7998,3 +7998,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Dec2024 01:24:13.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 01:24:13.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 01:25:05.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 01:28:50.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 01:28:50.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 01:29:13.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:29:13.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:30:00.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PanConPez lost connection: Timed out
+[07Dec2024 01:30:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
+[07Dec2024 01:30:00.126] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: good bye PanConPez
+[07Dec2024 01:30:00.126] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: remove synced player e0971112-ebbb-3de2-97f7-5bfa3a05f289
+[07Dec2024 01:34:13.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:34:13.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
