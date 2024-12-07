@@ -113,3 +113,66 @@
 [07Dec2024 04:20:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
 [07Dec2024 04:20:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll has made the advancement [Diamonds!]
 [07Dec2024 04:23:03.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 04:29:55.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
+[07Dec2024 04:29:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[07Dec2024 04:31:05.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3mptySh3ll[/[::1]:53398] logged in with entity id 52686 at (36.51571734550294, 6.0, -86.69999998807907)
+[07Dec2024 04:31:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
+[07Dec2024 04:31:19.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: You logged in from another location
+[07Dec2024 04:31:19.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[07Dec2024 04:31:19.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3mptySh3ll[/[::1]:47572] logged in with entity id 52895 at (36.51571734550294, 6.0, -86.69999998807907)
+[07Dec2024 04:31:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
+[07Dec2024 04:31:49.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
+[07Dec2024 04:31:49.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[07Dec2024 04:31:49.495] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 04:35:08.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3mptySh3ll[/[::1]:54848] logged in with entity id 53794 at (36.51571734550294, 6.0, -86.69999998807907)
+[07Dec2024 04:35:08.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll joined the game
+[07Dec2024 04:36:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was killed
+[07Dec2024 04:36:56.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Killed KAMAIROKI]
+[07Dec2024 04:38:34.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll was killed by Necromancer's magic missile
+[07Dec2024 04:39:06.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2398.500000, -5.000000, -1435.500000]
+[07Dec2024 04:39:11.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
+[07Dec2024 04:39:28.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[07Dec2024 04:41:37.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 04:41:39.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
+[07Dec2024 04:41:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[07Dec2024 04:42:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI tried to swim in lava
+[07Dec2024 04:43:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2398.500000, -5.000000, -1435.500000]
+[07Dec2024 04:43:38.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Dec2024 04:45:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was blown up by Creeper
+[07Dec2024 04:45:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2398.500000, -5.000000, -1435.500000]
+[07Dec2024 04:45:44.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[07Dec2024 04:46:10.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 04:46:10.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 04:47:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI fell from a high place
+[07Dec2024 04:47:48.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2396.500000, -46.000000, -1360.500000]
+[07Dec2024 04:47:54.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Dec2024 04:48:47.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was slain by Brainiac
+[07Dec2024 04:49:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2365.500000, -46.000000, -1412.500000]
+[07Dec2024 04:49:06.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[07Dec2024 04:49:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Crisis Adverted]
+[07Dec2024 04:51:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI was slain by Spider
+[07Dec2024 04:51:49.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 04:51:49.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 04:53:28.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crying0bsidian[/[::1]:55688] logged in with entity id 62242 at (-15.498127278319982, 60.0, 120.58042598930228)
+[07Dec2024 04:53:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crying0bsidian joined the game
+[07Dec2024 04:53:53.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tr3sCu4tro[/[::1]:47832] logged in with entity id 62293 at (6509.300000011921, 86.0, 1469.699999988079)
+[07Dec2024 04:53:53.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tr3sCu4tro joined the game
+[07Dec2024 04:53:55.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KAMAIROKI moved too quickly! 9.41578710885486,0.0,3.8443683030318994
+[07Dec2024 04:53:55.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[07Dec2024 04:54:12.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[07Dec2024 04:54:13.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Dec2024 04:54:15.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Dec2024 04:54:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tr3sCu4tro: Teleported Tr3sCu4tro to Crying0bsidian]
+[07Dec2024 04:54:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> Oe bobeas encontraron ayer la dungeon de desierto?
+[07Dec2024 04:55:04.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> que cosa
+[07Dec2024 04:55:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> serio?
+[07Dec2024 04:55:17.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> para que
+[07Dec2024 04:55:56.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KAMAIROKI: Teleported KAMAIROKI to 2373.500000, -46.000000, -1414.500000]
+[07Dec2024 04:56:04.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[07Dec2024 04:56:05.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> tienen las coordenadas?
+[07Dec2024 04:56:09.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tr3sCu4tro moved too quickly! 0.6449636024010807,-2.8448079378887883,-10.102311674374477
+[07Dec2024 04:56:21.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[07Dec2024 04:56:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tr3sCu4tro> crece solo
+[07Dec2024 04:57:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KAMAIROKI has made the advancement [Ghost! Ghost! Toast?]
+[07Dec2024 04:58:31.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 04:58:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
