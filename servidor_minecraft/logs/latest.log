@@ -32,3 +32,6 @@
 [07Dec2024 01:30:00.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez left the game
 [07Dec2024 02:02:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [07Dec2024 02:02:58.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 02:06:29.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74d965b2[id=<null>,name=SubPhoenix0304,properties={},legacy=false] (/[::1]:42866) lost connection: Timed out
+[07Dec2024 02:06:36.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SubPhoenix0304[/[::1]:56964] logged in with entity id 34403 at (651.0913541869387, -33.0, 825.5766241008176)
+[07Dec2024 02:06:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SubPhoenix0304 joined the game
