@@ -3705,12 +3705,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_grottoceratops": "2024-12-06 09:13:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-06 09:02:35 +0000"
@@ -3723,9 +3717,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "alexscaves:alexscaves/limestone": {
     "criteria": {
-      "has_spider_eye": "2024-12-06 09:15:36 +0000"
+      "limestone": "2024-12-06 09:12:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2024-12-06 09:13:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-06 09:13:20 +0000"
     },
     "done": true
   },
@@ -3735,15 +3741,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "limestone": "2024-12-06 09:12:15 +0000"
+      "has_spider_eye": "2024-12-06 09:15:36 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "roost2:ohhh_thats_what_its_used_for": {
     "criteria": {
-      "killed_grottoceratops": "2024-12-06 09:13:20 +0000"
+      "ohhh_thats_what_its_used_for_0": "2024-12-07 04:11:24 +0000"
     },
     "done": true
   },
