@@ -22,3 +22,7 @@
 [07Dec2024 00:54:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez joined the game
 [07Dec2024 00:59:28.066] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07Dec2024 01:08:03.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 01:16:47.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 01:16:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[07Dec2024 01:18:34.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[07Dec2024 01:25:05.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
