@@ -18,3 +18,5 @@
 [07Dec2024 00:39:41.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [07Dec2024 00:42:12.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3mptySh3ll lost connection: Timed out
 [07Dec2024 00:42:12.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3mptySh3ll left the game
+[07Dec2024 00:54:41.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PanConPez[/[::1]:58616] logged in with entity id 28981 at (190.70745316350303, 121.0, 286.92733285409)
+[07Dec2024 00:54:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PanConPez joined the game
